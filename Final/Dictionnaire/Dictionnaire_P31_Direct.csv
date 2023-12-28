@@ -1,0 +1,1700 @@
+id;Balise_Mere;title;label ;propriete de;aspect de;discipline;count
+Q7493941;;abri;bâtiment rudimentaire permettant de se protéger des intempéries ou de menaces extérieures;{Q811979, Q108147624};null;null;1
+Q1065579;PRODUIT;accessoire de mode;type de vêtement;{Q11460, Q362200};null;null;2
+Q101244;;acronyme;nom constitué des premières lettres de mots consécutifs;{Q102786};null;null;2
+Q740464;JUSTICE;acte de droit;acte juridique normatif ayant force de loi d'intérêt général dans la région où il est proclamé ou promulgué;{Q846882, Q1864008, Q1572600, Q49848, Q3150005, Q17537576};null;null;1
+Q1864008;JUSTICE;acte juridique;acte visant à la création d'une conséquence juridique, une activité légale;{Q2135540, Q1856757, Q15621286, Q451967};null;null;1
+Q451967;;action;activité humaine basée sur un motif quelconque;{Q61788060};null;Q7748;2
+Q4026292;;action;ce qui peut être fait par un agent;{Q1190554};null;Q175661;1
+Q1914636;TRAVAIL;activité;action de faire quelque chose;{Q4026292, Q20937557};null;null;45
+Q8187769;TRAVAIL;activité économique;type d'activité humaine;{Q451967, Q12737077};null;null;9
+Q61788060;TRAVAIL;activité humaine;type d'áctivité;{Q1914636, Q3769299};null;null;2
+Q131790;PRODUIT;adhésif;matériau qui permet de faire adhérer entre eux des objets;{Q1726215};null;null;1
+Q34698;LINGUISTIQUE;adjectif;en grammaire, mot qui décrit la qualité ou la propriété d'un nom;{Q8171, Q503992};null;null;1
+Q21281706;;administrateur académique;Pas de descriptions;{Q599151, Q5428874, Q2920921};null;null;1
+Q1124198;EE;affection;émotion associée à un sentiment ou type d'amour;{Q205555};null;null;1
+Q785260;CREATURE;âge de la vie;Pas de descriptions;{Q20056177};null;null;6
+Q327333;;agence publique;entité publique autonome chargée de la réalisation d'une mission d'intérêt général;{Q2659904, Q783794};null;null;1
+Q1415187;;agent économique;personne physique ou morale prenant des décisions d'ordre économique;{Q24229398, Q830077};null;null;1
+Q3622002;TOPONYMIE;aire géographique;Pas de descriptions;{Q82794};null;null;1
+Q482994;MUSIQUE;album;ensemble de titres d'un artiste;{Q108346082, Q49017950};null;null;55
+Q2831984;;album de bande dessinée;livre contenant une ou plusieurs bandes dessinées;{Q571, Q1004, Q14406742};null;null;13
+Q101497;;aldéhyde;Composé organique;{Q9392635};null;null;3
+Q335268;;alkyle;groupe univalent dérivé des alcanes;{Q10400865};null;null;2
+Q18535;;allégorie;forme de représentation indirecte;{Q843227, Q182545};null;null;1
+Q37756;;alliage;produit métallurgique;{Q169336, Q5447188, Q1924900};null;null;1
+Q518350;;alliage de cuivre;alliage contenant majoritairement du cuivre;{Q37756};null;null;2
+Q954007;;alliance;Pas de descriptions;{Q11666901};null;null;3
+Q1127126;;alliance militaire;type d'alliance;{Q878249, Q17149090};null;null;2
+Q754659;;allure;façon que le cheval a de se déplacer;{Q2370000};null;null;2
+Q9779;LINGUISTIQUE;alphabet;ensemble des lettres;{Q8192, Q28813620, Q4563817};null;null;1
+Q816335;;altération;modification de la hauteur initiale d'une note;{Q263478};null;null;3
+Q2266426;;altération visuelle;Pas de descriptions;{Q767669};null;null;1
+Q420401;;ammonium quaternaire;Pas de descriptions;{Q74244141};null;null;1
+Q23702035;;ancien parti politique libéral;type de parti politique libéral;{Q23702026, Q40482169};null;null;1
+Q22670030;;ancienne région française;ancienne collectivité territoriale française;{Q36784, Q19953632};null;null;1
+Q2534228;;ancienne unité de longueur;Pas de descriptions;{Q1978718, Q28607529};null;null;4
+Q581450;CREATURE;ange déchu;ange exilé ou banni du Paradis;{Q690175, Q10822464, Q1266031};null;null;1
+Q450539;;angle de prise de vue;Pas de descriptions;{Q2252759};null;null;1
+Q622852;CREATURE;animal domestique;Pas de descriptions;{Q729};null;null;1
+Q350945;CREATURE;animal héraldique;représentation des animaux sur les armoiries et autres motifs héraldiques;{Q3744880, Q80071};null;null;1
+Q756230;;annuaire;liste ordonnée de références régulièrement mise à jour;{Q228502, Q1220872};null;null;1
+Q506674;;antimilitarisme;idéologie qui s'oppose au militarisme;{Q58848};Q794691;null;1
+Q102090;;Apaches;tribus amérindiennes d'Amérique du Nord;{Q36747};null;null;1
+Q1183543;PRODUIT;appareil;équipement complexe, tel qu'un moteur ou qui fonctionne par l'électricité ou une autre source d'énergie qu'il convertit;{Q10273457, Q39546, Q16686448};null;null;5
+Q1780509;PRODUIT;appareil de communication;Pas de descriptions;{Q1183543, Q10273457};null;null;1
+Q2858615;PRODUIT;appareil électronique;objet qui peut effectuer une ou des tâches en traitant des informations codées sous la forme de signaux électriques;{Q11019, Q2425052};null;null;1
+Q1273786;PRODUIT;appareillage électrique;ensemble du matériel permettant la mise sous ou hors tension des portions d'un réseau électrique;{Q11660269};Q5320;null;1
+Q1565828;;appellation d'origine contrôlée;label officiel français de protection d'un produit lié à son origine géographique et à certaines caractéristiques de fabrication;{Q13439060};Q325668;null;1
+Q166142;;application;programme informatique qui a pour objectif de résoudre un problème spécifique.;{Q7397};null;null;1
+Q1347367;;aptitude;pouvoir de réaliser ou de produire quelque chose;{Q1207505};null;null;4
+Q131714;;archétype;modèle général représentatif d'un sujet;{Q21146257};null;null;1
+Q4070702;;archétype littéraire;ensemble d'éléments récurrents dans le récit, symboles, images et types de personnages dans les œuvres narratives;{Q131714};null;null;2
+Q33837;;archipel;groupe d'iles;{Q205895, Q1402592};null;null;2
+Q26382;;arête;ligne d'intersection de deux surfaces;{Q166154, Q747980};null;null;1
+Q3462602;;argot;sociolecte (souvent secret) par lequel l'individu affiche son appartenance au groupe;{Q33005, Q33215};null;null;1
+Q8102;;argot;registre de langue ou parler particulier à un groupe social;{Q207101, Q6499736};null;null;1
+Q728;;arme;dispositif destiné à neutraliser, blesser ou tuer un être vivant, ou à causer une destruction matérielle;{Q39546, Q18643213};null;null;2
+Q663208;;Arrondi;valeur approchée d'un nombre;{Q3884033};null;null;1
+Q408804;TOPONYMIE;arrondissement;subdivisions territoriales de la ville de New York;{Q47682, Q4946305, Q2983893};null;null;1
+Q735;;art;activité et concept;{Q1914636, Q2018526, Q184872, Q3249551};null;Q50637;1
+Q11417;;art martial;discipline de combat;{Q7128792};null;null;2
+Q220659;;artéfact archéologique;chose faite par l'homme et d'intérêt archéologique;{Q1791627, Q10855061};null;null;1
+Q1791627;COMPOSANTS;artéfact culturel;Pas de descriptions;{Q8205328, Q210272};null;null;1
+Q9655;;artère;vaisseau qui conduit le sang du cœur aux autres tissus de l'organisme;{Q66392784};null;null;1
+Q708176;;arthropathie;terme générique pour toutes les maladies des joints;{Q18967642, Q4941552};null;null;1
+Q5707594;;article de presse;article publié dans le journal;{Q191067, Q38926};null;null;1
+Q21484471;;article de Wikipedia couvrant plusieurs sujets;type d'article de Wikipedia;{Q50081413, Q14946528};null;null;4
+Q10528974;;article d'hygiène personnelle;Pas de descriptions;{Q2424752};null;null;5
+Q9644;;articulation;jonction entre deux os;{Q66561296, Q109321311};null;null;1
+Q372923;;articulation;art d'imiter les inflexions de la voix humaine, dans la pratique d'un instrument de musique;{Q1639408};null;null;2
+Q877729;;artisanat;production de produits ou services grâce à un savoir-faire particulier et hors contexte industriel;{Q1914636, Q29028649, Q2207288};null;null;1
+Q810592;;artisanat d'art;Pas de descriptions;{Q1914636};null;null;1
+Q74817647;;aspect dans une région géographique;type d'aspect, thématique déclinée géographiquement;{Q21040055, Q20136634};Q82794;null;1
+Q17524420;;aspect de l'histoire;sujet vu d'un point de vue historique;{Q21040055, Q1047113};null;Q1066186;1
+Q10553309;;assemblée législative;assemblée délibérante faisant partie d'une législature;{Q1752346, Q15708736};null;null;1
+Q57216;;assiette;pièce de vaisselle qui permet de contenir et de servir des mets;{Q99513137};null;null;1
+Q48204;;association;groupement de personnes physiques et / ou morales volontaire à long terme et stable pour répondre à un but précis;{Q79913, Q15911314};null;null;1
+Q15911314;ENTITE;association;type d'organisation formé par un groupe d'individus (personnes physiques) ou des entités (personnes morales) de toutes sortes;{Q43229, Q16334295, Q16887380, Q24229398};null;null;1
+Q9262;;astérisme;figure remarquable dessinée par des étoiles particulièrement brillantes;{Q6999};null;null;1
+Q622645;;attitude;état d'esprit d'un sujet vis-à-vis d'un autre objet;{Q1149305, Q3962655};null;null;2
+Q25413611;;attribut;accessoire symbolique d'un dieu dans une mythologie;{Q80071, Q109244978};Q9134;null;1
+Q44476427;;attribut médical;Pas de descriptions;{Q2722260, Q937228, Q18208034};null;null;1
+Q174834;;autorité;pouvoir de commander;{Q25107, Q780687};null;null;1
+Q610548;;baby boom;augmentation importante de la natalité dans certains pays;{Q11514315, Q595523};null;null;1
+Q13184;;baie;type de fruit charnu, en général indéhiscent et contenant une ou plusieurs graines;{Q15197056};null;null;1
+Q1004;;bande dessinée;art consistant à raconter une histoire avec des dessins;{Q4502142, Q7725634, Q7452501, Q1318295};null;null;4
+Q4335775;;bande organisée;notion de droit pénal;{Q275186, Q1788992};null;null;1
+Q101696002;;Bande organisée;chanson de 13'Organisé, sortie en 2020;{null};null;null;1
+Q1789476;;base de données bibliographiques;Pas de descriptions;{Q1865123, Q2352616, Q59156132};null;null;1
+Q245016;TOPONYMIE;base militaire;site voué aux besoins des armées et géré par les militaires;{Q18691599};null;null;2
+Q41176;TOPONYMIE;bâtiment;construction immobilière, réalisée par intervention humaine;{Q811979, Q13226383};null;null;3
+Q2519340;TOPONYMIE;bâtiment administratif;bâtiment abritant les bureaux d'une société ou d'une administration;{Q1021645};null;null;1
+Q24398318;TOPONYMIE;bâtiment religieux;Pas de descriptions;{Q21029893, Q41176, Q1370598};null;null;1
+Q1244442;TOPONYMIE;bâtiment scolaire;bâtiment abritant ou ayant abrité une école;{Q41176, Q13226383};null;null;2
+Q190258;ECONOMIE;besoin;travail;{Q2301186};null;null;1
+Q29642950;2D;bibliothèque logicielle Python;Pas de descriptions;{Q188860, Q1995545, Q165194};null;null;1
+Q23712;;bien d'intérêt culturel;monument historique en Espagne;{Q45580643, Q3816953, Q358, Q2065736};null;null;1
+Q10494269;;Bien immeuble;catégorie juridique;{Q1400881, Q27096235};null;null;1
+Q44;;bière;boisson alcoolisée;{Q154, Q169336};null;null;1
+Q886837;;bilan sanguin;analyse de biologie médicale;{Q2709468, Q217602};null;null;1
+Q101998;;biome;ensemble d'écosystèmes caractéristique d'une aire biogéographique;{Q107425, Q30336093};null;null;7
+Q13270;;biscuit;petit gâteau sec;{Q13266, Q2095};null;null;2
+Q40050;PRODUIT;boisson;liquide destiné à la consommation;{Q11435, Q2095};null;null;2
+Q154;;boisson alcoolisée;boisson contenant de l'alcool éthylique;{Q40050};null;null;1
+Q830382;;bonne pratique;méthode généralement reconnue pour la qualité de ses résultats;{Q1799072, Q28520605, Q30028999};Q757012;null;1
+Q3957;;bourgade;agglomération urbanisée plus petite qu'une ville mais plus grande qu'un bourg (un grand village);{Q486972, Q702492, Q7930989};null;null;3
+Q28598684;BIOLOGIE;branche de la biologie;type de discipline scientifique;{Q2465832};null;null;10
+Q11790203;CHIMIE;branche de la chimie;Pas de descriptions;{Q2465832};Q2329;null;3
+Q19935939;GEOGRAPHIE;branche de la géographie;Pas de descriptions;{Q11862829};null;null;1
+Q87058424;GEOLOGIE;branche de la géologie;Pas de descriptions;{Q2465832, Q11862829};null;null;1
+Q22811234;PHILOSOPHIE;branche de la philosophie;type de branche;{Q11862829};null;null;4
+Q4162444;PHYSIQUE;branche de la physique;sous-domaine d'étude de la physique;{Q2465832};null;null;10
+Q60031086;SCIENCES;branche de la pseudoscience;métaclasse de premier ordre;{Q1047113};null;null;4
+Q60680430;PSYCOLOGIE;branche de la psychologie;Pas de descriptions;{Q2465832, Q1047113, Q11862829, Q2267705};null;null;2
+Q60310061;THEOLOGIE;branche de la théologie;type de discipline académique;{Q11862829};null;null;1
+Q99397804;ZOOLOGIE;branche de la zoologie;sous-champ de l'étude de la zoologie;{Q28598684};Q431;null;6
+Q1936384;MATHEMATIQUE;branche des mathématiques;description des différentes catégories de mathématiques;{Q11862829, Q2465832};null;null;5
+Q690109;JUSTICE;branche du service;ensemble de toutes les forces militaires au sein de l'unité d'organisation de l'armée;{Q37726};null;null;3
+Q268592;ECONOMIE;branche économique;groupe d'entreprises qui fabriquent des produits similaires à proximité;{Q58778};null;null;13
+Q726870;;brick and mortar;désigne une entreprise de vente traditionnelle ayant pignon sur rue;{Q4830453, Q6881511};null;null;1
+Q131401;;califat;territoire sous l'autorité d'un calife;{Q4204060, Q1250464};null;null;1
+Q2934676;;cambion;être imaginaire;{Q6549417};null;null;1
+Q1070290;;camp de prisonniers de guerre;lieu de détention des combattants ennemis en temps de guerre;{Q40357};null;null;2
+Q831663;;campagne militaire;opération militaire à grande échelle, de longue durée et significative sur le plan stratégique;{Q645883, Q149377, Q18812548, Q180684};null;null;1
+Q5119;TOPONYMIE;capitale;ville où siège le pouvoir d'un pays;{Q486972, Q2097994};null;null;3
+Q3241972;DATA;caractère;symbole ou signe;{Q80071, Q3695082};null;null;2
+Q366773;EE;caractère;manière dont une personne réagit habituellement dans une situation donnée;{Q2393196};null;Q997006;1
+Q128234;LINGUISTIQUE;cas grammatical;Pas de descriptions;{Q980357};null;null;4
+Q13698;JEU;casse-tête;type de jeu;{Q11410};null;null;1
+Q38033430;;catégorie d'une distinction;grade ou catégorie d'un prix (ordre, medal, etc.);{Q16889133, Q618779};null;null;1
+Q2305862;CIVILISATION;catégorie sociale;ensemble d'individus ayant des caractéristiques démographiques socialement pertinents et particulièrement importantes communes;{Q851990};null;null;1
+Q27949697;;cause de la dépréciation sur Wikidata;utilisé par P2241;{Q21281405};Q73737357;null;6
+Q1931388;MEDECINE;cause du décès;origine du décès d'une personne;{Q179289};null;null;9
+Q94920;;célébration dans le judaïsme;Pas de descriptions;{Q375011};null;null;1
+Q498162;;census-designated place;zone délimitée par le Bureau du recensement des États-Unis à des fins statistiques;{Q17343829, Q15042037, Q3389680, Q486972, Q2221906};null;null;2
+Q11315;;centre commercial;bâtiment comprenant sous un même toit des commerces de détail logés dans des galeries couvertes;{Q18760388, Q39659371};null;null;1
+Q958314;;cépage;type de plant de vigne caractérisé;{Q3248828, Q4886};null;null;11
+Q705914;;certificat;document légal;{Q327197, Q49848, Q11028};null;null;1
+Q46831;TOPONYMIE;chaîne de montagnes;relief d'altitude rassemblant plusieurs montagnes, sommets, pics, monts et autres aiguilles;{Q271669};null;null;4
+Q2001305;;chaîne de télévision;organisme diffusant des programmes télévisés;{Q733553};null;null;2
+Q375928;;chambre basse;chambre d'un parlement bicaméral;{Q10553309};null;null;1
+Q1150070;;changement;décrit les processus, les événements ou actions qui s'écartent du statu quo;{Q1190554};null;null;1
+Q7366;;chanson;œuvre musicale composée d'un texte et d'une mélodie;{Q7725634, Q207628, Q685884};null;null;3
+Q63141557;;chanson traduite;chanson traduite ou adapté par rapport à la version originale;{Q7366, Q39811647, Q836950, Q107528122};null;null;2
+Q17279032;;charge élective;Pas de descriptions;{Q294414, Q11997597, Q103838820};Q188759;null;1
+Q197811;;chariot hippomobile;Pas de descriptions;{Q1112950};null;null;1
+Q27120684;;chat de fiction;Pas de descriptions;{Q15831457};null;null;1
+Q23413;;château fort;demeure seigneuriale fortifiée;{Q57821};null;Q2941393;2
+Q305;;châtiment corporel;forme de punition où une douleur physique est infligée à une personne;{Q186361};null;null;1
+Q956214;;chef-lieu;ville administrativement prééminente dans une division territoriale de certains pays;{Q1306755, Q470540};null;null;1
+Q726;;cheval;grand mammifère herbivore et ongulé;{Q165115, Q57814795};null;Q1157006;1
+Q2962925;;cheval de fiction;cheval issu d'une œuvre de fiction;{Q27303980};null;null;1
+Q2280977;;chien de l'enfer;chien surnaturel aparaissant dans divers folklores et mythologies;{Q30307328};null;null;1
+Q1387388;;chimère;Pas de descriptions;{Q2239243, Q6549417};null;null;2
+Q39614;;cimetière;lieu où l'on enterre les morts;{Q1497375, Q12131650, Q13226383, Q811979};Q4;Q4316669;1
+Q846659;;cimetière juif;lieu où sont enterrés les morts juifs;{Q39614};null;null;1
+Q229390;FILM;cinéma en relief;Pas de descriptions;{Q11424};null;null;1
+Q2438541;;circonstances du décès;Pas de descriptions;{Q1931388};null;null;3
+Q1815901;;circuit électronique;ensemble de composants électroniques interconnectés;{Q132629, Q2424752};null;null;1
+Q124695;ELEMENTS;cire;Substance chimique dont les propriétés sont similaires à celles de la cire d'abeille.;{Q79529, Q214609};null;null;1
+Q15661340;VILLE;cité antique;type de cité perdue;{Q515};null;null;4
+Q1093829;;city;type administratif de municipalité au niveau d'un gouvernement local aux États-Unis;{Q3327870, Q515};null;null;4
+Q8432;;civilisation;état d'évolution d'une société;{Q8425};Q1156970;null;3
+Q713623;;clade;groupe d'organismes monophylétiques composé d'un ancêtre commun et de tous ses descendants linéaires;{Q16521};null;null;1
+Q56256173;ELEMENTS;classe de composés chimiques avec des applications ou fonctions similaires;métaclasse de deuxième ordre;{Q100434640};null;null;8
+Q28923954;;classe de languoïde;par exemple dialecte, langue, macrolangue, sous-famille, ou super-famille de langues ;{Q4120621};null;Q8162;5
+Q20027951;;classe de puissance d'avion;Pas de descriptions;{Q1875621};null;null;1
+Q100434640;;classe de substances chimique par usage;Pas de descriptions;{Q17339814};null;null;5
+Q55983715;CREATURE;classe d'organismes connu par un nom commun;Pas de descriptions;{Q21871294};null;null;125
+Q20027953;;classe fonctionnelle des aéronefs;Pas de descriptions;{Q1875621};null;null;1
+Q2976049;;classe pharmacologique;catégorie de médicaments utilisée afin de classer un médicament selon certains critères;{Q16889133};null;null;1
+Q55499636;;classe pharmacologique de composés chimiques;Pas de descriptions;{Q17339814};null;null;1
+Q187588;CIVILISATION;classe sociale;Pas de descriptions;{Q874405, Q841628};null;Q21201;11
+Q47154513;ELEMENTS;classe structurale de composés chimiques;classification;{Q17339814};null;null;52
+Q15831325;;classe utilisée dans la Classification Décimale Universelle;Pas de descriptions;{Q16889133};null;null;1
+Q836985;;classification des automobiles;système de classification spécialisé;{Q12060681};null;null;1
+Q98966309;;classification des établissements humains;Pas de descriptions;{Q5962346};Q486972;null;3
+Q28094186;;client XMPP;Pas de descriptions;{Q2462003};null;null;1
+Q476028;;club de football;club sportif dédié au football;{Q17270000};null;null;1
+Q6138528;;coalition politique;union entre plusieurs partis politiques;{Q60170135, Q124964};null;null;1
+Q2894814;;cocktail à base de vin;Pas de descriptions;{Q134768};null;null;1
+Q2536409;;cocktail officiel de l'IBA;Pas de descriptions;{Q134768};null;null;3
+Q188889;;code;système de règles pour la conversion d'informations (codification);{Q3695082, Q1783551};null;null;1
+Q2119819;;code de conduite;Pas de descriptions;{Q1151067, Q49848};Q730573;null;2
+Q1300162;;code d'honneur académique;Pas de descriptions;{Q1151067};Q207333;null;1
+Q922203;;code juridique;compilation organisée de textes législatifs et/ou réglementaires;{Q49371, Q571, Q1614239};null;null;2
+Q327496;MODE;coiffure;art d'arranger les cheveux;{Q207961};null;null;10
+Q867242;;collectif de bande dessinée;publication (périodique ou non) contenant des bandes dessinées réalisées par plusieurs auteurs;{Q41298, Q1760610, Q105420};null;null;1
+Q2668072;;collection;ensemble d'objets collectés selon certaines caractéristiques communes (devrait être qualifié avec P642 pour plus de précision);{Q16686448, Q16887380, Q386724, Q223557};null;null;1
+Q2608849;;collection;nom de marque d'un éditeur;{Q1417728, Q2085381};Q16023725;null;1
+Q12051052;;collectionner (activité);sorte de passe-temps;{Q47728};null;null;1
+Q54050;;colline;relief généralement modéré et relativement peu étendu;{Q2221906, Q271669};null;Q52109;3
+Q3573632;;comarque historique du Roussillon;Pas de descriptions;{Q19953632};null;null;1
+Q133235;;combustion;réaction chimique exothermique;{Q82682, Q205949};Q209233;null;1
+Q838795;LITTÉRATURE;comic strip;bande dessinée de quelques cases;{Q1004};null;null;2
+Q1497090;;commandement;règle éthique ou religieuse;{Q216200};null;null;1
+Q10742;;communauté autonome d’Espagne;premier niveau de division administrative et politique d'Espagne;{Q3183364, Q1048835, Q10864048, Q17147642};null;null;1
+Q2742167;;communauté religieuse;Pas de descriptions;{Q43229, Q177634};null;null;1
+Q666943;;commune associée;statut administratif français d'une subdivision communale ayant conservé une certaine autonomie au sein d'une plus grande commune formée par fusion-association et non par fusion simple.;{Q192498, Q19730508};null;null;1
+Q15273785;;commune belge avec titre de ville;Pas de descriptions;{Q493522, Q515};null;null;2
+Q262166;TOPONYMIE;commune d'Allemagne;division administrative allemande;{Q11618417, Q387917, Q15284, Q14757767};null;null;4
+Q493522;TOPONYMIE;commune de Belgique;division administrative de la Belgique;{Q15623264, Q3266850, Q11618417, Q14757767, Q15284};null;null;4
+Q33146843;;commune de Catalogne;Pas de descriptions;{Q2074737, Q11917457};null;null;3
+Q484170;TOPONYMIE;commune de France;type de division administrative française pour les municipalités;{Q583865, Q11618417, Q15284, Q14757767, Q15640612, Q3266850, Q192611, Q486972};null;null;236
+Q2590631;;commune de Hongrie;type de division administrative de Hongrie;{Q532, Q14502790};null;null;2
+Q70208;TOPONYMIE;commune de Suisse;division administrative suisse;{Q7631075, Q13220204, Q11618417, Q2101494};null;null;8
+Q21869758;;commune déléguée;statut administratif français;{Q192498, Q19730508, Q15640612};null;null;3
+Q2039348;;commune des Pays-Bas;subdivision administrative des Pays-Bas;{Q11618417, Q15042137, Q13220204, Q15284, Q192611};null;null;2
+Q747074;TOPONYMIE;commune d'Italie;subdivision administrative d'Italie;{Q13221722, Q2824645, Q15284};null;null;17
+Q3685462;;commune haïtienne;Pas de descriptions;{Q1779026, Q1907114, Q3266850};null;null;2
+Q783794;;compagnie;association de personnes individuelles réelles et/ou d'autres sociétés;{Q43229, Q3778211};null;Q8134;1
+Q2393314;;compagnie de danse;groupe de danseurs;{Q742421};null;null;1
+Q1497364;;complexe immobilier;groupe de plusieurs bâtiments;{Q811979, Q1497375};null;null;1
+Q22325163;;complexe macromoléculaire;Pas de descriptions;{Q5058355, Q726004};null;null;1
+Q420927;;complexe protéique;complexe macromoléculaire composé d'au moins deux polypeptides;{Q22325163, Q8054, Q66560214, Q107434516};null;null;1
+Q9332;EE;comportement;actions d'un être vivant;{Q1914636};null;Q3919817;4
+Q14819856;;comportement alimentaire;façon dont un organisme peut se nourrir;{Q2990593};null;null;1
+Q2990593;COMPORTEMENT;comportement animal;ensemble des activités de l'animal qui se manifeste à un observateur extérieur;{Q9332, Q2996394};null;Q7155;1
+Q3769299;EE;comportement humain;variétés de comportements manifestés par les humains;{Q9332};Q5;Q9418;4
+Q2110808;COMPORTEMENT;comportement religieux;Pas de descriptions;{Q9332};null;null;1
+Q608;;comportement sexuel humain;étude sur les aspects purement physique de la sexualité humaine;{Q107289510, Q1190058};Q154136;null;3
+Q1310239;;composant;type de partie;{Q15989253, Q337060};null;null;1
+Q28845870;;composant biologique;Pas de descriptions;{Q1310239, Q16686022};null;null;1
+Q5058355;COMPOSANTS;composant cellulaire;type de composant;{Q105286124, Q66557947};null;null;10
+Q839546;;composant de machine;composants élémentaires d'une machine;{Q811909, Q66310125, Q8205328};null;null;1
+Q5156698;;composant de moteur à combustion interne;Pas de descriptions;{Q839546, Q66310125};null;null;1
+Q64578669;;composant de véhicule;composant de véhicule (à moteur);{Q811909};null;null;1
+Q811909;COMPOSANTS;composant technologique;composant fondamental d'un appareil ou d'une machine, qui participe au mécanisme plutôt qu'à l'habillage;{Q1310239, Q16686448};null;null;5
+Q11173;ELEMENTS;composé chimique;substance chimique pure composée d’atomes de deux ou plus éléments chimiques différents;{Q578779, Q20026787};null;Q2329;102
+Q174211;;composé organique;type de composé chimique;{Q2901852};null;Q11351;2
+Q46744;;compréhension;aptitude à appréhender un objet;{Q1347367, Q54989186};null;null;1
+Q1138494;;comté traditionnel d'Angleterre;page de liste de Wikipédia;{Q171809, Q67376938};null;null;1
+Q151885;;concept;représentation générale et abstraite de la réalité d'un objet, d'une situation ou d'un phénomène;{Q2145290, Q7184903, Q1347367};null;null;55
+Q29028649;ECONOMIE;concept économique;concept utilisé en science économique;{Q151885};Q8134;null;9
+Q21550639;;concept géométrique;Pas de descriptions;{Q24034552};null;Q8087;2
+Q24457356;;concept historiographique;classe de concepts utilisés dans l'étude de l'histoire distincte de l'histoire elle-même;{Q151885};null;null;1
+Q2135465;JUSTICE;concept juridique;type de terme;{Q151885, Q76419834};null;null;16
+Q24034552;MATHEMATIQUE;concept mathématique;entité abstraite liée aux mathématiques;{Q151885};null;Q395;8
+Q33104279;PHILOSOPHIE;concept philosophique;terme philosophique pour un contenu de signification;{Q151885};Q5891;null;28
+Q33104069;;concept politique;type de concept;{Q151885};Q7163;Q36442;2
+Q23847174;RELIGION;concept religieux;type de concept;{Q151885};Q9174;null;23
+Q33104129;;concept sociologique;type de concept;{Q151885};Q21201;null;3
+Q49447;;conception du monde;conception du monde de chacun selon sa sensibilité particulière;{Q131841, Q12558574};null;null;7
+Q2596997;;condiment;substance ajoutée à la nourriture pour en améliorer le goût;{Q2095, Q25416091, Q189567};null;null;1
+Q813912;;condition;état ou circonstances d'un objet ou d'un événement;{Q3505845};null;Q5891;3
+Q7189713;;condition physiologique;type de condition;{Q3505845};null;Q521;4
+Q309252;;condition physique;fait d'être physiquement en forme;{Q7981051, Q32090, Q60389878};Q12147;Q103961937;1
+Q2992500;;configuration d'aile;Pas de descriptions;{Q36993249};Q20078304;null;1
+Q14946528;;confusion;cause de la dépréciation sur Wikidata;{Q29485, Q17853087};null;null;1
+Q1384677;;congrégation religieuse;Pas de descriptions;{Q5135744};null;null;1
+Q10862338;;connaissance scientifique;Pas de descriptions;{Q9081};null;null;1
+Q231043;;consentement;Pas de descriptions;{Q451967, Q628523, Q7169333};null;null;1
+Q8928;;constellation;groupe d'étoiles voisines sur la sphère céleste, présentant une figure conventionnelle déterminée, à laquelle on a donné un nom particulier;{Q6999, Q9262};null;null;2
+Q786820;;constructeur automobile;entreprise ou personne produisant des voitures;{Q6881511, Q13235160};null;null;1
+Q15081030;;constructeur motocycle;fabricant de motos ou scooters;{Q786820};null;null;1
+Q385378;;construction;processus d'assemblage ou de fabrication d'un bâtiment ou d'une infrastructure;{Q7406919, Q451967, Q10843872, Q732298, Q11398090};Q811979;Q11023;1
+Q2995263;;Construction d'une motocyclette;Les parties ou pièces d'une motocyclette;{Q46765731};null;null;2
+Q1474213;;construction grammaticale;Pas de descriptions;{Q184754, Q980357};null;null;1
+Q1221280;;conte populaire;conte traditionnellement convoyé par l'oral;{Q7832362, Q17991521};null;null;1
+Q732177;;contenant sacré;Pas de descriptions;{Q56612157, Q21818579};null;null;2
+Q215844;;continuum linguistique;Pas de descriptions;{Q17376908};null;null;1
+Q122224;;contraception;acte, dispositif ou médicament destiné à prévenir la formation d'un embryon;{Q1280670};null;null;1
+Q694324;;contravention;infractions punies de peines d'amende;{Q1456832};null;null;2
+Q931652;;convection atmosphérique;Cellules Convectionnelles;{Q160329};Q25261;null;3
+Q22664;;coordonnées géographiques;système de localisation terrestre;{Q11210};null;null;2
+Q31029;;corde;corps long, flexible, résistant, rond, composé de fils tortillés;{Q320809, Q11064354, Q17144541, Q28823};null;null;1
+Q170161;;corporation;sociétés d'artisan au Moyen Âge;{Q431603};null;null;1
+Q2512777;;corps simple;substance constituée d'un seul élément chimique;{Q578779};null;null;1
+Q2257348;;correcteur grammatical;programme informatique qui vérifie la conformité d'un texte aux règles de grammaire et de la sémantique;{Q40056};null;null;1
+Q131207;ELEMENTS;cosmétique;traitement destiné à améliorer l'esthétique humaine;{Q79529, Q2424752, Q2114846};Q2474068;null;1
+Q15830292;;costume ecclésiastique;vêtement liturgique de l'Église catholique;{Q19978874, Q1405615};null;null;1
+Q3172759;;costume traditionnel;costume caractéristique d'une région, une ville, un pays;{Q28854784, Q9053464, Q109810467};null;Q105812644;1
+Q683363;;cotre;gréement de bateau à voile;{Q11446};null;null;2
+Q29653271;;couche de l'atmosphère;Pas de descriptions;{Q23497981};null;null;5
+Q1075;PHYSIQUE;couleur;perception subjective par l'œil d'une ou plusieurs longueurs d'ondes lumineuses;{Q40890790, Q14506045, Q1207505};null;Q14620;17
+Q3404720;COULEUR;couleur;attribut coloré d'un champ ou d'un fond en héraldique;{Q1075, Q834104};null;null;1
+Q1048314;COULEUR;couleur des cheveux;pigmentation colorée des capillaires;{Q1075, Q105096490};null;Q105582462;1
+Q20986771;;coumarines;Pas de descriptions;{Q59078, Q417181, Q73354048};null;null;1
+Q1357964;;county town;Pas de descriptions;{Q3957, Q1306755};null;null;1
+Q1973927;;coup de poing;coup porté avec la main fermée;{Q1297428, Q124490};null;null;1
+Q190752;;cour suprême;haute juridiction dans certains systèmes juridiques;{Q4959031};Q5167661;null;1
+Q47521;;courant d'eau;mouvement de masse d'eau;{Q55659167};null;null;1
+Q170984;;couronne;attribut de pouvoir;{Q28972621, Q5064153};null;null;1
+Q3001292;;couronne dans l'Égypte antique;attributs du pharaon;{Q170984, Q2870173};null;null;1
+Q355304;TOPONYMIE;cours d'eau;chenal superficiel ou souterrain dans lequel s'écoule un flux d'eau continu ou temporaire;{Q863944};null;Q2330259;1
+Q24862;FILM;court métrage;film de cinéma d'une durée plus courte;{Q11424};null;null;5
+Q17517379;;court métrage d'animation;film d'animation de courte durée;{Q202866, Q24862};null;null;1
+Q1188986;;court terme;Pas de descriptions;{Q186081};Q26907166;null;1
+Q251777;;coutume;Tradition d'une communauté sociale;{Q1299714};null;null;1
+Q361132;;couverture;revêtement extérieur de la toiture d'un bâtiment;{Q206615};null;null;1
+Q2239243;;créature légendaire;type de créature fictives;{Q4271324};null;null;2
+Q24533670;CREATURE;créature mythique humanoïde;classe de créatures mythiques;{Q27863646, Q3254959};null;null;6
+Q5801919;;crime sexuel;crime de nature sexuelle;{Q83267, Q558075, Q4688262, Q98649547};null;null;1
+Q1520311;;crime violent;Pas de descriptions;{Q83267};null;null;1
+Q40843;;croix;symbole en forme d'intersection;{Q60469796};null;null;1
+Q15316;;croûte terrestre;partie superficielle et solide du matériau dont est fait la Terre;{null};null;Q1503122;1
+Q34394;;croyance;adhésion dogmatique à une thèse;{Q54989186};null;null;1
+Q2728698;CROYANCES;croyance religieuse;foi dans une religion, dogme, thèse, mythologie, etc.;{Q5410500, Q34394};null;null;4
+Q772636;;cryptide;créature ou plante dont l'existence est supputée par certaines personnes mais non prouvée par la science;{Q18706315};null;Q180933;1
+Q1778821;;cuisine;technique de préparation des aliments;{Q82821, Q11042};null;null;1
+Q38695;;cuisson des aliments;art de préparer des aliments pour la consommation;{Q16920758};null;null;1
+Q4886;;cultivar;variété de plantes obtenue en culture et sélectionnée artificiellement pour ses caractéristiques désirables;{Q16521, Q1362373};null;null;2
+Q11042;;culture;ce qui est commun à un groupe d'individus;{Q3769299, Q2515887};null;Q858517;1
+Q235352;;culture;production végétale tirée de l'exploitation de la terre;{Q1362373};null;null;1
+Q45701;;déchet;quantité perdue dans l'usage d'un produit;{Q214609, Q3566043};null;Q1493973;1
+Q6149036;;décoration;tout type d'ornement décoratif;{Q4684642, Q1357761};null;null;1
+Q205985;;déesse;divinité féminine;{Q178885};null;null;1
+Q586277;;degré;Pas de descriptions;{Q4897819};null;null;2
+Q1184244;;délit;faute condamnable au pénal;{Q24962887};null;null;1
+Q879146;;dénomination chrétienne;désignation d'une déclinaison du christianisme;{Q13414953, Q94670589};null;null;4
+Q13414953;;dénomination religieuse;type d'organisation religieuse;{Q1530022, Q71966963};null;null;5
+Q3044538;;dénutrition;état pathologique de différents degrés de gravité;{Q582904, Q12167};null;null;1
+Q62127;;département d'Haïti;divisions administratives de la République d'Haïti;{Q1779026, Q10864048};null;null;1
+Q792929;;département du Bénin;subdivision du Bénin;{Q3502443, Q643589, Q10864048};null;null;1
+Q185086;;dépendance de la Couronne;territoire appartenant à la Couronne britannique sans pour autant être formellement rattaché au Royaume-Uni;{Q161243, Q1048835};null;null;1
+Q640285;;Dépôt à terme;Pas de descriptions;{Q15809678};null;null;1
+Q29175;;dérivée;fonction, définie en chaque point par la limite du taux d'accroissement du point de la fonction dérivable;{Q24034552};null;Q149999;1
+Q949302;;dermatose;affection de la peau ou des muqueuses;{Q18554850, Q54943763};null;null;2
+Q151411;;désignation;représentation d'un terme par la linguistique;{Q3695082, Q1914636};null;null;2
+Q182940;;dessert;dernier plat servi au cours d'un repas;{Q746549, Q2095, Q14915034};null;null;2
+Q174736;;destroyer;navire de guerre;{Q3114762};null;null;1
+Q334637;PRODUIT;détergent;Pas de descriptions;{Q1069267, Q191154, Q1974312};null;null;1
+Q210167;ENTREPRISE;développeur de jeux vidéo;groupe ou entreprise qui développe des jeux vidéo;{Q1058914, Q12737077, Q28640};null;null;1
+Q162940;;diacritique;signe accompagnant une lettre;{Q3241972};null;null;1
+Q33384;LINGUISTIQUE;dialecte;variété de la langue locale ou régionale;{Q3329375, Q20826827, Q337968};null;Q8162;14
+Q3025977;;dialecte catalan;dialecte;{Q33384};null;null;1
+Q3026787;;dicton;formule qui exprime une vérité ou un conseil de sagesse;{Q384876, Q386724};null;null;1
+Q190;;Dieu;entité divine, être suprême et objet principal de la foi monothéiste;{Q178885, Q635155, Q215627};Q9159;Q7782252;2
+Q6058157;;dieu;Pas de descriptions;{Q178885, Q190};null;null;1
+Q63895111;;direction topographique;Pas de descriptions;{Q2151613};Q134435;null;1
+Q2267705;;discipline;cours de formation dans une université, une école artistique ou un collège technique ou polytechnique;{Q21146257};Q9081;null;1
+Q11862829;SCIENCES;discipline académique;branche du savoir;{Q1047113};Q336;null;67
+Q4785472;;discipline de l'archéologie;Pas de descriptions;{Q11862829};null;null;1
+Q2465832;SCIENCES;discipline scientifique;branche ou domaine de spécialité des sciences;{Q9081};null;null;23
+Q2312410;SPORT;discipline sportive;partie d'un sport;{Q31629};null;null;16
+Q966260;;discontinuité;Pas de descriptions;{Q36963847};null;Q1069;1
+Q861911;;discours;adresse orale faite devant un auditoire;{Q17537576, Q1656682};null;null;1
+Q190539;;discours;forme de communication humaine;{Q1066689, Q3622126, Q52943};null;null;1
+Q6554101;;dispositif médical;instrument, appareil, équipement, matière utilisé pour le traitement d'un problème de santé;{Q1183543, Q39546, Q2424752};null;null;2
+Q1149305;;disposition;terme de sociologie;{Q55919789};null;Q9418;1
+Q618779;;distinction;ce qui est donné à une personne ou un groupe de personne en signe de reconnaissance d'excellence dans un certain domaine;{Q7302601};null;null;1
+Q2387050;;district de Maurice;Pas de descriptions;{Q1139753};null;null;1
+Q173799;;divertissement;activité qui permet aux êtres humains d'occuper leur temps libre en s'amusant et de se détourner ainsi de leurs préoccupations;{Q1914636, Q28877};null;null;1
+Q1916821;;divinité aquatique;dieu lié à l'eau dans diverses mythologies;{Q13405593, Q1936706};null;null;1
+Q635155;;divinité créatrice;dieu responsable de la création de l'Univers;{Q178885, Q4356623};null;Q34187;1
+Q1470705;;divinité de la fertilité;type de déité;{Q178885};null;null;1
+Q146083;;divinité égyptienne;dieux et déesses de l’Égypte antique;{Q178885};null;null;1
+Q22989102;CREATURE;divinité grecque;Pas de descriptions;{Q178885, Q22988604, Q95074};null;null;10
+Q476682;;divinité grecque des vents;divinité de la mythologie grecque;{Q22989102};null;null;2
+Q878099;;divinité grecque primordiale;Liste des dieux grecs d'origines;{Q22989102};null;null;2
+Q979507;;divinité hindoue;dieu ou déesse de l'hindouisme;{Q178885};null;null;1
+Q3059255;;divinité marine grecque;Pas de descriptions;{Q1916821, Q22989102};null;null;1
+Q11688446;;divinité romaine;Pas de descriptions;{Q178885, Q4271324};null;null;3
+Q511056;;divinité solaire;Pas de descriptions;{Q178885, Q207174};Q2301994;null;1
+Q117850;;doctrine;ensemble global de conceptions d'ordre théorique;{Q26256810, Q2684591, Q2620826, Q3962655, Q49447};Q214214;Q21201;3
+Q5389993;;doctrine philosophique;type de doctrine;{Q17737};null;Q5891;1
+Q49848;;document;porteur d'information qui contient l'écriture;{Q234460, Q37866906, Q15621286};null;Q199655;1
+Q620749;;dogme;affirmation considérée comme fondamentale, incontestable et intangible;{Q211364};null;null;2
+Q627436;METIER;domaine d'activité;spécialisation dans l'industrie ou la science;{Q1047113};null;null;4
+Q223832;;dominion;territoire dépendant de l'empire britannique;{Q161243, Q1048835};null;null;1
+Q6452921;;droit de gage;droit réel mettant une chose en garantie d'une créance;{Q248350};null;null;1
+Q312457;;durée de note;caractéristique temporelle dans la notation musicale;{Q16038819};null;null;2
+Q164950;;dynastie;succession de dirigeants nationaux membres d'une même famille;{Q13417114, Q1642895};null;null;2
+Q29053744;;eau liquide;forme de l'eau;{Q283, Q40050};null;null;1
+Q496805;;eau salée;Pas de descriptions;{Q906356};Q179615;null;1
+Q56139;;eau-de-vie;boisson alcoolisée préparée par distillation;{Q17562878};null;null;1
+Q43521;;échelle des temps géologiques;système de classement chronologique utilisé en géologie;{Q317623};null;Q973297;1
+Q1387659;;école de pensée;type de groupe d'humains;{Q16334295, Q12558574, Q2198855, Q2386338};null;null;3
+Q222516;;école du bouddhisme;subdivisions de la doctrine du Bouddha;{Q13414953, Q748};null;null;1
+Q16895642;;école philosophique;Pas de descriptions;{Q1387659};null;Q5891;3
+Q969040;;économie créative;Pas de descriptions;{Q268592};null;null;1
+Q6617741;;écorégion du Fonds mondial pour la nature;type d'écorégion;{Q295469, Q386426};null;null;1
+Q29517555;;écriture naturelle;système d'écriture;{Q8192};null;null;1
+Q1156875;;écriture non déchiffrée;système d'écriture présent sur un certain nombre de documents archéologiques, mais dont le sens n'est pas connu;{Q8192, Q24238356};null;null;1
+Q36180;;écrivain;personne qui rédige des ouvrages littéraires ou scientifiques;{Q482980};null;null;1
+Q15636234;MEDECINE;éctomie;ablation chirurgicale d’un organe;{Q15636229};null;null;13
+Q1284645;;édit;Pas de descriptions;{Q1864008, Q2571972, Q2703920};null;null;1
+Q131212;2D;éditeur de texte;type de logiciel utilisé pour éditer du texte;{Q985394, Q166142};null;null;1
+Q381243;;effets spéciaux;Illusions ou astuces pour changer l'apparence;{Q15088947};null;null;1
+Q4936952;ELEMENTS;élément anatomique;partie du corps;{Q28845870, Q27043948};null;null;46
+Q11344;ELEMENTS;élément chimique;type d'atomes ayant le même nombre de protons dans le noyau atomique;{Q28728771, Q79529};null;Q2329;69
+Q391414;;élément d'architecture;formes élémentaires qui composent une architecture;{Q19603939, Q3955017, Q618123};null;null;4
+Q15688633;BATEAUX;élément de bateau;Partie d'un bateau;{Q15989253, Q8205328};null;null;24
+Q6647660;;élément littéraire;élément constitutif de toutes les œuvres de fiction narrative, caractéristique essentielle du récit verbal que l'on peut trouver dans tout récit écrit ou parlé;{Q15989253};null;Q208217;3
+Q1058733;;élément structurel vertical;élément architectural d'ossature;{Q64830866};null;null;1
+Q80962;;élevage;ensemble des activités qui assurent la multiplication des animaux;{Q8187769, Q336, Q56299222, Q29584207, Q17277530};null;null;1
+Q3683633;;émail;Pas de descriptions;{Q3404720, Q1075};null;null;1
+Q1555508;;émission de radio;émission effectuée depuis une station de radio;{Q11578774, Q2431196, Q11033};null;null;1
+Q9415;EE;émotion;état d'esprit d'une personne, son ressenti par rapport à ce qui lui est arrivé;{Q781413, Q282250};null;null;22
+Q16748888;EE;émotion complexe;selon la théorie des émotions;{Q9415};null;null;4
+Q60539481;EE;émotion négative;Pas de descriptions;{Q9415};null;null;15
+Q60539479;EE;émotion positive;type d'émotion;{Q9415};null;null;3
+Q16830339;;emploi;ensemble de rôles dramatiques présentant des similarités et adaptés au même type d'acteur;{Q1707847};Q11635;null;1
+Q506680;;endémie;présence habituelle d'une maladie dans une région;{Q12136};null;null;2
+Q655697;;engin de siège;dispositif conçu pour ouvrir des brèches dans les murailles ou contourner les fortifications au cours d’une guerre de siège;{Q728};null;null;4
+Q3054755;;Enseignement collégial au Québec;niveau d’enseignement au Québec entre le secondaire et l’université;{Q56315816};null;null;1
+Q28813620;;ensemble;ensemble d'éléments tenus individuellement ;{Q99527517};null;null;1
+Q2088357;;ensemble musical;groupe de musiciens habitués à pratiquer ensemble;{Q32178211, Q16334295, Q105815710, Q109802395};null;null;1
+Q21199;;entier naturel (avec ou sans 0);nombre positif utilisé pour compter, dénombrer des éléments avec ambiguïté entre « entier naturel (Q28920052) » et « entier naturel non nul (Q28920044) »;{Q28920052, Q1244890};null;null;2
+Q35120;;entité;tout ce qui peut être considéré, discuté ou observé;#N/A;#N/A;#N/A;2
+Q15644911;;entité administrative territoriale de l'Empire romain;Pas de descriptions;{Q100205512};null;null;1
+Q14897293;;entité fictionnelle;élément d'une œuvre de fiction;{Q17537576, Q64728693};Q1356411;null;1
+Q27096235;;entité géographique artificielle;élément du sol ou du sous-sol substantiellement modifié par l'être humain (route, maison, ...);{Q27096213, Q8205328};null;null;1
+Q15893266;;entité qui n'existe plus;Pas de descriptions;{Q35120, Q64728693};null;null;1
+Q26907166;;entité temporelle;objet de temps, entité contenue dans une période temporelle ou changement d'état (événement, période, acte);{Q58415929};null;null;1
+Q10389811;;entrée sur un sujet;définition dans un ouvrage de référence (dictionnaire ou encyclopédie);{Q191067};null;null;1
+Q6881511;;entreprise;organisation dont le but est de produire et de fournir des biens ou des services;{Q4830453, Q362482, Q155076};null;null;3
+Q22704077;CROYANCE;épisode biblique;histoire racontée dans la Bible;{Q1318295, Q1406161, Q1758354, Q118289};null;null;2
+Q21191270;2D;épisode de série télévisée;partie d'une série télévisée;{Q1983062, Q2431196, Q15416};null;null;10
+Q1326966;;épithète honorifique;épithète honorifique pour une personne;{Q207869, Q3320743};null;null;2
+Q37484;;épopée;long poème d’envergure nationale narrant les exploits historiques ou mythiques d’un héros ou d’un peuple;{Q1097273, Q19310814, Q474090};null;null;1
+Q754897;;époque géologique;Pas de descriptions;{Q4005761};null;Q134783;3
+Q14645593;;équipe de rugby à XV;groupe de personnes jouant au rugby à XV;{Q12973014};null;null;2
+Q13226383;;équipement;emplacement aménagé pour faire quelque chose;{Q811430};null;null;3
+Q2604618;PRODUIT;équipement de pêche;équipement utilisé pour pêcher;{Q10273457};null;null;2
+Q352222;PRODUIT;équipement d'exercice;se compose d'un ou plusieurs articles et est utilisé pour appliquer un sport;{Q10273457};null;null;1
+Q630830;;ère;notion de géologie;{Q4005761};null;null;2
+Q6428674;;ère;approximation des bornes spatio-temporelles marquée par un phénomène culturel ou naturel;{Q186081};Q1190554;Q309;1
+Q5429522;;espar;Pas de descriptions;{Q942890, Q78323445};null;null;1
+Q15707583;;espèce de fiction;Pas de descriptions;{Q14897293};null;null;2
+Q12089225;;espèce minérale;Pas de descriptions;{Q17339814};Q7946;null;28
+Q190995;;essence;désigne « ce que la chose est », par opposition au concept d'existence qui lui définit « l'acte d'exister »;{Q937228};null;null;1
+Q4260475;;établissement médical;établissement où se pratique la médecine;{Q13226383, Q30139652, Q4287745, Q811979, Q55645123};null;null;1
+Q3253281;;étang;étendue d'eau (pérenne ou non, naturelle ou non), qui peut être vidée pour l'exploitation;{Q337567};null;Q165838;1
+Q3505845;ENTITE;état;terme abstrait indiquant la présence de valeurs stables dans l’ensemble des variables d’un objet;{Q483247, Q937228};Q488383;null;4
+Q7275;;État;organisation politique et juridique d'un territoire délimité;{Q43229, Q177634, Q155076, Q1048835, Q56061, Q1896989, Q1063239, Q96196009};null;null;2
+Q15978876;;état de sainteté;Pas de descriptions;{Q51621};null;null;1
+Q35657;ENTITE;État des États-Unis;division administrative aux États-Unis d'Amérique;{Q852446, Q107390, Q106458883, Q192611, Q10864048};null;null;2
+Q15831576;;état fondamental de la matière;l'un des états fondamentaux de la matière;{Q52063183};Q35758;null;2
+Q3024240;;État historique;structure d'État ou de gouvernement, qui n'existe plus, ayant eu une certaine indépendance/existence;{Q19953632, Q6256, Q96196009, Q19832712};null;null;1
+Q112099;;État insulaire;pays entièrement situé sur une ou des îles;{Q7275, Q6256};null;null;1
+Q54989186;EE;état mental;Pas de descriptions;{Q813912};null;null;4
+Q3968640;;état mental;Pas de descriptions;{Q1190554, Q3505845};null;Q9418;1
+Q852859;;état modifié de conscience;type d'état de conscience;{Q15788410};null;null;1
+Q15831577;;état non-classique de la matière;Pas de descriptions;{Q11430};null;null;1
+Q3624078;ENTITE;État souverain;organisation politique souveraine sur son territoire;{Q7275, Q6256};null;null;13
+Q41710;CULTURE;ethnie;groupe social de personnes qui s'identifient entre elles sur la base d'une ascendance commune (réelle ou imaginée), d'une histoire commune, d'une culture commune ou d'un vécu commun;{Q16334295};null;null;82
+Q1137656;IDENTITE;ethnonyme;Pas de descriptions;{Q82799};null;Q4533071;1
+Q5;CREATURE;être humain;individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »;{Q215627, Q154954, Q164509, Q15978631};null;Q23404;27
+Q15632617;CREATURE;être humain de fiction;être humain n'existant que dans des œuvres de fiction;{Q28020127, Q96789464, Q97498056, Q95074};null;null;10
+Q1656682;;événement;événement temporaire ou prévu, comme un festival ou une compétition;{Q1190554};Q309100;null;4
+Q751989;;événement céleste;type de phénomène naturel;{Q1322005};null;null;1
+Q2245405;;événement clé;classe d'éléments utilisés avec la propriété « événement clé » (P793);{Q1190554};null;null;3
+Q14904124;;événement clé (navire);événement significatif dans la vie d'un navire - utiliser avec P793;{Q2245405};null;null;2
+Q24336466;;événement mythique;Pas de descriptions;{Q24334685, Q14136353};null;null;1
+Q15275719;;événement périodique;événement ayant lieu à intervalle régulier;{Q1656682, Q12044624};Q28314507;null;5
+Q4584563;;Évolution des stratégies de reproduction;Comportement sexuel reproducteur au sein d'un groupe d'organismes.;{Q58778};null;null;1
+Q1762591;;examen complémentaire;Pas de descriptions;{Q2671652};null;null;1
+Q2671652;MEDECINE;examen médical;test qui vous informe sur une condition médicale;{Q796194, Q835153, Q1003030};null;null;1
+Q902638;ELEMENTS;excipient;Pas de descriptions;{Q79529, Q50430193, Q350176, Q50430121};null;null;4
+Q12870;ELEMENTS;explosif;mélange de corps susceptibles lors de leur transformation, de dégager en un temps très court, un grand volume de gaz porté à haute température, ce qui constitue une explosion;{Q79529, Q5376832, Q757138};null;null;2
+Q464980;;exposition;mise d'une chose à la vue d'un public;{Q386724, Q1030034, Q1190554};null;null;1
+Q6498784;;expression;Pas de descriptions;{Q246672};null;null;1
+Q42298422;;expression argotique;Pas de descriptions;{Q8171, Q187931};null;null;2
+Q15404978;;expression de genre;manifestation extérieure de l'identité de genre;{Q3769299};Q48264;null;3
+Q327968;;expression faciale;Pas de descriptions;{Q207125};null;null;2
+Q3062294;LINGUISTIQUE;expression latine;litterature latine;{Q187931, Q3026787};null;null;4
+Q1139400;COMPOSANTS;exsudat;Pas de descriptions;{Q102205, Q1058795};null;null;1
+Q466439;;extrémisme;idéologie;{Q9332};null;null;1
+Q2538889;;fabricant d'arme;entreprise concevant de l'armement;{Q4830453};null;null;1
+Q63922515;;fabrication hyperlocale;la production de biens, de services et d'informations dans l'environnement spatial des utilisateurs et des consommateurs;{Q187939, Q7406919};Q5958271;null;1
+Q1748957;;Fach;système de classement des chanteuses et chanteurs, selon leur voix;{Q1063547, Q1707847};null;null;1
+Q407384;;facteur de transcription;protéine;{Q2252764};null;null;1
+Q1642334;;faits;concept interdisciplinaire, en vertu de laquelle le total de toutes les déclarations, on entend un sujet défini;{Q7184903};null;null;1
+Q8436;CIVILISATION;famille;communauté de personnes réunies par des liens de parenté;{Q874405, Q16334295, Q1313923};null;null;2
+Q15142889;PRODUIT;famille d'armes;groupe d'armes de nature commune;{Q16889133, Q20937557};null;null;6
+Q25295;;famille de langues;groupe de langues dérivées d'un ancêtre commun;{Q17376908, Q941501};null;Q8162;1
+Q417841;;famille de protéines;type de groupe ou classe de protéines;{Q84467700, Q16889133};Q8054;null;2
+Q67015883;BIOLOGIE;famille d'enzymes;métaclasse de premier ordre;{Q84467700, Q417841};Q8047;null;12
+Q1254773;OBJET;famille d'instruments de musique;Pas de descriptions;{Q16889133};Q2748242;null;10
+Q147545;;faux-fruit;catégorie botanique;{Q1364};null;null;1
+Q132241;;festival;manifestation de plusieurs jours à caractère festif, organisée à époque fixe autour d'une activité festive liée au spectacle, aux arts, aux loisirs, etc.;{Q15275719, Q43229};null;null;1
+Q1825417;;fête mobile;fête d'un calendrier liturgique célébrée à des dates différentes suivant les années;{Q60075825};null;null;1
+Q57598;;fête nationale;fête qui commémore un évènement historique, politique ou culturel lié à l'histoire d'une nation;{Q1197685, Q205892, Q11483816, Q422695};null;null;1
+Q375011;;fête religieuse;date et événement important pour les membres d'une religion;{Q1445650, Q200538, Q132241};Q9174;null;1
+Q5440532;;Fêtes et jours fériés aux États-Unis;Pas de descriptions;{Q1197685};null;null;1
+Q161;;fibre;élément anatomique long et frêle;{Q214609};null;null;6
+Q874142;;fibre animale;Pas de descriptions;{Q1192049, Q8054};null;null;1
+Q20026824;;fibre végétale;fibre naturelle de plante;{Q1192049, Q161, Q189109, Q28969364};null;null;1
+Q188063;;fieffé;système de gouvernance économique et politique de la terre concédée par un seigneur à un vassal au Moyen Âge en Europe;{Q56061, Q707482, Q1496967, Q28877};null;null;1
+Q3744877;;figure artificielle;type de meuble héraldique;{Q3744866};null;null;1
+Q182545;LINGUISTIQUE;figure de style;procédé d’expression qui s’écarte de l’usage ordinaire de la langue;{Q1762471, Q12767945};null;null;35
+Q32015063;;figure de voltige;Pas de descriptions;{Q2094922};null;null;1
+Q11424;CINEMA;film;œuvre culturelle faite d'une suite d’images donnant l'impression de mouvement et constituant un récit;{Q4502142, Q2431196, Q20937557, Q10301427};null;Q28793;181
+Q336144;FILM;film à sketches;genre cinématographique reposant sur plusieurs histoires tournant autour d'un même thème;{Q11424, Q105420, Q15709879};null;null;1
+Q4830453;ENTREPRISE;firme;entreprise impliquée dans des activités commerciales, industrielles ou professionnelles;{Q43229, Q3563237, Q155076};null;Q2043282;27
+Q23583031;;fissure;séparation des fibres du bois;{null};null;null;1
+Q219067;;fitness;Pas de descriptions;{Q29051769, Q14536140, Q56037271};null;Q103961937;1
+Q573344;;fleuve;cours d'eau se jetant dans une mer;{Q55659167};null;null;2
+Q4284762;;flux de matériaux;Pas de descriptions;{Q3074541};null;null;1
+Q4164871;TITRE;fonction;charge avec des pouvoirs et responsabilités dans une organisation publique ou privée ou dans l'appareil d’État;{Q214339, Q16686448};null;null;51
+Q11348;;fonction;relation entre plusieurs ensembles pour laquelle chaque élément du premier est en relation avec un et un seul élément du second;{Q130901, Q1756942, Q629085};null;Q395;1
+Q230937;;fonction d'état;type de quantité physique;{Q911916, Q7603913};null;Q11473;1
+Q21114371;;fonction épiscopale;Pas de descriptions;{Q11773926};null;null;1
+Q16631188;;fonction militaire;type de fonction;{Q4164871};null;null;1
+Q294414;;fonction publique;charge d’administration publique au sein de l’exécutif ou du judiciaire, attribuée par élection ou confiée par une autorité supérieure;{Q4164871};null;null;3
+Q93344;MATHEMATIQUE;fonction trigonométrique;fonction qui relie la longueur des côtés d'un triangle à un angle;{Q864333, Q184743};null;Q8084;1
+Q4485156;;fonctionnalité logicielle;type de fonctionnalité;{Q1207505, Q1347367};null;null;2
+Q772547;;forces armées;type de organisation armée;{Q17149090, Q8473, Q2659904};null;null;1
+Q1414729;;format cinématographique;Pas de descriptions;{Q759853};null;null;1
+Q26971562;;format de bande dessinée;terme;{Q39725049};null;null;1
+Q18602566;;format de livre;Pas de descriptions;{Q2085518};null;null;2
+Q4263830;;format littéraire;catégorie d’ouvrage littéraire distingué par leurs caractéristiques formelles et non leur contenu;{Q1437361};Q8242;null;2
+Q1641112;;formation social;tipo di concept sociologique;{Q33104129};Q8425;null;2
+Q2083910;BIOLOGIE;formation végétale;Type de communautés de plantes;{Q16889133};null;null;6
+Q1437361;;forme;manière dont les éléments d'une œuvre d'art sont organisés, par opposition à son contenu;{Q2085518};Q735;null;2
+Q56055944;ARTS;forme d'art;catégorie d'art caractérisée par le support d'expression;{Q21146257};Q735;null;7
+Q1307214;JUSTICE;forme de gouvernement;modèle organisationnel par lequel un État gouverne pour exercer son pouvoir souverain;{Q183039, Q2752458};null;null;13
+Q183039;;forme d'État;type de forme;{Q28108};null;null;2
+Q718608;;forme galénique;Pas de descriptions;{Q5158735};null;null;4
+Q815741;;forme géométrique;entité abstraite primitive autour de laquelle s'articule le géométrie;{Q36161, Q207961, Q11028};Q8087;null;2
+Q12047392;;forme juridique;type légal d'entité dans certains systèmes juridictionnels;{Q16889133};null;null;3
+Q1269299;;forme juridique de l'entreprise;type de forme juridique;{Q12047392};null;null;1
+Q862597;MUSIQUE;forme musicale;Organisation structurelle d'une œuvre musicale;{Q11696608, Q1437361, Q6671777};null;Q96621382;21
+Q6630149;;forme narrative;Pas de descriptions;{Q1437361};Q4263830;null;1
+Q89522629;;forme poétique;Pas de descriptions;{Q6630149, Q4263830};Q482;null;2
+Q57831;;forteresse;fort de grande dimension;{Q1785071};null;null;1
+Q57821;;fortification;installations et bâtiments qui ont été construits à des fins militaires et de défense;{Q6852233};null;null;1
+Q63171169;;franchise de rugby à XV;équipe de rugby à XV admise dans une ligue professionnelle;{Q14645593, Q1441324};null;null;1
+Q16979650;;fratrie;groupe de frères et sœurs;{Q1313923, Q16334295};null;null;1
+Q28813;;fraude;action destinée à tromper;{Q19, Q170028, Q83267, Q78908682, Q15734480, Q1772449};null;null;1
+Q1134686;;frazione;hameau géographique, rattaché administrativement à une commune d'Italie;{Q486972, Q532, Q2824645, Q177634, Q14757767};null;null;1
+Q1131296;;freguesia;division administrative du territoire au Portugal et dans ses anciennes colonies;{Q13221722, Q380230, Q11618417, Q4976993, Q41791733, Q155076};null;null;1
+Q2223649;;fromage français;fromage de France;{Q2095, Q10943};null;null;3
+Q1364;ALIMENT;fruit;organe végétal;{Q24060707};null;null;5
+Q3314483;;fruit;produit végétal comestible sucré;{Q2095, Q16686022, Q1364, Q25403900, Q27043864, Q29043258};Q38695;Q35911;2
+Q11432;COMPOSANTS;gaz;fluide facile à comprimer et à déformer;{Q102205};null;null;1
+Q10913792;COMPOSANTS;gaz inflammable;Pas de descriptions;{Q11432, Q1115533};null;null;1
+Q754256;;gaz respirable;Pas de descriptions;{Q18214768, Q41704421};null;null;1
+Q483394;;genre;catégorie d'œuvres basée sur des critères stylistiques, thématiques ou techniques;{Q16889133};null;null;10
+Q1792379;ARTS;genre artistique;classification typologique des œuvres d'art basé sur des critère stylistiques;{Q483394};null;null;18
+Q201658;CINEMA;genre cinématographique;catégorie d’œuvres cinématographiques;{Q1792379};Q59825918;null;6
+Q20087698;;genre de bande dessinée;Le genre d'une bande dessinée;{Q1792379, Q223393};null;null;1
+Q5151404;;genre de comédie;Pas de descriptions;{Q1792379};null;null;1
+Q107551175;;genre de jeu;catégorisation des jeux;{Q483394};null;null;1
+Q21114848;;genre de magazine;type du genre;{Q483394};null;null;2
+Q1840368;BIOLOGIE;genre de nuage;Pas de descriptions;{Q1978047};Q8074;null;4
+Q45971958;ARTS;genre des arts de la scène;genre artistique vivant;{Q1792379};null;null;4
+Q20643324;;genre d'opéra;Pas de descriptions;{Q7777573, Q188451};null;null;2
+Q2469603;;genre journalistique;format et style des productions journalistiques;{Q1292119};null;null;1
+Q223393;LITTÉRATURE;genre littéraire;notion de type catégorielle qui permet de classer des productions littéraires;{Q1792379};Q8242;Q3508604;53
+Q188451;MUSIQUE;genre musical;ensemble de formes de même caractère, réunies par leur destination (par exemple la musique de chambre) ou par leur fonction (par exemple la musique sacrée);{Q1792379, Q11696608};null;Q164204;40
+Q3100808;;genre photographique;type de genre;{Q1792379};null;null;2
+Q18783400;;genre statuaire;genre artistique;{Q1792379};null;null;3
+Q15961987;;genre télévisuel;type de genre;{Q483394};null;null;2
+Q7777573;THEATRE;genre théâtral;division et subdivisions de diverses formes de théâtre;{Q223393, Q45971958};null;Q960543;10
+Q217438;CIVILISATION;gentilé;terme désignant les habitants d’un lieu;{Q10856962, Q34698};Q22947;Q37732;4
+Q241284;;géosphère;partie solide de la Terre uniquement, ou bien l'ensemble lithosphère + hydrosphère + cryosphère + atmosphère;{Q219858, Q47495022};null;null;1
+Q1247867;;gestion de logement;concept économique;{Q5409930};null;null;1
+Q23392;;glace;eau à l'état solide;{Q283, Q11438};Q283;null;1
+Q11358;;glucide;molécules organiques contenant un groupement carbonyle et plusieurs groupements hydroxyle, comprenant les sucres;{Q415812, Q64698788};null;null;1
+Q36975;;glyphe;représentation graphique d'un signe typographique;{Q2545446, Q3241972};null;null;1
+Q9366;2D;Google;moteur de recherche internet;{null};null;null;1
+Q2612572;;grade;groupe monophylétique comprenant des espèces dont le plan d'organisation est relativement similaire;{Q16521};null;null;2
+Q56019;JUSTICE;grade militaire;élément d'une hiérarchie militaire;{Q4189293};null;null;27
+Q3113114;;Grades de l'armée romaine;page de liste de Wikipédia;{null};null;null;1
+Q1423543;;graisse animale;Les graisses et les huiles qui dérivent d'animaux;{Q912613};null;null;1
+Q146657;;grand cercle;intersection d'une sphère et d'un plan qui passe par son centre;{Q91345714, Q10288828};null;Q131089;1
+Q216107;;grand magasin;commerce de détail multispécialiste exploité par une société commerciale unique;{Q213441, Q655686};null;null;1
+Q1549591;VILLE;grande ville;ville de plus de 100 000 habitants;{Q515};null;null;4
+Q271588;ARTS;gravure;ensemble de pratiques artistiques d'impression d'une image, aussi appelée estampe;{Q11177771, Q911059, Q11034};null;null;1
+Q16887380;;groupe;regroupement d'entités ayant des caractéristiques semblables;{Q28813620};null;null;4
+Q4502119;;groupe artistique;club ou groupe d'artistes qui partagent un idéal commun;{Q16334295, Q48204};null;null;1
+Q56256086;;groupe de composés chimiques;type de groupe;{Q17339814};null;null;3
+Q1208380;;groupe de dialectes;regroupement de dialectes apparentés;{Q17376908};null;null;1
+Q215380;MUSIQUE;groupe de musique;ensemble musical formé de quelques musiciens, chanteurs ou instrumentistes;{Q2088357};null;null;20
+Q14514600;;groupe de personnages de fiction;ensemble de personnages de fiction;{Q23010327};null;null;6
+Q28061975;CREATURE;groupe de personnages de la mythologie grecque;Pas de descriptions;{Q20830276, Q14514600};Q34726;null;11
+Q851990;CIVILISATION;groupe de population;terme démographique que les personnes résumant après chaque caractéristiques statistiques;{Q874405};null;null;1
+Q5741069;;groupe de rock;groupe de musique jouant du rock;{Q215380};null;null;3
+Q59199015;;groupe de stréréoisomères;Pas de descriptions;{Q15711994};Q235816;null;1
+Q17339814;;groupe de substances chimiques;métaclasse de deuxième ordre;{Q98119401};Q79529;Q2329;9
+Q16334295;CIVILISATION;groupe d'humains;n'importe quel groupe constitué d'êtres humains;{Q16334298};null;null;8
+Q15711994;COMPOSANTS;groupe d'isomères;Pas de descriptions;{Q56256086};null;null;5
+Q55662456;;groupe d'isomères ortho, méta et para;Pas de descriptions;{Q15711994, Q29430681};Q902363;null;2
+Q83306;;groupe du tableau périodique;colonne d'éléments du tableau périodique des éléments chimiques;{Q19549};null;null;1
+Q2531956;CIVILISATION;groupe ethnique;groupe ethnique, minorité au sein d'un État, en particulier un seul groupe ethnique au sein d'un État polyethnique;{Q874405};null;null;1
+Q4204501;CIVILISATION;groupe ethnique historique;Pas de descriptions;{Q41710, Q15893266};null;null;10
+Q3704243;;groupe ethnographique;groupe possédant des traits culturels qui le distinguent du groupe ethnique plus large dont il fait partie;{Q41710};null;null;1
+Q4533081;RELIGION;groupe ethnolinguistique;Pas de descriptions;{Q9174};null;null;1
+Q24577840;;groupe fictif de personnages;Pas de descriptions;{Q14514600, Q14623646};null;null;1
+Q3117863;;groupe humain isolé;ensemble réduit d'êtres humains vivant ensemble, et isolé des sociétés humaines;{Q16334295};null;null;4
+Q1936581;;groupe minéral;Pas de descriptions;{Q16889133};null;null;6
+Q84467700;BIOLOGIE;groupe ou classe de protéines;métaclasse de deuxième ordre;{Q17339814, Q16889133};Q8054;Q7202;9
+Q874405;;groupe social;collection d'au moins trois personnes, toutes membres du groupe, investis dans une relation sociale directe les uns avec les autres;{Q16334295, Q58778, Q7887142};null;null;2
+Q8465;;guerre civile;conflit armé entre membres d'une même société;{Q198};null;null;1
+Q205961;;habileté;aptitude acquise à réaliser un acte;{Q1347367, Q9081};null;null;1
+Q22947;;habitant;personne vivant dans une endroit;{Q5};null;null;2
+Q234343;LITTÉRATURE;hadîth;collection des dits et enseignements oraux de Muhammad;{Q7725634};null;null;1
+Q5084;;hameau;groupe d’habitations en milieu rural;{Q10354598};null;null;1
+Q12131;;handicap;limitation des possibilités d'interaction d'un individu avec son environnement;{Q937228};null;Q627208;1
+Q25235;;heure;unité de temps de 60 minutes;{Q186081};null;null;1
+Q47728;;hobby;Pas de descriptions;{Q184872};null;null;3
+Q422137;;hormone stéroïdienne;Pas de descriptions;{Q177911, Q11364};null;null;1
+Q170885;;huile essentielle;liquide concentré et hydrophobe des composés aromatiques volatils d'une plante;{Q169336, Q4739805, Q42962};null;null;1
+Q4739805;;huile végétale;triglycéride extrait d'une plante;{Q427457, Q25403900, Q11870297, Q42962};null;null;1
+Q28020127;;humanoïde de fiction;Pas de descriptions;{Q30017383, Q2593744};null;null;1
+Q331769;;humeur;état d'âme persistant;{Q781413, Q41537118};null;null;2
+Q42621;;hybride;croisement entre deux espèces;{Q7239, Q16521};null;null;1
+Q3736622;;hybride canidé;Pas de descriptions;{Q42621, Q25324};null;null;1
+Q182468;;hydrographie;l’étude et la description des cours d’eau et des étendues d’eau qu’on peut observer à la surface de la terre ou dans le sous-sol;{null};null;null;1
+Q42250;;hydrologie;science qui traite de l'eau au-dessus, sur et sous la surface de la terre;{Q336};null;null;1
+Q506710;;hydron;forme cationique de l'hydrogène atomique, représentée par le symbole H?;{Q37147};null;Q556036;1
+Q484692;;hymne;chant et poème lyrique à la gloire d'un personnage, d'une grande idée, etc.;{Q7366, Q24055548, Q5185279};Q1208425;Q1640693;1
+Q856713;;hymne chrétien;chanson avec un contenu religieux chrétien;{Q101515433, Q5185279, Q63203971, Q24055548};null;Q1640693;1
+Q1569997;;hyperopération;Pas de descriptions;{Q3884033};null;null;2
+Q41719;;hypothèse;proposition ou une explication que l'on se contente d'énoncer sans prendre position sur son caractère véridique;{Q108163, Q321703};Q24238356;null;1
+Q840396;;idéal;Pas de descriptions;{Q1979154};null;null;1
+Q4392985;;identité religieuse;Pas de descriptions;{Q844569};null;null;2
+Q7257;;idéologie;système d'idées;{Q48324};null;null;8
+Q5333510;;idéologie économique;type d'idéologie;{Q7257};null;null;2
+Q12909644;POLITIQUE;idéologie politique;idéologie qui prône l'organisation sociale, politique et économique de la vie humaine;{Q7257};Q7163;null;50
+Q23442;;île;terre émergée entourée d’eau de tous côtés;{Q271669, Q205895};null;null;1
+Q178659;;illustration;représentation graphique ou picturale liée à un texte;{Q478798, Q4502142};null;null;1
+Q931309;;imagerie médicale;technique d'acquisition et de restitution d'images du corps humain;{Q4914995, Q2671652, Q177719};null;null;1
+Q8161;;impôt;prélèvement obligatoire effectué par voie d’autorité par la puissance publique lmohim ana si yahya;{Q748289, Q7748, Q98539598};null;null;2
+Q1738991;;indice;nombre indiquant la valeur d'une certaine quantité;{Q107715, Q25472932};null;null;1
+Q8148;;industrie;activités produisant des richesses avec la transformation des matières premières et à l'exploitation des sources d'énergie;{Q1914636};null;null;4
+Q19595701;;industrie du divertissement;Pas de descriptions;{Q56611639, Q6520325};Q173799;null;1
+Q11028;;information;message à communiquer et symboles utilisés pour l'écrire;{Q7184903};null;Q16387;1
+Q1456832;;infraction;violation d'une loi de l'État, résultant d'un acte externe de l'homme;{Q3537603};null;null;1
+Q10675206;;ingrédient;Pas de descriptions;{Q15989253, Q214609};null;null;2
+Q25403900;CUISINE;ingrédient culinaire;ingrédient utilisé dans les produits alimentaires;{Q10675206, Q2095};null;null;21
+Q31931265;;insigne d'un ordre;marque d'identification d'un ordre ou d'une congrégation, usuellement porté lors d'occasions spéciales;{Q552345};Q193622;null;1
+Q20437094;SCULPTURE;installation;œuvre d'art tridimensionnelle conçue pour modifier la perception de l'espace;{Q860861};null;null;1
+Q186408;;instant;position particulière dans le temps;{Q44946};null;null;1
+Q1938208;;institution juridique;toutes les règles relatives à une relation juridique particulière;{Q49371};null;null;1
+Q18810687;;institution politique;partie du système politique d'un état;{Q178706};null;null;1
+Q1074814;;instrument chirurgical;outil ou appareil pour réaliser une opération chirurgicale;{Q39546, Q6554101};null;null;1
+Q517061;;instrument de bord;Pas de descriptions;{Q1183543, Q28816538};null;null;1
+Q2041172;;instrument de mesure;dispositif permettant de réaliser la mesure d'une quantité physique;{Q39546, Q1047213};Q12453;null;1
+Q3743695;;instrument de mesure météorologique;appareil pour mesurer un paramètre météorologique;{Q2041172};null;null;1
+Q34379;;instrument de musique;objet pouvant produire un son contrôlé par un musicien;{Q267228, Q39546};null;Q899293;2
+Q1434112;;instrument de pilotage;Pas de descriptions;{Q517061};null;null;1
+Q933870;;instrument de torture;Pas de descriptions;{Q39546, Q1183543};Q132781;null;3
+Q1751850;;instrument d'optique;instrument formant une image d'un objet;{Q3099911, Q2920313};null;null;1
+Q247506;;instrument financier;Pas de descriptions;{Q46737, Q93288};null;null;1
+Q501390;EE;insulte;mot avec un sens péjoratif pour insulter des personnes;{Q571571, Q8171};null;null;6
+Q571571;EE;insulte;état, expression ou comportement considéré comme dégradant ou offensif;{Q105364223};Q9418;null;2
+Q104934;;interaction élémentaire;interactions responsables de tous les phénomènes physiques;{Q1293220, Q52948};null;null;1
+Q83034;;interjection;catégorie de mots ou expressions qui expriment une émotion;{Q8171};null;null;1
+Q189962;;intervalle;écart de hauteur entre deux notes;{Q6057278, Q107715};null;Q164204;1
+Q12379015;;intervalle;distance spatiale ou temporelle, où les dispositifs techniques doivent être vérifiés;{Q186081};null;null;1
+Q186081;;intervalle de temps;grandeur physique correspondant à l'intervalle entre deux instants temporels;{Q26907166, Q937228};null;null;1
+Q188211;;invariant;propriété d'un objet non modifiée par un procédé appliqué à l'objet;{Q24034552, Q11348, Q937228};null;null;1
+Q14208553;;invention;action de découvrir quelque chose;{Q174165, Q451967, Q1656682, Q6958747};null;null;3
+Q466603;;isotope de l'hydrogène;classe des atomes d'hydrogène ayant le même nombre de neutron;{Q25276};null;null;1
+Q12525553;;isotope du neutronium;Pas de descriptions;{Q25276};null;null;1
+Q878130;;isotope stable;isotope qui n'a pas de radioactivité décelable;{Q25276, Q759767};null;null;1
+Q1107656;;jardin;lieu aménagé où on cultive de façon ordonnée des plantes;{Q107425, Q21950738, Q1165944, Q628858, Q17350442, Q22652, Q35145743, Q386724};null;null;1
+Q3757641;;javelot;arme de jet légère généralement composée d'une longue tige surmontée d'une pointe en acier;{Q44475, Q1566976};null;null;1
+Q11410;;jeu;activité de loisirs;{Q173799, Q1150958};null;Q675281;2
+Q1140722;JEU;jeu à boire;jeu dans lequel les participants boivent de l'alcool;{Q11410};null;null;1
+Q1368898;JEU;jeu d'adresse;Pas de descriptions;{Q11410};null;null;6
+Q11416;;jeu d'argent;type de jeu dans lequel on joue de l'argent et dont le déroulement est partiellement ou totalement soumis à la chance;{Q3590573, Q8187769, Q184872};null;null;1
+Q142714;JEU;jeu de cartes;jeu basé sur un ensemble de cartes ou ensemble de ces cartes;{Q3244175};null;null;9
+Q2617664;JEU;jeu de construction;d'éléments préfabriqués que l'enfant assemble à son gré ou en suivant les directives d'un cahier de modèles;{Q11422};null;null;1
+Q3590573;JEU;jeu de hasard;type de jeu dont le déroulement est partiellement ou totalement soumis à la chance;{Q11410};null;null;1
+Q1191150;;jeu de levées;Pas de descriptions;{Q142714};null;null;1
+Q15220419;;jeu de mots;type de jeu à base de mots;{Q41595400};null;null;3
+Q1643932;JEU;jeu de rôle sur table;forme de jeu de rôle de loisir;{Q160738, Q3244175};null;null;5
+Q131436;JEU;jeu de société;jeu qui se joue à plusieurs;{Q3244175};null;null;7
+Q3244175;;jeu de table;synonyme de jeu de société;{Q2424752, Q14947863, Q8205328, Q17537576};null;null;2
+Q1446290;;jeu d'orgue;Pas de descriptions;{Q19659292};null;null;3
+Q1509934;JEU;jeu enfantin;jeu aux règles informelles joué par les enfants;{Q11410};null;null;4
+Q1272194;JEU;jeu par arrangement;Pas de descriptions;{Q11410};null;null;1
+Q7889;;jeu vidéo;jeu utilisant un dispositif informatique;{Q2249149, Q51938570, Q2431196, Q166142, Q56055944};null;Q675281;3
+Q41825;TEMPS;jour de la semaine;Pas de descriptions;{Q573};null;null;7
+Q1445650;;jour férié;jour de fête civile ou religieuse, ou commémorant un événement;{Q15275719, Q14795564};null;null;4
+Q1197685;;jour férié;Pas de descriptions;{Q1445650, Q2174956, Q7124679};null;null;1
+Q60075825;;jour saint chrétien;jour saint au sein du christianisme;{Q375011, Q11483816};null;null;3
+Q11032;;journal;périodique présentant des nouvelles et autres informations diverses;{Q11033, Q1002697, Q28877, Q43229, Q17172633, Q4830453};null;Q187084;7
+Q1110794;ENTREPRISE;journal quotidien;type de journal publié tous les jours, éventuellement six ou cinq fois par semaine;{Q11032};null;null;3
+Q184439;;juron;brève exclamation, plus ou moins grossière, vulgaire ou blasphématoire;{Q501390, Q8171, Q183046};null;null;1
+Q653345;;justification;concept dans la théologie chrétienne;{null};null;null;1
+Q6439708;;Kryptonien;race humanoïde de fiction;{Q28020127, Q1307329};null;null;1
+Q18127;;label discographique;société d'édition musicale;{Q1417728, Q431289, Q4830453};Q10302058;null;4
+Q1252319;;Laienbewegung;terme allemand: l'organisation de laïcs engagés, en particulier dans l'Église catholique;{Q43229, Q23955632};null;null;1
+Q173341;;langage de description de matériel;Pas de descriptions;{Q1941921};null;null;1
+Q9143;INFORMATIQUE;langage de programmation;langage artificiel conçu pour donner des instructions à une machine;{Q629206};null;null;4
+Q34770;LINGUISTIQUE;langue;système de signes vocaux, graphiques ou gestuels, permettant la communication entre individus;{Q17376908};null;Q8162;93
+Q171263;;langue agglutinante;type de langue;{Q48612};Q1276148;null;1
+Q33215;;langue construite;langue créée par une ou plusieurs personnes dans un temps relativement bref;{Q3247505};null;null;1
+Q1790577;;langue construite auxiliaire;langue humaine consciemment conçue;{Q33215};null;null;1
+Q38058796;;langue éteinte;langue qui n'a plus de locuteurs, ou qui n'est plus utilisée;{Q45762, Q15893266};null;null;1
+Q33648;;langue isolée;langue naturelle sans relation généalogiques démontrée avec d'autres langues;{Q33742};null;null;1
+Q45762;LINGUISTIQUE;langue morte;langue qui n'est plus la langue maternelle d'aucune communauté, même si elle est toujours en utilisation;{Q20162172};null;null;4
+Q33742;LINGUISTIQUE;langue naturelle;langue naturellement parlée par des humains, à l'inverse des langues construites formelles ou des langages formels;{Q20162172};null;null;5
+Q23492;;langue officielle;langue qu'un État ou organisation utilise et dont le statut est inscrit dans la constitution ou la loi;{Q34770};Q334451;null;1
+Q1288568;;langue vivante;langue en usage actuel;{Q20162172};null;null;3
+Q10927834;;latéralité;type de préférence;{Q908656, Q3734365};Q542952;null;1
+Q49371;;législation;normes juridiques;{Q820655};null;null;2
+Q41786270;LINGUISTIQUE;lettre de l'alphabet géorgien;Pas de descriptions;{Q9788};null;null;1
+Q19793459;LINGUISTIQUE;lettre grecque;lettre de l'alphabet grec;{Q9788};null;null;15
+Q863583;ELEMENTS;liant;produit qui sert à agglomérer en masse solide des particules solides sous forme de poudre ou de granulats;{Q79529, Q30308136, Q3300034};null;null;1
+Q200764;;librairie;boutique où l'on vend des livres;{Q213441};null;null;1
+Q3895768;;lieu de fiction;lieu qui existe seulement dans des fictions;{Q15796005};null;null;2
+Q24334893;;lieu mythique;lieu qui n'existe que dans un mythe et pas dans la réalité;{Q24334685};null;null;3
+Q2606186;;ligatures de l'alphabet grec;ligatures utilisées dans l'écriture grecque ;{Q188725};null;null;1
+Q728937;;ligne de chemin de fer;infrastructure linéaire parcourue par des trains;{Q83620, Q1311670, Q618123};null;null;1
+Q2973801;;ligne fortifiée;ligne de positions défensives comprenant des fortifications;{Q2611489};null;null;1
+Q11367;;lipide;matière grasse des êtres vivants;{Q174211};null;null;1
+Q11435;COMPOSANTS;liquide;fluide facilement déformable mais difficilement compressible;{Q102205};null;null;2
+Q1058795;COMPOSANTS;liquide biologique;fluide dans les organismes;{Q11435, Q289472, Q19388114};null;null;2
+Q12139612;;liste;collection ordonnée d’éléments;{Q28813620, Q11028, Q2085518};null;null;2
+Q66666236;;liste Wikimédia de personnes selon leur profession;liste de personnes de Wikimedia;{Q19692233};null;null;2
+Q29154430;CROYANCES;livre de la Bible;Pas de descriptions;{Q88392887, Q571};null;null;1
+Q486972;TOPONYMIE;localité;site d'habitation permanent ou temporaire d'une communauté;{Q82794, Q27096235, Q177634};null;null;17
+Q699405;;logement;tout endroit où une ou plusieurs personnes peuvent s'abriter;{Q811979};null;null;1
+Q341;;logiciel libre;logiciel sous licence libre;{Q5500964, Q56273712, Q14075, Q7397};Q40056;null;1
+Q4716510;;Logique aléthique;Pas de descriptions;{Q1516917};null;Q491412;1
+Q1076579;;loi du Parlement;type de loi;{Q7243147};null;null;1
+Q184872;;loisir;activité effectuée durant son temps libre;{Q451967};null;null;1
+Q189409;JEU;loterie;pari impliquant l'achat de ticket pour gagner un prix;{Q11416};null;null;1
+Q9128;;lumière;ensemble des ondes électromagnétiques visibles par l'œil humain;{Q11386};null;Q14620;1
+Q1218293;;lyse;Pas de descriptions;{Q28146343};null;null;1
+Q11019;PRODUIT;machine;outil capable d'effectuer des tâches en consommant de l'énergie;{Q39546, Q1183543};null;null;4
+Q16000047;;machine agricole;Pas de descriptions;{Q11019, Q3629395, Q3406743};null;null;1
+Q186713;;machine simple;dispositif mécanique élémentaire modifiant module ou direction d'une force;{Q517596, Q1183543};null;null;1
+Q152559;;macro-langue;étendue linguistique définie dans la norme ISO 639-3;{Q34770};null;null;2
+Q41298;ENTREPRISE;magazine;publication périodique destinée à un large public;{Q1002697, Q340169, Q39725049, Q11033, Q1261026};null;null;14
+Q11780435;;magazine mensuel;magazine qui parait tous les mois;{Q41298};null;null;1
+Q81741;;magie;énergie mythique et fictive;{Q178934};null;null;1
+Q3947;;maison;édifice destiné à l'habitation;{Q11755880};null;null;2
+Q2085381;;maison d'édition;entreprise ou association imprimant et diffusant des livres ou des documents imprimés;{Q1331793, Q105044823, Q4830453, Q11033};null;null;2
+Q12136;BIOLOGIE;maladie;altération de la santé;{Q2057971, Q567555, Q7189713, Q2996394};null;Q7208;62
+Q314676;;maladie à déclaration obligatoire;Pas de descriptions;{Q16662561};null;null;3
+Q18556249;;maladie de la conjonctive;Pas de descriptions;{Q3041498};null;null;1
+Q55789477;;maladie de la tête et du cou;Pas de descriptions;{Q18557436};null;null;1
+Q29568408;MALADIE;maladie des équidés;Pas de descriptions;{Q9190427};null;null;1
+Q9190410;MALADIE;maladie des lapins;Pas de descriptions;{Q9190427};null;null;1
+Q2662845;BIOLOGIE;maladie des plantes;maladie qui affecte les plantes;{Q12136};null;Q188956;2
+Q18556754;;maladie du côlon;Pas de descriptions;{Q3055380};null;null;1
+Q18123741;BIOLOGIE;maladie infectieuse;maladie causée par des agents pathogènes;{Q12136, Q42417296};Q87075524;Q788926;38
+Q929833;BIOLOGIE;maladie rare;type de maladie;{Q12136};null;null;11
+Q1266890;;maladie vasculaire;Pas de descriptions;{Q389735};null;null;1
+Q1928978;;maladie virale;maladie humaine, animale ou végétale causée par une infection virale;{Q18123741, Q166231};null;Q3560823;1
+Q1601114;;manœuvre;position ou changement de position d'un véhicule;{Q3249551, Q79782};null;null;1
+Q1281158;;manœuvre de vol;type de manœuvre;{Q1601114};null;null;1
+Q1191982;;mariculture;Pas de descriptions;{Q188989};null;null;1
+Q1913135;;marionnette;figurine de spectacle;{Q168658};Q588750;null;1
+Q431289;ENTITE;marque;nom utilisé pour désigner un bien ou un service;{Q16889133, Q167270};Q39809;null;4
+Q167270;PRODUIT;marque;signe permettant de distinguer un produit ou service;{Q131257, Q3695082, Q80071, Q1632297};null;null;17
+Q16323605;;marque alimentaire;Pas de descriptions;{Q431289, Q2095};null;null;2
+Q10429667;;marque automobile;type de marque;{Q431289};null;null;2
+Q19509097;;marque de cigarette;Pas de descriptions;{Q167270, Q431289};null;null;1
+Q1618899;;marque de mode;Pas de descriptions;{Q1417728, Q167270, Q431289};Q11828862;null;1
+Q29885778;;Marsupial de fiction;marsupial apparaissant des un univers de fiction;{Q27277631};null;null;1
+Q181790;;matériau composite;matériau constitué d'un assemblage d'au moins deux matériaux;{Q214609, Q16829513};null;null;1
+Q214609;;matériau de base;matière utilisée pour réaliser un objet au sens large;{Q2424752, Q28555911, Q25416091};null;Q228736;7
+Q206615;COMPOSANTS;matériau de construction;matériau utilisé pour la construction;{Q214609};null;null;5
+Q15303351;;matériel d'art;outil ou matière utilisée dans une oeuvre artistique;{Q214609};null;null;1
+Q2383811;;matériel de bureau;tous les produits de consommation dans la vie quotidienne au bureau;{Q2424752};null;null;2
+Q1521410;;matériel de cuisine;tout objet utilisé pour la préparation et la consommation des aliments;{Q26037047, Q1357761};null;null;1
+Q3300034;PRODUIT;matériel de peinture;matériel de peinture ou dessin qui sert de véhicule à la couleur;{Q15303351};null;null;4
+Q3966;;matériel informatique;ensemble des pièces détachées d'un appareil informatique;{Q2858615, Q2424752, Q11661};null;null;1
+Q1783121;;matière organique;matière fabriquée par les êtres vivants;{Q214609};null;null;1
+Q11474;ELEMENTS;matière plastique;type de matière organique solide, synthétique ou semi synthétique;{Q79529, Q214609};null;null;1
+Q517596;;mécanisme;assemblage de pièces mécaniques dont certaines peuvent se déplacer par rapport aux autres;{Q58778, Q15401930};null;null;1
+Q2866472;;mécanisme de défense;procédés inconscients en psychanalyse;{Q9332, Q12047512};Q41630;Q9418;2
+Q188504;;médecine non conventionnelle;pratiques aux fondements scientifiques très variables, et diversement contrôlées par des instances officielles;{Q25312655, Q31207};null;null;2
+Q340169;;média;moyen de diffusion permettant la communication;{Q12894677, Q286583};null;Q50636;3
+Q1209283;;media électronique;type de media;{Q340169, Q269415};null;null;1
+Q11033;;médias de masse;médias capables d'atteindre et d'influencer une large audience;{Q340169, Q8148, Q17537576, Q121182, Q3972943};null;Q165650;1
+Q12140;PRODUIT;médicament;type de substance destinée à soigner, diagnostiquer, traîter ou prévenir une maladie;{Q8386, Q28885102};null;null;6
+Q35456;PRODUIT;médicament essentiel;Pas de descriptions;{Q12140};Q7817;null;3
+Q169336;ELEMENTS;mélange;substance qui comprend au moins deux substances pures;{Q79529};null;null;8
+Q66902062;;mélange  complexe;Pas de descriptions;{Q169336};null;null;2
+Q1339824;;mentalité;ensemble des habitudes et croyances d'un groupe social;{Q450};null;null;1
+Q628523;;message;type d'information;{Q11028};null;null;2
+Q1924249;;mesurande;grandeur physique telles que la masse, la puissance, la température, la cible d'une mesure a été ou sera;{Q1924397, Q309314};null;Q394;1
+Q355020;;mesure de probabilité;Pas de descriptions;{Q192276};null;null;1
+Q24017414;;métaclasse de premier ordre;métaclasse dont les instances sont des classes d'individus;{Q23959932};null;null;2
+Q23958852;;métaclasse d'ordre variable;type de métaclasse;{Q23960977, Q19361238};null;null;1
+Q19361238;;métaclasse Wikidata;classe Wikidata dont les instances sont des classes d'objets ou d'évènement du monde réel;{Q19478619, Q21522864};null;null;2
+Q271449;COMPOSANTS;métal précieux;Métal pur, rare, lui conférant une valeur économique et culturelle élevée;{Q11426};null;null;1
+Q815844;;méthode;Pas de descriptions;{Q190686};null;null;1
+Q1799072;;méthode;processus pour réaliser quelque chose;{Q104637332, Q16686448, Q2695280};Q5891;null;5
+Q18120378;;méthode de mesure;procédures pour mesurer des objets;{Q1799072};null;null;1
+Q15169167;JUSTICE;méthode d'exécution;type de méthode;{Q1799072, Q1931388};null;null;10
+Q12737077;TRAVAIL;métier;label appliqué à une personne en fonction d'une activité à laquelle il participe;{Q1807498};null;null;80
+Q103810966;;métier de cirque;Ensemble des métiers liés aux arts du cirque et au fonctionnement d'un cirque;{Q28640};null;null;1
+Q3922583;METIER;métier de la santé;type de profession;{Q28640};null;null;6
+Q4220920;METIER;métier du cinéma;métier de l'industrie cinématographique;{Q28640};null;null;8
+Q15839299;;métier du théâtre;Pas de descriptions;{Q28640, Q12737077};null;null;2
+Q2207288;TRAVAIL;métier manuel;exercice d'un savoir-faire qualifié par une personne, pour entretien ou transformation d'objets;{Q1914636};null;null;29
+Q6857706;METIER;métier militaire;Pas de descriptions;{Q1047113, Q28640};Q20872118;null;9
+Q746549;COMPOSANTS;mets;plat ou aliment préparé, servi lors d’un repas;{Q8205328, Q2424752, Q2095};null;null;15
+Q14745;;meuble;objet mobile à usage domestique;{Q31807746, Q1357761, Q2424752, Q8205328};null;null;2
+Q575920;;milieu de culture;support qui permet la culture de cellules ou de microorganismes afin de permettre leur étude;{Q2356542, Q834028, Q11435, Q185744, Q50379882};null;null;1
+Q83353;;minéralogie;science qui étudie les minéraux;{null};null;null;1
+Q169930;MUSIQUE;mini-album;album de musique plus long qu'un single mais plus court qu'un album complet;{Q108346082, Q108910022};null;null;1
+Q1259759;;mini-série;série télévisée racontant une histoire en un nombre fini d'épisodes;{Q7724161};null;null;2
+Q2133344;;mission spatiale;Pas de descriptions;{Q5916, Q13425175};null;null;1
+Q13099631;;mobilier liturgique;mobilier utile ou nécessaire à la célébration des cérémonies religieuses;{Q14745, Q21818579};null;null;1
+Q184932;CULTURE;mode;trait grammatical;{Q980357};null;null;4
+Q2515887;;mode de comportement;Pas de descriptions;{Q2083958, Q4026292, Q3769299};null;Q3919817;1
+Q334166;TRANSPORT;mode de transport;forme particulière de transport qui se distingue par le milieu utilisé comme par exemple transport routier, transport ferroviaire, transport aérien, transport maritime;{Q21146257, Q16889133};null;null;6
+Q32090;;mode de vie;manière de vivre d'une personne ou d'un groupe d'individus;{Q3769299, Q24034076};Q1810941;null;2
+Q22908314;;mode rhétorique;Pas de descriptions;{Q367293};Q11024;null;1
+Q271669;;modelé;unité géomorphologique des sciences de la terre;{Q12766313};null;Q52109;1
+Q2294018;;modèle colorimétrique;Pas de descriptions;{Q486902};null;null;1
+Q20888659;;modèle de caméra;métaclasse de premier ordre;{Q10929058};null;null;1
+Q55990535;ORDINATEUR;modèle d'ordinateur;type de modèle;{Q10929058, Q62008942};null;null;1
+Q193946;;modèle scientifique;assemblage de concepts représentant de manière simplifiée une chose réelle déjà existante (objet, phénomène, etc.), en vue de la comprendre, d’en prédire le comportement, etc;{Q2623243};null;null;1
+Q47018901;TEMPS;mois du calendrier;l'un des douze mois d'un calendrier spécifique. Utiliser avec P31;{Q5151};null;null;25
+Q39373172;;moitié;une des deux parties généralement à peu près égales en lesquelles tout ce qui peut être divisé, ou considéré comme divisé;{Q66055, Q15989253};null;null;1
+Q1260524;;moment de la journée;type d'événement;{Q1190554, Q186081};null;null;3
+Q44613;;monastère;bâtiments où habitent moines ou moniales;{Q1370598, Q19691007, Q24398318, Q43229, Q98116669};null;null;1
+Q41207;;monnaie;morceau de matériau solide utilisé comme argent dans des transactions;{Q18536132, Q18593264, Q386724, Q2342494, Q693464};null;Q631286;2
+Q8142;ECONOMIE;monnaie;instrument de paiement en vigueur en un lieu et à une époque donnée;{Q11105360, Q47574, Q1368, Q831772};null;null;17
+Q28783456;;monnaie historique;Pas de descriptions;{Q8142, Q15893266, Q28607529};null;null;2
+Q920028;;monstre marin;créature imaginaire monstrueuse vivant dans le monde marin;{Q276453};null;null;1
+Q8502;;montagne;forme topographique de relief positif se détachant du relief environnant;{Q54050, Q2221906};null;Q52109;3
+Q8171;;mot;suite de sons ou de caractères graphiques formant une unité sémantique distincte;{Q2944660, Q187931};null;null;3
+Q743004;;moteur d'avion;moteur destiné à la propulsion des avions;{Q12757, Q28816538};null;null;1
+Q1229071;;motif;terme des arts plastiques, forme esthétique à répétitions;{Q55412936, Q68614425};null;null;2
+Q2083958;;motif;régularité discernable dans la nature ou dans une production humaine;{Q4184950};null;null;1
+Q45057822;;motif géométrique;Pas de descriptions;{Q55413080};null;null;1
+Q1770806;;moulure;classe d'éléments décoratifs dans l'ornementation;{Q6149036};null;null;1
+Q79782;;mouvement;déplacement en mécanique, physique;{Q17320256, Q1150070, Q17988854};null;Q41217;1
+Q968159;ARTS;mouvement artistique;ensemble d'artistes et d'œuvres artistiques ayant des traits communs affichés;{Q2198855, Q735};null;null;17
+Q2198855;CULTURE;mouvement culturel;période et mouvement de l'histoire culturelle;{Q3533467, Q49773};null;null;6
+Q3326867;ARTS;mouvement en peinture;style de peinture qui diffère soit pour des raisons esthétiques;{Q968159};null;null;1
+Q3326717;ARTS;mouvement littéraire;mouvement artistique;{Q968159};null;null;4
+Q2915955;PHILOSOPHIE;mouvement philosophique;type de mouvement;{Q5389993, Q49773};null;null;11
+Q2738074;POLITIQUE;mouvement politique;mouvement social ayant un objectif politique;{Q49773};null;null;6
+Q1323572;;mouvement réformateur;type de mouvement;{Q49773};null;null;1
+Q1826286;;mouvement religieux;mouvement social et idéologique dans le domaine religieux;{Q49773};Q9174;null;1
+Q49773;;mouvement social;action collective selon des formes d'organisation et stratégies variées et des tentatives de mobilisation variées en faveur d'un changement social;{Q3533467, Q16334295, Q203764};null;null;3
+Q2485083;;moyen de suicide;manière pour un ou plusieurs individus de se donner intentionnellement la mort;{Q1799072, Q1931388};null;null;1
+Q470850;;Mullidae;famille de poissons;{null};null;null;1
+Q2555896;;municipalité de Colombie;administration territoriale de la Colombie;{Q1763214, Q13220204, Q2824644};null;null;1
+Q41067667;;municipalité de Tunisie;type de division administrative tunisienne pour les municipalités;{Q15284, Q3266850, Q7631079, Q13221722};null;null;1
+Q2074737;TOPONYMIE;municipalité d'Espagne;division administrative de l'Espagne;{Q3183364, Q15284, Q1763214};null;null;7
+Q3184121;;municipalité du Brésil;division administrative des États au Brésil;{Q10374536, Q1048835, Q15284, Q13220204, Q192611};null;null;2
+Q13217644;;municipalité du Portugal;type de division administrative portugaise;{Q13220204, Q380230, Q1633408, Q11618279, Q41791733};null;null;2
+Q562061;;municipalité marchande;type de commune en Allemagne;{Q15284};null;null;1
+Q42744322;;municipalité urbaine d'Allemagne;type de municipalité;{Q262166, Q13539802, Q515};null;null;1
+Q3309852;;Mutilation génitale;Modification permanente ou temporaire des organes génitaux humains;{Q890057, Q767568};null;null;1
+Q5864;;naine jaune;étoile appartenant à la séquence principale;{Q244393, Q1007122, Q3450};null;null;1
+Q819049;;nantissement;droit de gage mobilier;{null};null;null;1
+Q3336843;;nation constitutive;une des 4 subdivision territoriale du Royaume-Uni;{Q717478, Q1763527, Q10864048};null;null;2
+Q82042;;nature;ensemble d'emplois linguistiques apparentés d'un mot;{Q16889133};null;null;6
+Q11446;PRODUIT;navire;type d'embarcation;{Q1229765, Q16391167};null;null;2
+Q1216998;;néoplasie;néoformation de tissus corporels qui se produit à la suite d'un dérèglement de la croissance cellulaire;{Q12136};null;null;1
+Q407752;;neurotoxine;Pas de descriptions;{Q184651, Q50379880};null;null;1
+Q1417728;;nom commercial;type de wordmark;{Q837816};null;null;1
+Q101352;IDENTITE;nom de famille;partie d'un nom de personne qui est transmise à un enfant par l'un de ses parents;{Q10856962};null;null;10
+Q502895;IDENTITE;nom vernaculaire;nom utilisé dans le langage courant pour un taxon ou un organisme;{Q82799, Q30060629, Q913170};null;null;13
+Q104083;;nombre grammatical;trait grammatical caractérisant certains lemmes comme les noms et adjectifs, les pronoms ainsi que les verbes;{Q980357};null;null;1
+Q173091;;nombre transcendant;nombre complexe qui n'est racine d'aucun polynôme à coefficients entiers;{Q607728};null;null;1
+Q245102;;nombre triangulaire;nombre figuré;{Q836270};null;null;1
+Q376431;;noms et adjectifs de couleur;terminologie;{Q1969448, Q8171};null;Q1520130;1
+Q27084;;notation en parts-par;Pas de descriptions;{Q255388};null;null;1
+Q595523;;notion;connaissance élémentaire;{Q9081};null;null;1
+Q2095;ALIMENT;nourriture;élément d'origine animale, végétale, fongique, consommé par des êtres vivants à des fins énergétiques ou nutritionnelles, dans le processus d'alimentation;{Q1194058, Q223557};null;Q2111686;5
+Q477544;;nouveau mouvement religieux;type de mouvement;{Q2742167, Q1826286};null;Q34187;2
+Q63116;;numéral;sous-catégorie de déterminant indéfini ou déterminatif indéfini;{Q576271, Q503992};null;null;3
+Q181394;ELEMENTS;nutriment;objet de la nutrition;{Q79529};null;null;1
+Q488383;;objet;tout ce qui existe et peut être utilisé par un sujet;{Q35120};null;null;2
+Q337060;COMPOSANTS;objet;entité qui est physiquement perceptible;{Q223557};null;null;4
+Q15706911;;objet fictionnel;object existant dans un univers fictionnel;{Q14897293};null;null;1
+Q50380212;;objet flottant;Pas de descriptions;{Q337060};null;null;1
+Q618123;;objet géographique;entité identifiée de manière unique par une donnée spatiale;{Q27096213};Q1071;null;1
+Q20203727;;objet mythologique récipient;objet présent dans une mythologie;{Q24334685};null;null;2
+Q21029893;;objet religieux;objet utilisé en religion;{Q8205328, Q56627913};null;null;2
+Q223557;PRODUIT;objet tangible;substance ou objet matériel;{Q4406616, Q1454986, Q35459920};null;Q413;5
+Q639907;;observation médicale;observation, constatation, constat médical(e);{Q193181};null;Q11190;2
+Q318028;;obus;Pas de descriptions;{Q185785};null;null;1
+Q63187345;;occupation religieuse;une profession qui sert un but dans le contexte d'une religion;{Q12737077, Q4164871, Q108290376};null;null;5
+Q63188808;TRAVAIL;occupation religieuse catholique;occupation ou profession qui sert un but dans le contexte de l'Église catholique;{Q63188683, Q4164871, Q108290376};null;null;2
+Q63188683;TRAVAIL;occupation religieuse chrétienne;occupation ou profession qui sert un objectif dans le contexte du christianisme;{Q63187345, Q4164871, Q28640, Q108290376};null;null;5
+Q108377574;TRAVAIL;Occupation religieuse islamique;Pas de descriptions;{Q63187345, Q4164871, Q108290376, Q28640};null;null;3
+Q63187384;TRAVAIL;occupation religieuse juive;occupation ou profession qui sert un objectif dans le contexte du judaïsme;{Q63187345, Q108290376, Q4164871, Q28640};null;null;1
+Q91188763;TRAVAIL;occupation religieuse orthodoxe;occupation ou profession qui sert un objectif dans le contexte des Églises orthodoxes;{Q63188683, Q4164871, Q108290376};null;null;1
+Q1190554;;occurrence;occurrence d’un fait ou objet dans l’espace-temps ;{Q26907166};null;null;13
+Q182406;;Océanide;nymphe aquatique dans la mythologie grecque;{Q3059255, Q3346693, Q20575671};null;null;1
+Q1640962;IDENTITE;odonymie;nom désignant une voie de communication;{Q82799, Q7884789};null;null;2
+Q386724;;œuvre;objet physique ou virtuel résultant d'un travail anthropique, c'est-à-dire réalisé par l'humain;{Q15401930};null;null;2
+Q17537576;;œuvre créative;Pas de descriptions;{Q15621286};null;null;1
+Q838948;;œuvre d’art;produit s'adressant délibérément aux sens, aux émotions et à l'intellect;{Q17537576, Q18593264, Q28877};null;Q50637;3
+Q47461344;LITTÉRATURE;œuvre écrite;toute œuvre créative sous forme écrite ou textuelle (inscriptions, manuscrits, etc.);{Q17537576};null;null;46
+Q7725634;LITTÉRATURE;œuvre littéraire;produit artistique d'un écrivain;{Q47461344, Q838948, Q1318295};null;null;56
+Q2188189;;œuvre musicale;œuvre d'art composée de sons et de rythmes;{Q838948};null;null;1
+Q105543609;MUSIQUE;œuvre/composition musicale;métaclasse Wikidata;{Q207628, Q2188189};null;null;16
+Q1777205;;offices dans le judaïsme;Pas de descriptions;{Q40953};null;null;1
+Q4226220;;officier naval;Pas de descriptions;{Q56019, Q10669499};null;null;3
+Q600236;MEDECINE;opération chirurgicale;chirurgie instrumentale sur ou dans le corps d'un patient dans le but de la thérapie;{Q796194};null;null;4
+Q657596;;opération unaire;opération à un opérande, et qui n'a besoin que d'un seul opérateur;{Q3884033, Q7882311};null;null;2
+Q427523;;opioïde;opiacé de synthèse;{Q3706669, Q173235, Q940, Q12830468, Q75005474};null;null;1
+Q42998;;orchestre;ensemble musical;{Q11072804, Q32178211};null;null;1
+Q657326;;ordre;Pas de descriptions;{Q187588};null;null;1
+Q2003221;;ordre de chevalerie;organisations;{Q992253, Q8425, Q193622, Q55097243};null;null;1
+Q858700;;ordre juridique;Pas de descriptions;{null};Q7748;null;1
+Q2061186;;ordre religieux;Communauté des hommes ou des femmes qui se lient par des vœux religieux sur leur mode de vie et vivent une vie spirituelle dans la communauté;{Q2742167, Q1530022};null;null;3
+Q712378;COMPOSANTS;organe;ensemble de tissus concourant à la réalisation d'une fonction physiologique;{Q4936952};null;null;4
+Q4620674;;organe sexuel;Pas de descriptions;{Q712378, Q43022214};null;null;1
+Q43229;ENTITE;organisation;entité sociale (non nécessairement commerciale) réunissant des personnes en un groupe structuré gérant des moyens communs pour répondre à certains besoins ou poursuivre des objectifs collectifs;{Q106559804, Q16334295, Q6671777};null;null;4
+Q17149090;;organisation armée;organisation disposant d'armes;{Q43229};null;null;1
+Q21980538;;organisation commerciale;entreprise à but lucratif;{Q4830453, Q6881511};null;null;1
+Q1788992;;organisation criminelle;Pas de descriptions;{Q43229, Q1920219};null;null;2
+Q7210356;;organisation politique;entité impliquée dans les processus et prises de décisions politiques;{Q43229};null;null;2
+Q2493450;;organisation politique de jeunesse;type d'organisation;{Q8059357, Q7210356};null;null;1
+Q1530022;;organisation religieuse;organisation qui organise la pratique commune d'une religion;{Q43229};Q9174;null;1
+Q4430243;;organisation sociale;Pas de descriptions;{Q7887142, Q2083958, Q43229};Q43229;Q21201;1
+Q17127659;;organisation terroriste;type de organisation;{Q1788992, Q7210356};null;null;1
+Q163740;;organisme sans but lucratif;organisme qui utilise ses revenus pour servir ses objectifs sociaux, culturels ou scientifiques dans la communauté plutôt que de les distribuer comme profit ou dividendes à ses membres;{Q43229};null;Q975065;1
+Q1444;;orgue;instrument de musique à clavier;{Q52954};null;Q11163731;1
+Q17888;;orientation sexuelle;mode durable d'attirance affective et/ou sexuelle;{Q4042967, Q3702971};Q154136;null;5
+Q546776;;orifice du corps;orifice fonctionnelle dans le corps d'un être vivant;{Q20204151, Q28654074};null;null;1
+Q335261;;ornement;décoration utilisée pour embellir un bâtiment ou un objet;{Q6149036, Q1519454, Q8205328};null;null;1
+Q265868;BIOLOGIE;os;tissu conjonctif solidifié;{Q24060765, Q629103, Q66545297};null;null;6
+Q928150;;os plat;Pas de descriptions;{Q265868};null;null;1
+Q39546;PRODUIT;outil;instrument physique utilisable pour exercer une action;{Q10273457, Q2424752, Q35825432};null;null;17
+Q2578402;;outil à main;outil qui est actionné à la main;{Q39546};null;null;1
+Q3629395;;outil agricole;Pas de descriptions;{Q39546, Q1183543, Q10273457};Q11451;null;2
+Q1760958;;outil de coupe;Outil utilisé pour la coupe ou l'enlèvement de matière;{Q39546};null;null;2
+Q1494647;;outil de jardin;Pas de descriptions;{Q39546, Q10273457};null;null;1
+Q20088085;;page de dictionnaire dans Wikipédia;Pas de descriptions;{Q15474042, Q1580166};null;null;2
+Q13406463;;page de liste de Wikimedia;page listants des éléments de même nature dans un wiki de Wikimedia;{Q12139612, Q17442446, Q15633587, Q14204246};null;null;4
+Q22808320;;page d'homonymie de nom de personne de Wikimedia;type de page d'homonymie de Wikimedia;{Q4167410, Q15623926};null;null;12
+Q4167410;;page d'homonymie de Wikimedia;page de Wikimedia contenant des liens à articles avec le même nom;{Q15633587, Q17442446};null;null;6509
+Q17362920;;page en doublon;doublon avec un autre élément dû à un doublon sur un autre projet Wikimédia. Doit être fusionnée après règlement du problème sur les autres projets Wikimedia;{Q17379835, Q1263068, Q15138389};null;null;2
+Q1148747;;paiement;type d'opération financière;{Q1166072};null;null;1
+Q7802;;pain;aliment de base fabriqué à partir de farine, de sel et d'eau;{Q736427, Q4498085};null;null;1
+Q16560;;palais;édifice monumental;{Q41176};null;null;1
+Q811195;;panneaux structurels isolés;composants préfabriqués en construction;{Q478496};null;null;1
+Q207320;;paramilitaire;force non-militaire organisée comme une armée professionnelle;{Q1673189};null;null;1
+Q171318;CIVILISATION;parenté;relation sociale fondée sur l'existence d'une alliance, d'une filiation commune, ou d'une adoption;{Q874405, Q853725};null;null;9
+Q131746;;parfum;composition odorante;{Q131207, Q2151963};null;null;1
+Q7278;;parti politique;organisation politique qui cherche à influencer une politique gouvernementale;{Q79913, Q155076, Q7210356};null;null;2
+Q1497384;;partie d'un bâtiment;Pas de descriptions;{Q56052926};null;null;1
+Q56883667;;partie d'un champignon;Pas de descriptions;{Q4936952};null;null;1
+Q19603939;COMPOSANTS;partie d'un édifice;un des éléments qui constituent un édifice;{Q8205328, Q214609};null;null;4
+Q14864881;;partie d'une cellule;Pas de descriptions;{Q5058355};null;null;1
+Q20011319;PLANTE;partie d'une plante;Pas de descriptions;{Q28845870, Q4936952};Q756;Q655362;8
+Q20888925;;parties, caractéristiques et technologies de l'appareil photographique;Pas de descriptions;{Q66310125};Q15328;null;1
+Q384748;;pas de danse;séquence planifiée, codifiée de mouvements lors d’une danse;{Q3326454};null;null;1
+Q72070508;;Pas de labels FR;Pas de descriptions;{Q98119401};Q2393187;null;2
+Q78155096;;Pas de labels FR;Pas de descriptions;{Q98119151, Q420927};Q420927;null;2
+Q16748867;EE;Pas de labels FR;Pas de descriptions;{Q9415};null;Q9357054;4
+Q42303753;;Pas de labels FR;Pas de descriptions;{Q929833, Q179630};null;null;8
+Q6957341;RELIGION;Pas de labels FR;Pas de descriptions;{Q9174};null;null;2
+Q109335991;RELIGION;Pas de labels FR;Pas de descriptions;{Q9174};null;null;1
+Q1189816;RELIGION;Pas de labels FR;Pas de descriptions;{Q9174};null;null;1
+Q104601365;;Pas de labels FR;Pas de descriptions;{Q8434};null;null;1
+Q60673395;;Pas de labels FR;Pas de descriptions;{Q839546};null;null;2
+Q7631958;TOPONYMIE;Pas de labels FR;Pas de descriptions;{Q82794};null;null;1
+Q686831;;Pas de labels FR;Pas de descriptions;{Q82604};Q571;null;1
+Q83155724;;Pas de labels FR;Pas de descriptions;{Q82047057};null;null;2
+Q1394771;;Pas de labels FR;type de vent;{Q8094};null;null;1
+Q78129516;;Pas de labels FR;Pas de descriptions;{Q8074};null;null;1
+Q3737844;;Pas de labels FR;Pas de descriptions;{Q78081419};null;null;1
+Q3685476;;Pas de labels FR;Pas de descriptions;{Q747074, Q19730508};null;null;2
+Q690292;;Pas de labels FR;Pas de descriptions;{Q7340417};null;null;1
+Q72044356;;Pas de labels FR;Pas de descriptions;{Q72070508};null;null;1
+Q71376028;;Pas de labels FR;Pas de descriptions;{Q71377943, Q3269344};null;null;1
+Q50825544;;Pas de labels FR;Pas de descriptions;{Q6942574};null;null;1
+Q67518233;;Pas de labels FR;Pas de descriptions;{Q67518978, Q3249551};null;null;1
+Q17587776;;Pas de labels FR;Pas de descriptions;{Q6671777, Q937228};null;null;1
+Q66557832;;Pas de labels FR;Pas de descriptions;{Q66523253};null;null;1
+Q96754171;;Pas de labels FR;Pas de descriptions;{Q6460735};null;null;1
+Q21506450;;Pas de labels FR;Pas de descriptions;{Q62934160};Q176799;null;5
+Q62933848;;Pas de labels FR;Pas de descriptions;{Q62933934, Q23905069};null;null;1
+Q62934264;;Pas de labels FR;Pas de descriptions;{Q62933934, Q21506450};null;null;2
+Q1529874;;Pas de labels FR;Pas de descriptions;{Q618123, Q15989253};null;null;1
+Q2544182;;Pas de labels FR;Pas de descriptions;{Q6149036};null;null;1
+Q55662747;;Pas de labels FR;type de dyade;{Q59199015, Q29431432};Q494483;null;3
+Q1803829;;Pas de labels FR;Pas de descriptions;{Q58778};null;null;2
+Q2516436;;Pas de labels FR;Pas de descriptions;{Q58778, Q43229};null;null;1
+Q28109769;;Pas de labels FR;Pas de descriptions;{Q5839321, Q216545};null;null;1
+Q3408368;;Pas de labels FR;Pas de descriptions;{Q5767753};null;null;1
+Q2673813;;Pas de labels FR;Pas de descriptions;{Q573};null;null;1
+Q4292136;;Pas de labels FR;Pas de descriptions;{Q5725005};null;Q228736;2
+Q56147859;;Pas de labels FR;Pas de descriptions;{Q56052926};null;null;1
+Q1762471;;Pas de labels FR;Pas de descriptions;{Q560311, Q11177771, Q12767945};null;null;2
+Q23457088;;Pas de labels FR;Pas de descriptions;{Q5522423};null;null;1
+Q55215846;;Pas de labels FR;métaclasse de premier ordre;{Q55214844};null;null;2
+Q55215251;;Pas de labels FR;terme;{Q55214844, Q96273743};null;null;11
+Q21009057;;Pas de labels FR;Pas de descriptions;{Q5457310};null;null;1
+Q61915880;;Pas de labels FR;Pas de descriptions;{Q52193405, Q181970};null;null;3
+Q72941151;;Pas de labels FR;Pas de descriptions;{Q50379880};null;null;1
+Q450307;;Pas de labels FR;Pas de descriptions;{Q4991371, Q47064};null;null;1
+Q6055843;;Pas de labels FR;Pas de descriptions;{Q483394};Q6934782;null;1
+Q107467117;;Pas de labels FR;métaclasse Wikidata;{Q483394, Q24016972};null;null;2
+Q7692348;;Pas de labels FR;phénomène;{Q483247, Q944806};null;null;1
+Q2360980;;Pas de labels FR;Pas de descriptions;{Q47574};null;null;3
+Q2627400;;Pas de labels FR;terme;{Q47495022};null;null;1
+Q47103999;;Pas de labels FR;Pas de descriptions;{Q47279819};Q1949963;null;2
+Q44575957;;Pas de labels FR;Pas de descriptions;{Q44580842};null;null;1
+Q2176252;;Pas de labels FR;terme;{Q43035};null;null;1
+Q4338148;;Pas de labels FR;Pas de descriptions;{Q4173974};Q124794;null;1
+Q11197007;;Pas de labels FR;type de groupe;{Q41710, Q4392985};null;null;7
+Q4536544;;Pas de labels FR;Pas de descriptions;{Q408891};null;Q8162;1
+Q109682310;;Pas de labels FR;Pas de descriptions;{Q4070702, Q4897819};null;null;4
+Q15398983;;Pas de labels FR;Pas de descriptions;{Q4005761};null;null;1
+Q50002046;;Pas de labels FR;Pas de descriptions;{Q38348};null;null;1
+Q1985623;;Pas de labels FR;Pas de descriptions;{Q37756};null;null;1
+Q27955379;;Pas de labels FR;Pas de descriptions;{Q376799};Q516739;null;1
+Q9338812;;Pas de labels FR;Pas de descriptions;{Q372923};null;null;1
+Q2514663;;Pas de labels FR;Pas de descriptions;{Q33111788};null;null;1
+Q71784320;;Pas de labels FR;Pas de descriptions;{Q3269344};null;null;3
+Q71787836;;Pas de labels FR;Pas de descriptions;{Q3269344};null;null;1
+Q72055753;;Pas de labels FR;Pas de descriptions;{Q3269344};null;null;1
+Q2042898;;Pas de labels FR;Pas de descriptions;{Q3254959};null;null;1
+Q33059434;;Pas de labels FR;Pas de descriptions;{Q3249551};null;null;1
+Q1668151;;Pas de labels FR;Pas de descriptions;{Q3241972};null;Q82622;3
+Q1343715;;Pas de labels FR;Pas de descriptions;{Q32098};null;null;1
+Q1680012;;Pas de labels FR;Pas de descriptions;{Q287};null;null;1
+Q56604560;;Pas de labels FR;Pas de descriptions;{Q28640};null;null;2
+Q27303890;;Pas de labels FR;Pas de descriptions;{Q27303980};null;null;1
+Q5932254;;Pas de labels FR;Pas de descriptions;{Q2725376};null;null;2
+Q784969;;Pas de labels FR;Pas de descriptions;{Q27214933};Q69883;null;1
+Q41890459;;Pas de labels FR;Pas de descriptions;{Q27058130};null;null;1
+Q64504099;;Pas de labels FR;Pas de descriptions;{Q2695280};Q999646;null;1
+Q81941037;;Pas de labels FR;type de technique;{Q2695280, Q12894677};Q867147;null;2
+Q106589826;;Pas de labels FR;Pas de descriptions;{Q25894868};null;null;3
+Q105760881;;Pas de labels FR;Pas de descriptions;{Q2465832};null;null;1
+Q24534061;;Pas de labels FR;Pas de descriptions;{Q24533670, Q24335044};null;null;2
+Q31172650;;Pas de labels FR;Pas de descriptions;{Q2393196};null;null;6
+Q23905071;;Pas de labels FR;Pas de descriptions;{Q23905069, Q21506450};Q15627509;null;2
+Q66745531;;Pas de labels FR;Pas de descriptions;{Q2362312, Q2465832};null;Q8162;2
+Q47495022;;Pas de labels FR;Pas de descriptions;{Q23497974};null;Q333;2
+Q106720965;;Pas de labels FR;Pas de descriptions;{Q23404};null;null;1
+Q759968;;Pas de labels FR;Pas de descriptions;{Q2304418};null;null;1
+Q12119802;;Pas de labels FR;Pas de descriptions;{Q223393};null;null;3
+Q106238462;;Pas de labels FR;Pas de descriptions;{Q223393};null;null;1
+Q41691016;;Pas de labels FR;Pas de descriptions;{Q219426};null;null;1
+Q63645073;;Pas de labels FR;Pas de descriptions;{Q2184645};null;null;1
+Q107478770;;Pas de labels FR;Pas de descriptions;{Q21550682, Q21146257};null;null;2
+Q108586636;;Pas de labels FR;métaclasse Wikidata;{Q21146257};null;null;3
+Q11696608;;Pas de labels FR;Pas de descriptions;{Q21040055};null;null;1
+Q17062980;;Pas de labels FR;Pas de descriptions;{Q2095};null;null;3
+Q5368822;;Pas de labels FR;Pas de descriptions;{Q2095};null;null;1
+Q2441645;;Pas de labels FR;Pas de descriptions;{Q2085518, Q1207505, Q758871};null;null;1
+Q68618328;;Pas de labels FR;Pas de descriptions;{Q208469, Q61610698, Q69197847};null;null;1
+Q4536543;;Pas de labels FR;Pas de descriptions;{Q20825842};null;null;1
+Q3267791;;Pas de labels FR;Pas de descriptions;{Q20719696};null;null;1
+Q23012297;;Pas de labels FR;Pas de descriptions;{Q200928};null;null;1
+Q22676022;;Pas de labels FR;Pas de descriptions;{Q20027951, Q20026879};null;null;2
+Q41014950;;Pas de labels FR;Pas de descriptions;{Q1969448};null;null;9
+Q76397847;;Pas de labels FR;Pas de descriptions;{Q1969448};null;null;1
+Q77094271;;Pas de labels FR;Pas de descriptions;{Q1969448};null;null;1
+Q104098715;;Pas de labels FR;Pas de descriptions;{Q19478619};null;null;1
+Q1814351;;Pas de labels FR;Pas de descriptions;{Q1914636, Q98144562};Q87075524;null;1
+Q2349219;;Pas de labels FR;Pas de descriptions;{Q1914636, Q22687823};null;null;1
+Q1782301;;Pas de labels FR;Pas de descriptions;{Q1914636, Q133500};null;null;1
+Q20026879;;Pas de labels FR;Pas de descriptions;{Q1875621};null;null;5
+Q20031543;;Pas de labels FR;Pas de descriptions;{Q1875621};null;null;1
+Q62521854;;Pas de labels FR;Pas de descriptions;{Q186081};null;null;1
+Q86923152;;Pas de labels FR;Pas de descriptions;{Q18603648, Q31464082};null;null;1
+Q7225120;;Pas de labels FR;Pas de descriptions;{Q185451};Q7163;null;1
+Q107434367;;Pas de labels FR;Pas de descriptions;{Q1826286};null;null;1
+Q108465955;;Pas de labels FR;Pas de descriptions;{Q1792379};null;null;3
+Q26262142;;Pas de labels FR;Pas de descriptions;{Q1783819};null;null;1
+Q18913069;;Pas de labels FR;Pas de descriptions;{Q17624054};null;null;1
+Q1295240;;Pas de labels FR;Pas de descriptions;{Q17489659, Q2668072};null;null;1
+Q103818207;;Pas de labels FR;Pas de descriptions;{Q173600};null;null;1
+Q56256178;;Pas de labels FR;métaclasse Wikidata;{Q17339814};null;null;3
+Q74892521;;Pas de labels FR;Pas de descriptions;{Q17339814};null;null;1
+Q1156686;;Pas de labels FR;Pas de descriptions;{Q16889133};Q83180;null;3
+Q23702033;;Pas de labels FR;Pas de descriptions;{Q16889133};null;null;1
+Q2581063;;Pas de labels FR;Pas de descriptions;{Q16889133};null;null;1
+Q33294038;;Pas de labels FR;Pas de descriptions;{Q16889133};null;null;1
+Q60331415;;Pas de labels FR;Pas de descriptions;{Q16887380};null;null;1
+Q25380035;;Pas de labels FR;Pas de descriptions;{Q16334295};null;null;1
+Q104937092;;Pas de labels FR;Pas de descriptions;{Q1616877};null;null;1
+Q7451247;;Pas de labels FR;Pas de descriptions;{Q160402, Q12558574};null;null;3
+Q304904;;Pas de labels FR;Pas de descriptions;{Q1603416};null;null;1
+Q19790488;;Pas de labels FR;Pas de descriptions;{Q156};null;null;1
+Q4931513;;Pas de labels FR;Pas de descriptions;{Q155930, Q2806437, Q2072431, Q1067164};null;null;1
+Q51696175;;Pas de labels FR;Pas de descriptions;{Q15275719};null;null;1
+Q41172303;;Pas de labels FR;Pas de descriptions;{Q151885};null;null;2
+Q20820018;;Pas de labels FR;Pas de descriptions;{Q151885};null;null;1
+Q1344851;;Pas de labels FR;concept juridique;{Q1498273};null;null;1
+Q47512214;;Pas de labels FR;Pas de descriptions;{Q14825551};null;null;1
+Q65921414;;Pas de labels FR;Pas de descriptions;{Q1445650};Q172331;null;1
+Q15884100;;Pas de labels FR;Pas de descriptions;{Q13698, Q15220419};null;null;1
+Q1879292;;Pas de labels FR;Pas de descriptions;{Q1365249};null;null;1
+Q659390;;Pas de labels FR;Pas de descriptions;{Q131841};null;null;1
+Q66310125;;Pas de labels FR;Pas de descriptions;{Q1310239, Q22811462};null;null;1
+Q22687823;;Pas de labels FR;Pas de descriptions;{Q13024547};null;null;2
+Q4442611;;Pas de labels FR;Pas de descriptions;{Q1292119, Q1792644};null;null;1
+Q66472631;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q3053334;null;5
+Q66664364;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q8162;null;3
+Q96634632;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q9418;Q9418;2
+Q64513524;TECHNOLOGIE;Pas de labels FR;type de terme technique;{Q12812139};Q8134;null;1
+Q64588497;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q1779838;null;1
+Q66739237;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q3972943;null;1
+Q66747126;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q21198;null;1
+Q77330535;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q1069;Q42417109;1
+Q77331377;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q41767;null;1
+Q77478212;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q184940;null;1
+Q87372404;TECHNOLOGIE;Pas de labels FR;Pas de descriptions;{Q12812139};Q43015;null;1
+Q5303685;;Pas de labels FR;Pas de descriptions;{Q12558574};null;null;1
+Q65193474;;Pas de labels FR;Pas de descriptions;{Q12453};null;null;1
+Q55788864;;Pas de labels FR;Pas de descriptions;{Q12136, Q2852249};null;null;1
+Q82036085;;Pas de labels FR;Pas de descriptions;{Q1207505, Q937228};null;null;1
+Q4818719;;Pas de labels FR;Pas de descriptions;{Q1207505, Q8208709};null;null;1
+Q5373787;;Pas de labels FR;Pas de descriptions;{Q11801374};null;null;1
+Q11496901;JEU;Pas de labels FR;Pas de descriptions;{Q11410};null;null;1
+Q4859485;;Pas de labels FR;Pas de descriptions;{Q1135882};null;null;1
+Q6942574;MUSIQUE;Pas de labels FR;Pas de descriptions;{Q109659725};null;null;1
+Q574302;;Pas de labels FR;Pas de descriptions;{Q109559516, Q426145};null;null;1
+Q105096490;;Pas de labels FR;Pas de descriptions;{Q1075, Q18054608, Q64732777};null;Q7150;3
+Q55511472;;Pas de labels FR;Pas de descriptions;{Q1064242, Q326277};null;null;1
+Q58483083;;Pas de labels FR;Pas de descriptions;{Q105543609, Q7725634, Q25379};null;null;2
+Q30149195;CROYANCE;Pas de labels FR;type de thème littéraire;{Q1053916, Q23847174};Q1845;Q794605;4
+Q10860585;;Pas de labels FR;Pas de descriptions;{Q1048835, Q19953632};null;null;1
+Q44597158;METIER;Pas de labels FR;Pas de descriptions;{Q1047113};null;null;1
+Q106078286;;Pas de labels FR;Pas de descriptions;{Q104157};null;null;1
+Q917125;;Pas de labels FR;Pas de descriptions;{Q10400865};null;null;1
+Q103914748;CORPS HUMAIN;Pas de labels FR;Pas de descriptions;{Q104007623};null;null;6
+Q103843025;;Pas de labels FR;Pas de descriptions;{Q103813670};null;null;1
+Q2270606;;Pas de labels FR;Pas de descriptions;{Q10354783, Q1914636, Q2110808};Q2110808;null;1
+Q85776190;;Pas de labels FR;Pas de descriptions;{Q1001059};null;null;1
+Q17009477;;Pas de labels FR;Pas de descriptions;{null};null;null;1
+Q3638175;;Pas de labels FR;page d'homonymie d'un projet Wikimédia;{null};null;null;1
+Q7300727;;Pas de labels FR;Pas de descriptions;{null};null;null;1
+Q1320830;;passage;circulation dans un bâtiment;{Q13634881, Q811979};null;null;1
+Q1994301;;passé;Pas de descriptions;{Q4423888};null;null;1
+Q1472481;;pâte à tartiner;Pas de descriptions;{Q2095};null;null;1
+Q477248;;pâtisserie;préparation culinaire sucrée à base de pâte;{Q2095, Q4498085};null;null;2
+Q1792374;;patrouille acrobatique;Pas de descriptions;{Q679165, Q12973014};null;null;1
+Q6256;ENTITE;pays;région généralement identifiée comme une entité géopolitique distincte;{Q1048835};null;null;1
+Q1074;;peau;organe composé de plusieurs couches de tissus;{Q24060765, Q629103};null;null;1
+Q166502;;péché capital;dans la tradition chrétienne, péchés dont découlent tous les autres, des vices cardinaux;{Q60227, Q1411242};null;null;2
+Q862880;;pédale d'effet;Pas de descriptions;{Q1327500, Q38215930};null;null;1
+Q3305213;;peinture;œuvre artistique peinte sur une surface;{Q4502142, Q8205328};null;null;3
+Q545779;;péjoratif;terme exprimant une mauvaise opinion de quelqu'un ou de quelque chose;{Q1969448, Q183046};null;null;4
+Q34763;;péninsule;partie de terres émergées rattachée à une masse continentale;{Q271669, Q205895, Q35145263};null;null;1
+Q172847;;peptide;chaînes courtes naturelles biologiques ou artificiellement fabriquées de monomères d'acides aminés liés par des liaisons peptidiques (amides);{Q355679};null;null;1
+Q28474;;périmètre;longueur du tour d'une figure plane;{Q670036};null;null;1
+Q15401633;;période archéologique;partie d'un âge archéologique (à ne pas confondre avec les âges égologiques, qui ont beaucoup plus longs);{Q6428674, Q23498};null;null;1
+Q392928;;période géologique;subdivision d'une ère sur l'échelle des temps géologiques;{Q4005761};null;null;6
+Q11514315;;période historique;unité de découpage de l'histoire en « période » ou en « époque »;{Q186081, Q6428674};null;null;2
+Q1002697;;périodique;titre de presse;{Q234460, Q732577, Q2217301, Q15621286, Q28314507, Q340169, Q47461344};null;null;10
+Q3185361;;périodique de bande dessinée;publication périodique contenant principalement des bandes dessinées;{Q1791899, Q1004};null;null;1
+Q193395;;périphérique de stockage d'information;type de support physique;{Q286583, Q340169, Q15141646, Q3966};null;null;1
+Q205034;;perpendicularité;Pas de descriptions;{Q215067, Q109483186};null;null;1
+Q851824;;persécution;type d'oppression;{Q124490, Q252000, Q1920219};null;null;1
+Q15711870;CREATURE;personnage d'animation;personnage de fiction qui apparaît dans un film d'animation;{Q95074};null;null;1
+Q1114461;CREATURE;personnage de bande dessinée;personnage fictif dans la bande dessinée;{Q95074};null;null;4
+Q95074;CREATURE;personnage de fiction;personnage imaginaire apparaissant dans une histoire;{Q14897293, Q18336849};null;null;3
+Q12405827;;personnage de la Bible;personnage nommé dans la Bible;{Q18563354, Q18706315, Q4271324, Q95074, Q3658341};null;null;1
+Q22988604;CREATURE;personnage de la mythologie grecque;Pas de descriptions;{Q4271324, Q95074};null;null;10
+Q386208;;personnage de mascotte;personnage fictif servant de mascotte à un groupe;{Q18670161, Q5175225};null;null;1
+Q3375722;CREATURE;personnage de théâtre;Pas de descriptions;{Q95074};null;null;3
+Q20643955;;personnage humain de la Bible;personnage humain (par opposition aux personnages surnaturels) de la Bible;{Q21070568, Q12405827};null;null;3
+Q13002315;;personnage légendaire;personne ou animal nommé dans des légendes, avec une possible origine historique;{Q21070598};null;null;1
+Q3658341;CREATURE;personnage littéraire;type de personnage;{Q95074};null;null;5
+Q636497;;personnage type;cliché et modèle pour créer des personnages de fiction;{Q4070702, Q4897819};null;null;7
+Q27943370;;personnalité du monde de la mode;personne active dans le monde de la mode;{Q2500638};null;null;1
+Q154954;;personne physique;l'homme dans son rôle en tant que entité légale, c'est à dire en tant que détenteurs de droits et les obligations;{Q3778211, Q106559804};null;null;1
+Q207174;;personnification;figure de style;{Q1406161, Q182545, Q15619164};null;null;1
+Q2472587;CIVILISATION;peuple;ensemble d'êtres humains vivant sur le même territoire ou ayant en commun une culture, des mœurs, un système de gouvernement;{Q874405, Q16334295};null;null;8
+Q103817;CIVILISATION;peuple autochtone;peuple originaire du pays où il habite;{Q851990, Q2472587, Q41710, Q30103};null;null;2
+Q27863646;;peuple mythologique;race ou groupe de population appartenant à une mythologie;{Q33294038, Q63046488};null;null;1
+Q622454;;Peur rouge;périodes marquées par la peur du communisme;{Q44619, Q18669875};null;null;1
+Q483247;PHENOMENE;phénomène;événement observable;{Q1190554};null;null;6
+Q3382117;;phénomène chimique;phénomène qui entraîne une transformation des corps dû à une réaction chimique;{Q483247};null;null;1
+Q16332653;;phénomène météorologique;type de phénomène naturel;{Q1322005, Q58928516};null;null;2
+Q1322005;;phénomène naturel;événement observable d'origine non humaine;{Q483247};null;Q7991;2
+Q14506045;PHENOMENE;phénomène optique;type de phénomène;{Q1293220};null;Q14620;4
+Q1293220;PHENOMENE;phénomène physique;super-classe pour tous les processus;{Q16722960};null;Q413;7
+Q602884;;phénomène social;événement ou pratique impliquant un nombre significatif de personnes dans un groupe;{Q483247};null;Q34749;1
+Q1242529;LINGUISTIQUE;Philia;mot grec pour exprimer l'amitié ou la camaraderie;{Q1124198};null;null;1
+Q5891;PHILOSOPHIE;philosophie;discipline intellectuelle de réflexion et de questionnement sur le monde, la connaissance et l'existence humaine;{null};null;null;3
+Q179805;POLITIQUE;philosophie politique;philosophie qui étudie les questions relatives au pouvoir politique;{Q5891};null;null;5
+Q175854;;phobie;peur spécifique (phobie) d'une personne à un objet ou une situation;{Q544006, Q44619, Q154430, Q181032};null;null;3
+Q11976924;;phobie non-médicale;termes construits avec le suffixe -phobie employés dans un cadre non strictement clinique pour signifier une peur irrationnelle ou une haine;{Q13631330, Q3962655, Q309406, Q2729863};null;null;2
+Q81745;;physique classique;Pas de descriptions;{null};null;null;1
+Q15710020;;pièce de rangement;Pas de descriptions;{Q180516, Q9158768};null;null;1
+Q25379;;pièce de théâtre;forme littéraire destinée à être représentée au théâtre;{Q25372, Q7725634, Q110013395};null;null;2
+Q27042463;;pied trimorique;Pas de descriptions;{Q1651051};null;null;2
+Q1847641;;pilosité faciale;Pas de descriptions;{Q18534278, Q1784017, Q66544226};null;null;1
+Q160091;;plaine;espace géographique de relief presque plat;{Q271669, Q107425};null;null;1
+Q2141830;;plaisance;activité nautique pratiquée pour les loisirs;{Q184872, Q155930};null;null;1
+Q128207;PLANETE;planète tellurique;type de planète;{Q634};null;null;1
+Q1931170;;plan-séquence;forme d'une séquence à l'intérieur d'un film;{Q1352777};null;null;1
+Q3244549;;plante de fiction;Pas de descriptions;{Q30017383};null;null;1
+Q898359;;plastic;type d'explosif très puissant;{Q12870, Q11474};null;null;1
+Q14915034;;plat;partie d'un repas;{Q15989253};null;null;1
+Q28100194;;plat à base d'œuf;Pas de descriptions;{Q746549};Q93189;null;1
+Q75520;;plateau;aire géographique plate d’altitude plus ou moins élevée;{Q271669, Q3622002};null;null;1
+Q105000;;pluie de météores;type d'événement céleste;{Q751989};null;null;1
+Q5185279;LITTÉRATURE;poème;texte en vers;{Q7725634};null;null;1
+Q2572794;;poème à forme fixe;type de poèmes;{Q5185279};Q5185279;null;1
+Q182780;;poignard;arme blanche courte à simple ou double tranchant;{Q1514280};null;null;1
+Q4389726;;point;Pas de descriptions;{Q28935994, Q6917681};null;null;2
+Q23718;;point cardinal;directions du nord, du sud, de l'est et de l'ouest;{Q13179187};null;null;4
+Q3197706;;point d'acupuncture;Pas de descriptions;{null};null;null;1
+Q352328;;point d'assurage;Pas de descriptions;{Q2251595};null;null;1
+Q30046560;;point de vue philosophique;Pas de descriptions;{Q12558574};null;null;1
+Q214183;;police secrète;Pas de descriptions;{Q35535, Q47913};null;null;1
+Q7163;;politique;institutions, fonctionnement et pratique du pouvoir;{Q3482410, Q4686698, Q1914636};null;Q36442;1
+Q1156854;;politique;série de principes explicités visant à atteindre une solution choisie;{Q211364, Q17537576};null;Q3179130;3
+Q1781726;;politique conjoncturelle;ensemble de mesures de la politique économique prises par un gouvernement à court terme;{Q11821836};null;null;1
+Q3394670;;politique de prix;type de stratégie;{Q185451};Q2516951;null;2
+Q582577;;politique économique;domaine de la politique qui est concerné par la situation économique;{Q546113};null;null;2
+Q744448;;politique étrangère des États-Unis;politique menée par les États-Unis vis-à-vis des autres pays;{Q181648, Q7257952};null;null;1
+Q546113;;politique publique;action des autorités publiques;{Q1156854};null;null;1
+Q81163;COMPOSANTS;polymère;substance composé de macromolécules ayant des unités structurelles répétitives;{Q169336, Q214609};null;Q3456979;5
+Q1776037;;pommade;tipo di résine végétale;{Q40034430};null;null;2
+Q33829;SOCIOLOGIE;population;ensemble des personnes qui habitent un espace;{Q16334295, Q2625603, Q2725376};null;Q37732;26
+Q4663903;;portail Wikimédia;pages d'un wiki de Wikimédia conçues pour servir de « pages d'accueil » pour des domaines particuliers de connaissance ou d'information, ou pour des audiences et activités spécifiques. Utiliser avec P31 « nature de l'élément »;{Q14204246};null;null;1
+Q1148974;;position au basket;les positions ou postes désignent le rôle assigné à chaque joueur lors d'un match.;{Q1781513};null;null;1
+Q2221906;;position géographique;point géographique ou surface terrestre;{Q17334923};null;Q1071;2
+Q8394;CULTURE;position sexuelle;Pas de descriptions;{Q8514257, Q608};null;null;1
+Q21170479;;possibilité;la mesure dans laquelle un événement peut se produire;{Q1207505};null;null;1
+Q49845;;poste;système (ou entreprises) pour transporter les documents ou des colis;{Q7590, Q268592};null;Q1516929;1
+Q8514257;;posture;Pas de descriptions;{Q66424847};null;null;3
+Q2201314;;poule;femelle de Gallus gallus domesticus;{Q780};null;null;1
+Q25107;;pouvoir;concept sociologique;{Q18340964};null;null;1
+Q15708736;;pouvoir public;type d'organisation gouvernementale;{Q2659904, Q174834};null;null;1
+Q30028999;;pratique;usage, méthode, coutume, façon d'agir;{Q1914636, Q367293};null;null;1
+Q104255513;;pratique agronomique;Pas de descriptions;{Q104214643};null;null;1
+Q57771855;;pratique BDSM;Pas de descriptions;{Q30028999, Q1247560};Q608;null;1
+Q25257;;précipitation;Pas de descriptions;{Q283, Q1190554, Q1972098};null;null;1
+Q5767753;;prédicat honorifique;intitulé;{Q1326966};null;null;3
+Q2275640;;préférence sexuelle;type de préférence;{Q1124198};null;null;5
+Q131299;;Préfixes du Système international d'unités;préfixes désignent des multiples ou des fractions de 10 ou de 1 000;{Q15132612};null;null;3
+Q742736;;préjugé;attitude partiale qui empêche la considération objective d'un point de débat ou d'une situation;{Q12578182, Q5937752};Q86923152;null;1
+Q3409032;;prénom épicène;prénom porté par des hommes ou des femmes;{Q202444, Q1071027};null;null;1
+Q11879590;CREATURE;prénom féminin;prénom donné aux femmes;{Q202444};null;null;8
+Q12308941;;prénom masculin;classe des prénoms qui sont assignés à des hommes;{Q202444};null;null;2
+Q342868;TECHNOLOGIE;préproduction;Pas de descriptions;{Q104637332};null;null;1
+Q3402482;;Presse anarchiste;Pas de descriptions;{null};null;null;1
+Q42603;;prêtre;personne qui exerce un ministère sacré dans une religion;{Q2259532, Q1423891};null;null;1
+Q1717246;;prévention;ensemble de mesures à prendre pour prévenir certains risques;{Q1914636};null;null;1
+Q3406098;;prière catholique;priere de salomon livresagesse bible;{Q15079132};null;null;2
+Q15079132;;prière chrétienne;Pas de descriptions;{Q40953, Q2285545};null;null;1
+Q4671286;SCIENCE;principale spécialité d'étude;discipline académique à laquelle se consacre formellement un étudiant, en liaison avec enseignants et chercheurs;{Q11862829, Q627436};Q6008527;null;5
+Q211364;;principe;notion fondamentale qui doit être suivie et d'où découle d'autres choses;{Q6671777, Q1151067, Q17736};null;null;1
+Q2608811;;principe général du droit;règle de portée générale;{Q211364, Q2135465};null;null;1
+Q2057971;MEDECINE;problème de santé;condition physiologique;{Q7189713, Q621184, Q639907, Q87075524};null;null;9
+Q1920219;;problème sociétal;type de problème;{Q621184};null;null;1
+Q10843872;TECHNOLOGIE;procédé;méthode ou technique utilisée pour la réalisation d'une tâche ou la fabrication d'un matériau ou d'un produit fini;{Q104637425, Q3249551, Q1914636};null;null;11
+Q2281940;;procédé chimique;type de procédé;{Q3249551, Q17320256};null;null;1
+Q1408288;TECHNOLOGIE;procédé de fabrication;processus de la technologie de production dans lequel les produits d'autres biens sont créés;{Q10843872};Q353396;null;9
+Q898987;;procédé de séparation;type de procédé;{Q1799072, Q104637332, Q104637425};null;null;3
+Q47179108;;procédé d'impression photographique;Pas de descriptions;{Q1439691, Q10843872, Q271588, Q1408286};null;null;1
+Q15636229;MEDECINE;procédure chirurgicale;Pas de descriptions;{Q796194};null;null;2
+Q3249551;;processus;série d'événements qui surviennent sur une période de temps étendue;{Q1150070, Q20937557};null;null;9
+Q2996394;BIOLOGIE;processus biologique;transformation se déroulant dans un organisme vivant ou entre plusieurs organismes en interaction, mettant en jeux habituellement des réactions chimiques ou d'autres natures;{Q3249551, Q3249551, Q13878858, Q64732777};null;null;54
+Q1408286;TECHNOLOGIE;processus de production;procédé destiné à la production en grande quantité;{Q104637332};Q739302;null;1
+Q10928429;;processus géologique;type de processus;{Q17320256, Q1293220, Q13878858, Q2281940};null;Q1069;1
+Q781413;;processus mental;chose que les individus peuvent faire avec leur cerveau;{Q2996394, Q14912053};null;Q23373;4
+Q30892994;;processus physiologique;processus de l'activité vitale de l'organisme, assurant son intégrité et ses réactions adaptatives;{Q2996394};null;Q521;1
+Q14864472;;processus rythmique;Pas de descriptions;{Q2996394};null;null;3
+Q2305441;;processus social;manière dont l'information qui nous parvient des autres nous affectent et affectent la société en retour;{Q3249551, Q483247};null;Q21201;1
+Q500669;TECHNOLOGIE;processus technique;ensemble complet d’opérations dans une installation;{Q104637332};null;null;1
+Q7708485;;processus textile;Pas de descriptions;{Q3249551, Q1914636, Q770899};null;null;1
+Q739302;;production;Pas de descriptions;{Q3249551};Q159810;null;1
+Q2424752;PRODUIT;produit;objet manufacturé, créé par du travail;{Q2897903, Q15401930, Q28877};null;null;6
+Q951964;;produit alimentaire;produit destiné à l'alimentation;{Q2095, Q26902699, Q868404, Q2424752, Q8195619};null;null;1
+Q28640;TRAVAIL;profession;exercice par une personne d'une activité dans un domaine professionnel;{Q192581, Q12737077, Q1047113};null;null;289
+Q88789639;;profession artistique;Pas de descriptions;{Q28640};null;null;1
+Q16335296;TRAVAIL;profession historique;profession ou métier qui a cessé d'exister;{Q28640};null;null;30
+Q15987302;TRAVAIL;profession juridique;type de profession;{Q28640};null;null;10
+Q66811410;;profession médicale;vocation basée sur une formation médicale spécialisée;{Q3922583};null;null;2
+Q66715801;TRAVAIL;profession musicale;type de profession;{Q88789639};null;null;17
+Q349843;;profession paramédicale;profession de la santé (autres);{Q3922583};null;null;3
+Q40056;;programme informatique;séquence d'instructions pour ordinateur;{Q4303335, Q17638537};null;null;1
+Q15416;2D;programme télévisé;production audiovisuelle d'une certaine durée diffusée sur une chaîne de télévision;{Q11578774, Q2431196, Q7725310, Q10301427};null;null;16
+Q686822;;projet de loi;texte juridique entièrement formulée, qui est présenté aux organes délibérants pour examen et vote;{Q3918409, Q49848};null;null;1
+Q214267;;prophétie;concept des religions abrahamiques;{Q2270606, Q11024};null;null;1
+Q108163;;proposition;déclaration de ce que l'on croit;{Q11028, Q474328, Q246672};null;null;1
+Q937228;;propriété;caractéristique phénotypique (attribut ou propriété) d'un objet, qui est utilisé dans la logique, les mathématiques et la philosophie ;{Q35120};Q488383;Q5891;8
+Q3523867;;propriété des matériaux;Pas de descriptions;{Q937228};null;Q228736;2
+Q5725005;;propriété mécanique des matériaux;Pas de descriptions;{Q4373292, Q3523867};null;Q228736;1
+Q4373292;;propriété physique;Pas de descriptions;{Q937228};null;Q413;3
+Q2583685;;propulsion;production d'une énergie qui pousse en avant;{Q58778};null;null;1
+Q2251595;;protection;action ou mesure de précaution contre une menace contre une incertitude ou événements désagréables possibles;{Q1717246, Q3505845};null;null;1
+Q8054;BIOLOGIE;protéine;macromolécule biologique composée d’une ou plusieurs chaînes d'acides aminés;{Q422649, Q424689, Q3084232, Q66560214};null;Q50490180;6
+Q209495;;province de France;ancienne division territoriale en France;{Q1620908, Q34876};null;null;1
+Q11828004;TOPONYMIE;province du Canada;type de subdivision administrative du Canada;{Q107390, Q2879, Q34876};null;null;1
+Q271716;;psychologie de la personnalité;Pas de descriptions;{Q4867047, Q9418};null;null;1
+Q3706669;ELEMENTS;psychotrope;substance qui agit principalement sur l'état du système nerveux central;{Q79529, Q8386};null;null;1
+Q624902;;publicité en ligne;publicité, qui est utilisé sous différentes formes par l'intermédiaire de l'Internet;{Q37038};null;null;1
+Q1207505;;qualité;trait caractéristique qui définit une chose ou une personne;{Q937228};null;null;8
+Q100195948;;qualité relative;Pas de descriptions;{Q1207505};null;null;4
+Q123705;TOPONYMIE;quartier;zone localisée d'une petite ville ou d'un grand quartier dans une ville importante;{Q48907157, Q15642541, Q486972, Q56061};null;null;5
+Q87410915;;quartier administratif de Marseille;subdivision des arrondissements municipaux de Marseille (France);{Q22575704, Q192498};null;null;1
+Q272888;TOPONYMIE;quartier chaud;Pas de descriptions;{Q123705, Q3055075};null;null;1
+Q3394564;TOPONYMIE;quartier de Luxembourg;Pas de descriptions;{Q123705};null;null;1
+Q7540126;;quartier général;endroit où les principales fonctions d'une organisation sont concentrées;{Q17334923, Q470540, Q34120414};null;null;1
+Q38829;;race;rang taxinomique pour les animaux domestiques;{Q16889133, Q55983715};null;Q80962;1
+Q12045585;;race bovine;Pas de descriptions;{Q38829};null;null;2
+Q21521438;;race bovine française;Pas de descriptions;{Q12045585};null;null;2
+Q43577;;race de chats;type d'une race de compagnie;{Q38829};null;null;3
+Q1160573;CHEVEAUX;race de chevaux;Pas de descriptions;{Q38829};null;null;4
+Q39367;CREATURE;race de chien;Pas de descriptions;{Q38829};null;null;12
+Q3254959;;race humaine;système de classification des différences d'apparence physique entre populations humaines;{Q918036};null;Q98969570;1
+Q24286894;;race humanoïde de fiction;Pas de descriptions;{Q41597955};null;null;1
+Q15622363;;race ovine;race de mouton;{Q38829};Q7368;null;1
+Q1156402;;raisonnement;processus cognitif qui permet d'obtenir de nouveaux résultats ou bien de vérifier la réalité d'un fait en faisant appel soit à différentes « lois », soit à des expériences;{Q7184903};null;null;1
+Q486983;;rang académique;Pas de descriptions;{Q4189293, Q216353, Q3529618};null;null;1
+Q303618;;rang diplomatique;Pas de descriptions;{Q4164871, Q4120621};null;null;2
+Q427626;;rang taxinomique;niveau de taxinomie;{Q4120621};Q8269924;null;4
+Q853725;;rapport social;relation entre deux personnes ou groupes dans laquelle leur pensée, action ou sentiment est mutuellement lie;{Q930933, Q602884};null;null;1
+Q1438105;;réacteur de recherche;Pas de descriptions;{Q80877, Q483242};null;null;1
+Q36534;;réaction chimique;processus de transformation de la matière au cours duquel les espèces chimiques qui constituent la matière sont modifiées;{Q2281940};null;null;2
+Q219239;CULTURE;recette de cuisine;instructions pour préparer un plat;{Q1057179, Q41689629, Q12139612, Q12139612};null;null;3
+Q987767;COMPOSANTS;récipient;objet creux destiné à recevoir des produits;{Q8205328, Q39546, Q9158768};null;null;5
+Q245761;;rectifieuse;Pas de descriptions;{Q19768, Q12527148};null;null;1
+Q103730752;;recueil de décisions juridictionnelles;Livre contenant des décisions juridictionnelles;{null};null;null;1
+Q1279564;;recueil de nouvelles;nouvelles regroupées ensemble pour publication;{Q108329152, Q732577, Q47461344};null;null;3
+Q12106333;LITTÉRATURE;recueil de poèmes;recueil de poèmes, généralement organisé et titré par l'auteur;{Q108329788, Q732577, Q108329152};null;null;8
+Q179405;;réflexe;activité musculaire involontaire;{Q14863388};null;null;3
+Q900406;;réforme;refonte majeure d'un système inadéquat;{Q3249551};null;null;1
+Q72277;;réfraction;Pas de descriptions;{Q4366377};null;null;1
+Q474191;;régime alimentaire;Pas de descriptions;{Q2138622};null;null;1
+Q5589178;;régime politique;manière dont les pouvoirs sont organisés et exercés au sein d'une entité politique donnée;{Q28108, Q183039};null;null;2
+Q17781690;;région anatomique;type d'élément anatomique;{Q4936952, Q27062218};null;Q514;3
+Q2914565;;région autonome du Portugal;Pas de descriptions;{Q380230, Q10864048, Q20741046, Q41791733, Q1786721, Q788176};null;null;1
+Q16110;;région de l'Italie;type de subdivision administrative d'Italie;{Q2824645, Q10864048, Q3455524};null;null;3
+Q36784;;région française;division territoriale française;{Q583865, Q10864048, Q192498, Q192611, Q3455524};null;null;2
+Q1620908;TOPONYMIE;région historique;type de région ayant existé dans l'histoire;{Q82794, Q96088545, Q52551684, Q56061};null;Q1802210;2
+Q572995;TOPONYMIE;région naturelle de France;zone géographique;{Q1970725};null;null;4
+Q108306867;;registre (œuvre);caractérisé par l'émotion que cherche à produire l'œuvre;{Q1207505};Q483394;null;1
+Q286576;;registre de langue;Pas de descriptions;{Q28923954};null;null;1
+Q178673;;registre de voix;Pas de descriptions;{Q539310};null;null;1
+Q930933;;relation;général relation entre différents objets ou individus;{Q7184903};null;null;4
+Q130901;;relation binaire;tout ensemble de couples ordonnés d'éléments (du même ensemble ou de deux ensembles différents), permettant de définir des relations mathématiques entre eux;{Q203066};null;null;1
+Q223642;;relation humaine;Pas de descriptions;{Q3769299, Q853725};null;null;3
+Q1334052;;relation parent-enfant;Pas de descriptions;{Q2700595, Q2452231, Q69901743};Q720069;null;1
+Q9174;RELIGION;religion;système de pratiques et de croyances pour un groupe ou une communauté;{Q5390013, Q7257, Q49447, Q71966963, Q3702971, Q82821};Q105888744;Q34178;8
+Q1362894;;Religions de la Préhistoire;Pas de descriptions;{null};null;null;1
+Q6460735;;repas;nourriture composée de divers mets et de boisson que l'on absorbe à des heures précises de la journée;{Q15275719};null;null;2
+Q60050485;;reporting;Pas de descriptions;{Q788790};null;null;1
+Q11224256;;réseau IP;Pas de descriptions;{Q1301371};null;null;1
+Q6501028;;réservoir d'eau;Réservoir d'eau;{Q1756525, Q7973769};null;null;1
+Q903495;;résidu;partie d'une molécule qui est restée inchangée après être entrée dans la composition d'une biomolécule complexe ou d'un polymère;{Q2995644};null;null;1
+Q145205;;résine;masse solide ou visqueuse de substances chimiques naturelles ou artificielles, solides ou visqueuses;{Q34669510, Q131790, Q1726215};null;null;1
+Q37933789;;résine naturelle;résine en matière organique;{Q145205, Q37931493, Q19388114, Q76626};null;null;2
+Q138796;;résistance;mouvement qui s'oppose à l'occupation d'un pays par des forces étrangères;{Q49773, Q43229, Q9332, Q21168880};Q303132;null;1
+Q37866906;;ressource d'information;Pas de descriptions;{Q1554231};null;null;1
+Q81799;;restauration rapide;type de restauration;{Q746549, Q2095};null;null;1
+Q2995644;;résultat;conséquence d'une séquence d'actions, d'actions ou d'événements;{Q35120};Q179289;null;1
+Q44702685;;résultat de laboratoire d'analyses médicales;Pas de descriptions;{Q639907};null;null;1
+Q55091441;;résultat d'opération;résultat d'une opération;{Q2995644};null;null;1
+Q1433006;;revêtement de sol;Pas de descriptions;{Q23497974};null;null;1
+Q685935;;revue;publication périodique spécialisée;{Q41298};null;null;4
+Q3428753;;revue numérique;se distingue par le support de fabrication et lecture (le Web et l'écran, à la place de l'imprimerie et du papier) et par le moyen de diffusion (le Web et l'Internet, au lieu de la distribution physique);{Q685935, Q35127};null;null;1
+Q5633421;REVUE;revue scientifique;publication périodique de recherche scientifique;{Q685935, Q591041, Q737498};null;null;5
+Q81009;;rhétorique;l'art de l'éloquence;{Q1799072};null;Q97008347;1
+Q87075524;;risque pour la santé;type de risque;{Q104493, Q944806};null;null;1
+Q628455;TRADITION;rite;pratique sociale de caractère sacré ou symbolique;{Q82821, Q20937557};null;null;2
+Q13024547;;rite chrétien;Pas de descriptions;{Q3937326};null;null;1
+Q189819;TRADITION;rituel;actions qui sont menées en particulier en raison de sa valeur symbolique;{Q82821, Q20937557};null;null;5
+Q4022;TOPONYMIE;rivière;cours d'eau naturel;{Q55659167};null;null;35
+Q876459;;robe de cheval;couleurs d'un cheval;{Q1817674, Q1075};null;null;2
+Q82480;;roche sédimentaire;roche formée par le dépôt de matériaux apportés par érosion ou des organismes vivants;{Q8063, Q25495809};null;Q6538759;1
+Q24434794;;roi de la mythologie grecque;Pas de descriptions;{Q6949213, Q22988604};null;null;1
+Q4897819;;rôle;Pas de descriptions;{Q100195948};null;null;5
+Q214339;;rôle social;type de rôle;{Q4897819};null;null;3
+Q379754;;sac en papier;contenant fabriqué en papier;{Q1323314};null;null;1
+Q9266;;salade;mets préparé composé de feuilles d'herbes potagères crues;{Q2095, Q746549};null;null;1
+Q180516;;salle;espace situé à l'intérieur d'un bâtiment et délimité par des murs ou des cloisons;{Q1299240, Q811979, Q13226383};null;null;2
+Q8719053;;salle de concert;Pas de descriptions;{Q57660343, Q17350442};null;null;1
+Q45594;;salutation;action de saluer;{Q189819};null;null;2
+Q2537;;satellite naturel;corps solide naturel en orbite autour d'un objet de masse plus importante;{Q1297322};null;null;1
+Q163709;;satyre;créature de la mythologie grecque;{Q20902363, Q22988604};null;null;1
+Q1413287;;savoir-être;capacité de produire des actions et des réactions adaptées à l'environnement humain et écologique;{Q205961, Q527091};null;null;1
+Q3951891;;schéma métrique;représentation abstraite de la structure d'un mètre;{Q192624};null;null;1
+Q125356;PRODUIT;scie;outil servant à couper le bois ou un autre matériau;{Q11789812, Q1760958};null;null;1
+Q336;SCIENCE;science;ensemble de connaissances;{Q58778, Q9081};null;Q105467331;8
+Q28797;;science appliquée;Pas de descriptions;{Q336};null;null;1
+Q1665984;SCIENCE;science interdisciplinaire;champ interdisciplinaire établi de façon permanente de la science;{Q2465832};null;null;7
+Q12015335;;sciences de l'ingénieur;ensemble des fonctions qui mènent de la conception et des études, de l'achat et du contrôle de fabrication des équipements, à la construction et à la mise en service de produits ou d'installations techniques ou industriels;{Q2465832};null;null;2
+Q18511800;;scission;action de scinder une entité pour en former plusieurs;{Q451967, Q3249551};null;null;1
+Q31764;;scrutin de liste proportionnel;système électoral;{Q13365595, Q104833031};null;null;1
+Q860861;;sculpture;objet d'art tri-dimensionnel;{Q4502142, Q223557, Q3370053};null;null;1
+Q3958441;;secteur économique;groupement d'activités économiques;{Q58778};null;null;3
+Q2785216;;section de commune;ancienne commune en Belgique;{Q28081313, Q15623264};null;null;4
+Q173253;;sens;moyen de perception;{Q1347367};null;null;2
+Q12055124;;sens d'écriture;direction dans laquelle une écriture est tracée du début à la fin et dans laquelle elle doit être lue pour être interprétée correctement;{Q2151613};Q37260;null;1
+Q3955369;;sensation;stimulus énergétique déclenchant une perception;{Q5720030};null;null;1
+Q205555;EE;sentiment;conscience subjective d'une émotion;{Q160402};null;null;5
+Q20937557;;série;groupe ordonné d'objets de même type;{Q16887380};null;null;1
+Q14406742;ARTS;série de bande dessinée;série d'albums de bande dessinée;{Q1004, Q277759};null;null;16
+Q7058673;;série de jeux vidéo;plusieurs jeux vidéo sous le même nom;{Q28114058, Q7725310};Q28114058;null;1
+Q3965281;;série de minéraux;Pas de descriptions;{Q16889133};null;null;1
+Q15727816;;série de peintures;Pas de descriptions;{Q18573970, Q15709879};null;null;2
+Q673383;;série de timbres;type de série;{Q20937557, Q37930};null;Q131026;1
+Q19960510;;série d'estampes;série d’œuvres d'art produites au moyen d'une technique de l'estampe;{Q15709879, Q386724};null;null;2
+Q3511280;;série internationale;type de série;{Q1744559, Q106179098};null;null;1
+Q5398426;2D;série télévisée;œuvre télévisuelle qui se déroule en plusieurs parties appelées « épisodes »;{Q15416, Q7725310};null;null;18
+Q16326794;;serpent mythologique;Pas de descriptions;{Q2239243, Q4271324};null;null;3
+Q1668024;;service Internet;Pas de descriptions;{Q1640628, Q340169};null;null;1
+Q290;;sexe;spécialisation biologique d'organismes vivants entre masculin et féminin (généralement);{Q4897819};Q11990;null;2
+Q1901835;;siège du gouvernement;terme;{Q2221906, Q1497364};null;null;1
+Q188675;;signature;marque permettant d'identifier l'auteur d'un document, d'une œuvre ou la cause d'un phénomène;{Q1373131};null;null;1
+Q1441305;MEDECINE;signe clinique;indication objective d'un fait médical;{Q7189713, Q28807560};null;Q3510806;15
+Q10617810;INFORMATION;signe de ponctuation;Pas de descriptions;{Q1668151};null;Q82622;4
+Q134556;MUSIQUE;single;enregistrement musical court ne présentant qu’une seule pièce musicale, parfois deux;{Q108346082, Q16629185};null;null;5
+Q839954;;site archéologique;lieu ou groupe de sites physiques où sont préservées des preuves de l'activité préhistorique, historique ou contemporaine;{Q1291195, Q15642541, Q2221906};Q210272;Q23498;1
+Q14752696;;site archéologique romain;crée au temps des Romains;{Q41176, Q21752084, Q811979};null;null;3
+Q35127;WEB;site web;ensemble de pages web hyperliées entre elles et accessible à une adresse web;{Q1076968, Q1714118, Q19967801, Q107307154, Q108637623};null;null;1
+Q21606686;;site web scientifique;Pas de descriptions;{Q35127};null;null;1
+Q210223;COMPOSANTS;sloop;voilier ayant un seul mât, gréé en voile aurique avec un seul foc;{Q1075310};null;null;1
+Q732948;;société de vie apostolique;Pas de descriptions;{Q225446};null;null;1
+Q1392538;;société romaine;division de la société romaine en classes;{Q187588, Q189970};null;null;1
+Q955824;;société savante;association d’érudits;{Q48204, Q16519632, Q431603};null;null;1
+Q276548;;société secrète;Organisation dont les activités ou le fonctionnement interne est privé;{Q43229};null;null;1
+Q4991371;;soldat;membre des forces armées;{Q47064};null;null;2
+Q1621783;;Solennité;les plus importantes des célébrations liturgiques dans le Calendrier romain général;{Q104617403};null;null;1
+Q21073024;COMPOSANTS;solide inflammable;Pas de descriptions;{Q11438, Q1115533};null;null;2
+Q5447188;;solution;mélange homogène composé d'une seule phase;{Q12882296};null;Q2963660;1
+Q906356;;solution aqueuse;Liquide composé majoritairement d'eau dans lequel sont dissoutes une ou plusieurs espèces chimiques;{Q5447188, Q35758};null;null;2
+Q11461;;son;onde produite par la vibration mécanique d'un support fluide ou solide;{Q3882459};null;Q82811;1
+Q1146001;;source lumineuse;objet ou appareil émettant de la lumière;{Q31464082, Q13402900};null;null;1
+Q264965;CIVILISATION;sous-culture;culture revendiquée, cachée, souterraine et partagée par un groupe d'individus;{Q874405, Q11042};null;Q21201;2
+Q20076756;;sous-genre de fiction spéculative;métaclasse Wikidata;{Q108465955};null;null;3
+Q108317211;;sous-genre du roman;désigne une catégorie de roman;{Q223393};null;null;1
+Q1853398;;sous-préfecture de Guinée;subdivision administrative de Guinée;{Q3502438, Q13221722};null;null;1
+Q1047113;SCIENCES;spécialité;sujets pertinents qui font l'objet d'un domaine spécifique de la connaissance;{Q9081};Q8434;null;21
+Q930752;MEDECINE;spécialité médicale;branche de la pratique médicale;{Q2465832, Q44597158};null;null;33
+Q30109942;;spécialité paramédicale;Pas de descriptions;{Q44597158};null;null;2
+Q349;;sport;activité physique ou mentale de récréation;{Q747883, Q8187769};null;null;1
+Q644628;;sport aérien;Pas de descriptions;{Q349};null;null;1
+Q38936;;sport canin;Sport des gens avec leurs chiens;{Q349};null;null;1
+Q1188693;;sport de l'esprit;Pas de descriptions;{Q31629, Q349, Q50843134};null;null;2
+Q2755547;;sport individuel;type de sport;{Q31629};null;null;2
+Q212434;;sport olympique;sport pratiqué lors des compétitions olympiques d'hiver ou d'été;{Q349, Q51031626};null;null;1
+Q20056177;;stade de développement d'un animal;Pas de descriptions;{Q1811014, Q55597235};null;null;2
+Q385853;;standard de facto;coutume, convention, produit ou système qui détient une position dominante par l'acceptation publique ou les forces du marché;{Q317623};Q712144;null;1
+Q6313217;;standard de temps;spécification pour la mesure du temps;{Q317623};Q11471;null;1
+Q179700;SCULPTURE;statue;œuvre artistique;{Q860861};null;null;2
+Q11424100;;statut;la position d'une personne ou d'une entité parmi les autres, lui conférant des différence de traitement, dans un système sociétal.;{Q4897819};null;null;2
+Q2628882;;statut légal;Pas de descriptions;{Q214339, Q189970};null;null;2
+Q11920938;;statut marital;Pas de descriptions;{Q2628882, Q3505845};null;null;1
+Q189970;;statut social;Pas de descriptions;{Q11424100};null;null;6
+Q167172;;stéréotype;image d'un sujet dans un cadre de référence donné;{Q170084, Q1127759};null;null;2
+Q169358;;stratovolcan;volcan dont la structure est constituée de l'accumulation de coulées de lave, de tephras et/ou de pyroclastites;{Q8072, Q8502};null;null;1
+Q6671777;;structure;configuration des éléments d'un système;{Q35120};null;null;1
+Q25570959;;structure animale;Pas de descriptions;{Q4936952};Q220384;null;1
+Q811979;;structure architecturale;construction dont la conception a été pensée;{Q11908691, Q811430};null;null;1
+Q877707;;structure du marché;rencontre de l'offre et de la demande pour un bien;{Q2712963};null;Q39072;2
+Q32880;;style architectural;méthode de construction;{Q1792644};null;null;1
+Q1792644;;style artistique;type de style;{Q1792379, Q1292119};null;null;2
+Q18195680;PRODUIT;style de chaussure;Pas de descriptions;{Q12684};null;null;3
+Q109598321;;style littéraire;notion catégorielle qui s'attache à la façon dont sont employés les mots dans une oeuvre littéraire;{Q1792644, Q2243831};null;null;1
+Q17399019;;style pictural;Pas de descriptions;{Q1792379};null;null;1
+Q192401;;stylo-plume;stylo utilisant une plume, généralement métallique.;{Q165447, Q875696};null;null;1
+Q79529;CHIMIE;substance chimique;échantillon de matière de composition chimique définie et caractérisé par des propriétés physiques comme la densité;{Q43460564, Q28732711};null;Q413;6
+Q102047;;suffixe;affixe ajouté après un radical pour créer un mot;{Q62155};null;null;1
+Q26256810;;sujet;qualité;{Q20742825};null;null;1
+Q55833;;supercontinent;masse continentale comprenant plus d’un craton;{Q5107};null;null;1
+Q3977918;;supergroupe minéral;Pas de descriptions;{Q16889133};null;null;1
+Q1047698;CROYANCES;super-pouvoir;capacité exceptionnelle d'un personnage;{Q29604895, Q108060510};null;null;5
+Q133182;;superstition;croyance irraisonnée fondée sur la crainte ou l’ignorance;{Q3769299, Q1914636};null;null;1
+Q23009442;;suppression;dissociation de l'objet original avec son ancienne partie ;{Q3249551};null;null;1
+Q80837;;surnaturel;type de paranormal;{Q332102, Q21071527};null;null;2
+Q49614;IDENTITE;surnom;nom familier d'une personne, lieu ou organisation;{Q82799};null;null;1
+Q7113866;;surpopulation;Pas de descriptions;{Q2144359};null;null;1
+Q2143522;;surveillance;enregistrement, mesure, observation ou surveillance systématique d'un processus à l'aide d'outils techniques ou d'autres systèmes d'observation;{Q193181, Q18390984};null;null;1
+Q775533;;suture crânienne;Pas de descriptions;{Q17148674};null;null;2
+Q182133;;syllabaire;ensemble de symboles utilisés par une écriture syllabique;{Q16887380, Q8192};null;null;1
+Q80071;;symbole;objet qui représente quelque chose d'autre par association, ressemblance ou convention;{Q3695082, Q478798, Q2001982};null;null;1
+Q1128637;;symbole national;symbole d'une nation;{Q80071};null;null;1
+Q169872;BIOLOGIE;symptôme;signal indicatif d'une maladie ou d'une blessure;{Q2057971, Q28807560, Q7189713};Q87075524;Q3510806;11
+Q30897648;;symptôme psychopathologique;Pas de descriptions;{Q56815734, Q28807560};null;Q43387060;6
+Q179630;;syndrome;association de plusieurs caractéristiques cliniquement reconnaissables;{Q7189713, Q12136, Q169872};null;null;4
+Q56815734;;syndrome psychopathologique;Pas de descriptions;{Q179630, Q12135};null;Q43387060;2
+Q2471463;;syntaxon;Pas de descriptions;{Q16889133};null;null;1
+Q557685;;système;compilation prévue de machines ou d'appareils (même dans les petits espaces);{Q13226383};null;null;1
+Q5962346;;système de classification;système organisé et hiérarchisé de catégorisation d’objets;{Q6423319};null;Q199655;2
+Q266328;;système de fixation;méthodes d'assemblage des structures de génie;{Q2695280};null;null;1
+Q273005;;système économique;type de système;{Q1639378};null;null;2
+Q28108;;système politique;mode d'organisation d'un État;{Q1639378};Q7163;null;3
+Q7895;;système reproducteur;ensemble d'organes permettant la reproduction;{Q188193};null;null;1
+Q2000344;;tactique;mise en oeuvre rationnelle de l'action;{Q1799072};null;null;1
+Q207645;;tactique militaire;Pas de descriptions;{Q2000344};null;null;1
+Q736288;;tarif;prix standardisé, ou contract (pour un certain produit) standardisé par le fournisseur;{Q160151, Q8161};null;null;1
+Q184940;;tauromachie;art d’affronter le taureau;{Q15116915, Q1929372};null;null;1
+Q16521;CREATURE;taxon;entité conceptuelle de la taxinomie regroupant des organismes vivants possédant certains caractères communs;{Q21871294};null;null;505
+Q98961713;;taxon éteint;Pas de descriptions;{Q16521};null;null;1
+Q23038290;CREATURE;taxon fossile;taxon décrit à partir de matériel fossile;{Q16521, Q98961713};Q40614;null;8
+Q310890;CREATURE;taxon monotypique;taxon contenant 1 seul taxon immédiatement inférieur;{Q16521};null;null;4
+Q2695280;TECHNOLOGIE;technique;procédé de fabrication, savoir-faire;{Q1914636, Q3249551, Q12894677};null;Q11016;10
+Q11177771;ARTS;technique artistique;type de technique en art;{Q2695280};null;null;14
+Q1001378;ARTS;technique cinématographique;type de technique;{Q11177771, Q11016};null;null;4
+Q3516833;;technique d'animation;type de technique cinématographique;{Q1001378};null;null;2
+Q811906;;technique de construction;Pas de descriptions;{Q2695280};Q385378;null;1
+Q1039303;CUISINE;technique de cuisson;Pas de descriptions;{Q1799072};Q38695;null;11
+Q5455089;;technique de pêche;Pas de descriptions;{Q2695280};null;null;1
+Q21711025;ARTS;technique de sculpture;Pas de descriptions;{Q11177771};Q11634;null;2
+Q10428845;ARTS;technique narrative;méthode utilisée pour porter la narration d'une fiction;{Q11177771};Q3328821;Q382451;1
+Q1439691;PHOTOGRAPHIE;technique photographique;Tous les dispositifs non artistiques, méthodes et procédés qui sont utilisés dans la photographie et de la technologie du cinéma et de la technologie vidéo;{Q26904132};Q11633;null;5
+Q1231896;;technique picturale;techniques qui permettent de peindre, et ce, de manière différente;{Q26904132};null;null;7
+Q3918374;;technique scientifique;type de technique;{Q2695280};Q336;null;2
+Q3516862;MUSIQUE;technique vocale;Pas de descriptions;{Q109659725};Q1063547;null;2
+Q671832;;techniques de vente;ensemble des méthodes permettant d'augmenter les ventes du commercia;{Q194189};null;null;1
+Q26904132;ARTS;techniques de visualisation;Pas de descriptions;{Q11177771};null;null;3
+Q11016;;technologie;science, étude ou recensement des techniques, des machines ou des outils;{Q28797};null;null;4
+Q1055307;TECHNOLOGIE;technologie de fiction;type de technologie;{Q108060510};null;null;1
+Q506240;FILM;téléfilm;film ou production particulièrement destiné à une diffusion télévisée;{Q11424, Q15416};null;null;6
+Q1238291;;télescope solaire;Pas de descriptions;{Q4213};null;null;1
+Q11466;;température;grandeur physique;{Q181175, Q3387041};null;null;1
+Q11471;;temps;dimension dans laquelle les événements peuvent être ordonnés du passé au présent, vers le futur;{Q20937557, Q3054889};null;Q1754940;1
+Q3517779;;Temps liturgique;Pas de descriptions;{Q51617, Q2692606};null;null;2
+Q1514415;;tendance;phénomène sociologique;{Q1150070};null;null;1
+Q1393724;POLITIQUE;tendance politique;sous-groupe d'un parti ou d'une autre organisation politiquement active au sens le plus large;{Q7210356};null;null;4
+Q1969448;;terme;mot ou expression;{Q151885, Q2944660};null;Q1725664;20
+Q210588;;terme générique;terme qui est une catégorie de sous-termes;{Q151885};null;null;4
+Q16874643;;terme juridique;Pas de descriptions;{Q1969448, Q2135465};null;null;2
+Q19610271;;terme littéraire;type de terme;{Q1969448};Q8242;null;2
+Q52193405;TECHNOLOGIE;terme médical;Pas de descriptions;{Q12812139};Q11190;null;3
+Q66740226;TECHNOLOGIE;terme militaire;mot ou phrase utilisé dans la terminologie militaire;{Q12812139};Q1791716;Q3491429;1
+Q20202269;MUSIQUE;terme musical;mot associé au domaine de la musique;{Q12812139};Q638;null;25
+Q1371427;;terme péjoratif pour désigner une nationalité;Pas de descriptions;{Q4460810, Q1137656, Q81639};null;null;4
+Q66762677;;terme politique;mot ou expression relevant du vocabulaire politique;{Q1969448, Q66746920};Q7163;null;1
+Q12812139;;terme technique;mot ou expression avec une définition technique;{Q1969448};null;null;12
+Q59913930;;terme technique musical;Pas de descriptions;{Q12812139, Q20202269};null;null;2
+Q77468620;;terminologie de la psychologie;terminologie;{Q12132640};Q9418;null;1
+Q3491429;;terminologie militaire;Pas de descriptions;{Q1725664, Q192386};Q8473;null;1
+Q11875349;;terrain de jeux;espace regroupant un ou plusieurs jeux pour enfants;{Q811430, Q17334923, Q22746};null;null;1
+Q641406;;terrasse;élément de l'architecture d'un bâtiment;{Q217164, Q811979, Q1454694};null;null;1
+Q11081619;;terre;surface solide de la Terre qui n’est pas recouverte en permanence d’eau;{Q205895};null;null;1
+Q15239622;;territoire disputé/contesté;territoire, qui est controversé entre deux ou plusieurs États existants;{Q15642566, Q183366};null;null;1
+Q191992;;tête;type de promontoire s'étendant dans un plan d'eau;{Q1245089, Q34763};null;null;1
+Q179461;;texte sacré;écrit est en relation avec le divin,;{Q12617225, Q49848};null;null;3
+Q24354;;théâtre;salle de théâtre;{Q57660343, Q17350442};null;null;1
+Q11635;;théâtre;art du théâtre;{Q184485};null;null;1
+Q1406161;ARTS;thème artistique;Pas de descriptions;{Q11028, Q20742825};null;null;3
+Q17737;;théorie;ensemble d'explications, de notions ou d'idées sur un sujet précis;{Q151885};null;null;4
+Q1401304;;théorie économique;une des composantes de la science économique;{Q17737};null;Q8134;1
+Q58927801;;théorie éthique;Pas de descriptions;{Q5389993};Q9465;null;1
+Q7256338;;théorie psychanalytique;théorie de l'organisation de la personnalité développée par Sigmund Freud;{Q20679883};null;null;2
+Q3239681;THEORIE;théorie scientifique;type de théorie;{Q10862338, Q17737};null;null;1
+Q1990987;;théorie sociale;le cadre analytique, ou paradigme, utilisé pour étudier et interpréter les phénomènes sociaux;{Q5389993};null;null;2
+Q179661;MEDECINE;thérapie;mesures pour le traitement des maladies et des lésions;{Q796194, Q26256310, Q31207};null;null;3
+Q31338769;;thérapie non conventionnelle;type de thérapie;{Q179661};null;null;6
+Q1314278;;tissu tissé;type de tissu;{Q5849500};null;null;1
+Q7810129;TITRE;titre d'autorité;Pas de descriptions;{Q216353};null;null;2
+Q216353;IDENTITE;titre de civilité;préfixe ou suffixe ajouté au nom d'un individu dans certains contextes;{Q82799, Q618779};null;null;8
+Q355567;TITRE;titre de noblesse;privilège légal distinguant les membres de la noblesse dans les sociétés monarchiques;{Q216353, Q4189293, Q187588};null;null;31
+Q11488158;;titre d'entreprise;Pas de descriptions;{Q4164871, Q828803, Q28640};null;null;1
+Q2642184;;titre des saints orthodoxes;Pas de descriptions;{Q15978876};null;null;2
+Q11773926;;titre ecclésiastique;Pas de descriptions;{Q216353, Q4120621, Q4164871, Q63187345, Q4189293, Q480319};null;null;7
+Q3320743;IDENTITE;titre honorifique;titre attribué à des individus ou des organismes en reconnaissance de leurs mérites;{Q4189293, Q618779, Q216353};null;null;8
+Q7884789;;toponyme;nom de lieu;{Q60595545, Q10816094, Q147276};null;Q485762;1
+Q44529188;;town;type de municipalité à Terre-Neuve-et-Labrador;{Q3788231};null;null;1
+Q638123;;trade-off;situation qui implique des concessions réciproques;{Q16513426, Q254128};Q36829;null;1
+Q82821;;tradition;transmission continue d'un contenu culturel à travers l'histoire;{Q251777, Q109810475};null;null;1
+Q717040;TRADITION;tradition de Noël;Pas de descriptions;{Q82821};Q19809;null;1
+Q86860;;traduction de la Bible;Pas de descriptions;{Q39811647};null;null;1
+Q2393196;EE;trait de personnalité;différence caractéristique entre des individus;{Q1207505};Q641118;Q18773;6
+Q1211967;;trait phénotypique;variation d'un caractère phénotypique;{Q1207505};null;null;1
+Q131569;;traité;contrat conclu entre plusieurs sujets de droit international;{Q2635077, Q321839, Q49848, Q1151067, Q820655};null;null;1
+Q625298;;traité de paix;accord entre deux ou plus parties hostiles pour mettre fin à une guerre;{Q131569};null;null;1
+Q2097208;;transculturation;Pas de descriptions;{Q3249551};null;null;1
+Q65757353;;transformation;processus impliquant le changement en une forme qualitativement différente;{Q1150070};null;null;1
+Q185357;;transition de phase;transitions entre états de la matière : solide, liquide et gazeux et plus rarement plasmatique;{Q7783163, Q2956046, Q65757353, Q7798100};null;Q11473;3
+Q193078;;traumatisme;dommage ou choc provoqué par une blessure physique;{Q2057971, Q481609};null;null;1
+Q192581;;travail;position sociale;{Q8187769, Q6958747};null;null;1
+Q29430681;;triade;groupe ou suite de trois entités;{Q28813620};null;null;1
+Q133311;CIVILISATION;tribu;formation sociale existant avant la formation de l'État;{Q41710, Q874405, Q1063239};null;null;5
+Q7840353;;tribu autochtone américaine;Pas de descriptions;{Q12885585, Q49297, Q3624078, Q27096213};null;null;1
+Q3451071;;Trinité;Pas de descriptions;{Q29430681};null;null;1
+Q1414262;;trio avec piano;composition musicale destinée à être interprétée par un piano et deux instruments mélodiques (généralement un violon et un violoncelle, mais d'autres combinaisons sont possibles);{Q1746015, Q29596700};null;null;1
+Q191469;;Trogonidae;Oiseaux;{null};null;null;1
+Q2627467;;trouble dissociatif;Pas de descriptions;{Q12135, Q18663};null;null;1
+Q12135;PSYCHOLOGIE;trouble mental;trouble psychologique ou comportemental;{Q12136};null;null;6
+Q3339235;;trouble neurologique;trouble du système nerveux du corps;{Q18557436};null;null;1
+Q133212;;tumeur;augmentation de volume d'un tissu au sein d'un organisme supérieur, sans précision de cause;{Q1216998};null;null;1
+Q21146257;;type;Pas de descriptions;{Q16889133};null;null;3
+Q45296117;;type d'aéronef;Pas de descriptions;{Q21146257};null;null;1
+Q104018785;MEDECINE;type d'attribut médical;type ou famille d'attributs médicaux;{Q103995117};null;null;1
+Q16103215;BATEAUX;type de bateau;classification de bateaux;{Q16335899, Q2235308};null;null;10
+Q22811462;;type de bien manufacturé;métaclasse de premier ordre;{Q21146257};null;null;1
+Q1998962;ALIMENT;type de bière;Pas de descriptions;{Q22811462};null;null;4
+Q864866;;type de biotope;Pas de descriptions;{Q16889133};null;null;1
+Q1493054;;type de bois;Bois des essences respectives;{Q16889133, Q214609};null;null;3
+Q56887437;;type de bus;Pas de descriptions;{Q21522908};Q5638;null;3
+Q15729598;;type de carrosserie;forme du véhicule (design);{Q1437361};Q1588072;null;5
+Q41362222;;type de carte géographique;Pas de descriptions;{Q21146257, Q483394};null;null;1
+Q189118;BIOLOGIE;type de cellule;Pas de descriptions;{Q103813670, Q104852483};null;null;14
+Q107356781;;type de chanson;métaclasse Wikidata;{Q21146257, Q16889133, Q1207505};null;null;1
+Q38672;CREATURE;type de chien;Pas de descriptions;{Q2625603};null;null;5
+Q20655548;;type de coureur cycliste sur route;Pas de descriptions;{Q1781513};null;null;2
+Q107357104;DANSE;type de danse;Pas de descriptions;{Q21146257, Q16889133, Q483394, Q1292119, Q45971958};null;null;20
+Q44580842;MEDECINE;type de dispositif médical;métaclasse de premier ordre;{Q103995117};null;null;7
+Q15617994;TOPONYMIE;type de division administrative;type des divisions administratives dans les administrations des États du monde entier;{Q217594, Q12047392, Q104098715};null;null;15
+Q47279819;;type de fonction mathématique;Pas de descriptions;{Q21146257};Q11348;null;1
+Q28149961;;type de fruit;Pas de descriptions;{Q21146257};null;null;1
+Q96247293;;type de gestion;métaclasse Wikidata;{Q21146257};null;null;1
+Q105756498;MUSIQUE;type de groupe musical;type de groupe musical, défini par le gent, l'instrumentation, ou d'autres critères;{Q16889133};null;null;7
+Q4894405;;type de journalisme;type de presse, branche du journalisme;{Q483394, Q11030};null;null;3
+Q25894868;;type de lieu;type d'environnement (instances: mer, sol, espace);{Q21146257};null;null;2
+Q17155032;;type de logiciel;métaclasse de logiciel;{Q16889133};null;null;3
+Q42014143;MEDECINE;type de mesurande biomédicale;Pas de descriptions;{Q104018785};null;null;7
+Q63354;;Type de motocyclettes;classifications de véhicule;{Q11723891};null;null;2
+Q2235308;BATEAUX;type de navire;ensemble de navires ayant des fonctions semblables;{Q16335899};null;null;50
+Q22675015;ELEMENTS;type de particule quantique;Pas de descriptions;{Q21146257};null;null;12
+Q3546121;;type de pâte de fromage;Pas de descriptions;{Q19861951};Q10943;null;1
+Q2625877;ALIMENT;type de pâtes;Pas de descriptions;{Q63981612, Q951964};Q178;null;7
+Q786753;;type de personnalité;Pas de descriptions;{Q21146257};null;null;2
+Q2355817;;type de plante;Pas de descriptions;{Q422742, Q21871294};null;null;2
+Q19861951;CUISINE;type de préparation culinaire;Pas de descriptions;{Q16889133};null;null;16
+Q55214844;MEDECINE;type de procédure médicale;métaclasse de premier ordre;{Q103995117};null;null;6
+Q96253971;;type de propriété;Pas de descriptions;{Q21146257};null;null;3
+Q96758092;;type de régulation et de contrôle;Pas de descriptions;{Q21146257};null;null;2
+Q10926413;;type de sol;Métaclasse (géologie);{Q21146257, Q16889133};Q12058421;null;2
+Q31629;SPORT;type de sport;activité sportive spécifique;{Q16889133};null;null;48
+Q103907369;;type de substance biogénique;Pas de descriptions;{Q103820425};null;null;5
+Q7860962;;type de voie;Pas de descriptions;{Q21146257};Q34442;null;5
+Q1063547;MUSIQUE;type de voix;Pas de descriptions;{null};null;null;4
+Q44409287;COMPOSANTS;type d'élément de machine;type ou famille d'un élément de machine;{Q21146257};Q839546;null;4
+Q16335899;;type d'embarcation;classification des toutes les véhicules aquatiques;{Q16889133};Q1229765;null;4
+Q60029820;;type d'habitat de la directive habitats;habitat protégé conformément à l'annexe I de la directive habitats de l'UE;{Q16889133};null;null;2
+Q96251598;;type d'objet;métaclasse Wikidata;{Q21146257};null;null;1
+Q17444909;COMPOSANTS;type d'objet astronomique;métaclasse de premier ordre;{Q16889133, Q96251598};null;null;10
+Q107487333;MUSIQUE;type d'oeuvre/composition musicale;Metaclasse Wikidata;{Q21146257};null;null;17
+Q716676;;type d'ordinateur;Pas de descriptions;{Q16889133};null;null;1
+Q103812529;COMPOSANTS;type d'organe;Pas de descriptions;{Q103813670};null;null;17
+Q17197366;;type d'organisation sociale ou d'une structure;forme d'organisation d'une société, d'une entreprise, d'après les relations entre ses membres;{Q16889133};null;null;1
+Q23905069;;type d'unité militaire;Pas de descriptions;{Q62934160};Q15627509;null;1
+Q15700808;;type d'unité urbaine;classe des variantes des définitions d'unité urbaines;{Q15709883};null;null;1
+Q7887142;;unité d'analyse;principale entité analysée dans le cadre d'une étude;{Q4330518, Q2198779};null;null;1
+Q223662;;unité de base du Système international;sept unités fondamentales;{Q61610698, Q69197847, Q810225};null;null;3
+Q78754808;THEORIQUE;unité de comptage;Pas de descriptions;{Q47574};null;null;1
+Q1978718;THEORIQUE;unité de longueur;unité de mesure physique d'une longueur;{Q47574};null;null;9
+Q3647172;THEORIQUE;unité de masse;unité physique qui mesure la masse;{Q47574};null;null;3
+Q47574;THEORIQUE;unité de mesure;grandeur scalaire réelle à laquelle on peut comparer toute autre grandeur de même nature pour exprimer le rapport des deux grandeurs sous la forme d'un nombre;{Q39875001};null;null;2
+Q2916980;THEORIQUE;unité de mesure d'énergie;Pas de descriptions;{Q47574};null;null;2
+Q3550873;THEORIQUE;unité de mesure en informatique;type d'unité de mesure;{Q47574};null;null;2
+Q4173969;THEORIQUE;unité de pression;unité de mesure de la pression;{Q47574};null;null;1
+Q10387689;THEORIQUE;unité de puissance;Pas de descriptions;{Q47574};null;null;2
+Q1371562;THEORIQUE;unité de surface;Pas de descriptions;{Q47574};null;null;2
+Q1790144;THEORIQUE;unité de temps;unité de mesure;{Q47574};null;null;11
+Q1302471;THEORIQUE;unité de volume;unité de mesure;{Q47574};null;null;11
+Q50323322;THEORIQUE;unité d'éclairement;Pas de descriptions;{Q47574};null;null;1
+Q208469;THEORIQUE;unité dérivée du Système international;unité de mesure dérivée du Système international;{Q61610698};null;null;3
+Q17342348;THEORIQUE;unité logarithmique;Pas de descriptions;{Q47574, Q126818, Q11197};null;null;1
+Q176799;THEORIQUE;unité militaire;partie organisée d'une force armée;{Q9261468, Q17149090, Q15627509, Q781132};Q15627509;null;4
+Q12813115;TOPONYMIE;unité urbaine suédoise;agglomération d'après la définition Suédoise : population > 200, moins de 200 m entre les bâtiments …;{Q6566301, Q702492};null;null;3
+Q36906466;;univers;classe dont notre univers est une instance, ainsi que les univers parallèles s'ils existent;{Q1454986, Q16686022};null;null;1
+Q1724915;;usage;utilisation d'une ressource pour remplir une tâche;{Q451967, Q937228};null;null;2
+Q1308274;;usage linguistique;façon par laquelle une langue est réellement utilisée, comme les régionalismes, jargons, formes vernaculaires, etc. et donc opposée aux modèles formels ou idéaux prescriptifs;{Q1724915};null;Q865083;2
+Q1357761;;ustensile;Pas de descriptions;{Q223557};null;null;1
+Q154038;PRODUIT;ustensile de cuisine;pots, marmites, poêles, sauteuses, casseroles, cocottes, faitouts, moules à manqué, à tarte, à cake, à charlotte, à savarin, etc.;{Q1521410, Q987767};null;null;1
+Q18343316;2D;utilitaire UNIX;programme informatique utilisé sous les systèmes d'exploitations de type UNIX;{Q1461523, Q1079196, Q30059018};null;null;1
+Q851782;PRODUIT;vaisselle;ensemble des ustensiles utilisés pour manger, stocker et présenter les aliments;{Q22809652, Q1521410};null;null;1
+Q194112;;valeur;principe moral d'une grande philosophie élaborée;{Q211364};null;null;1
+Q54928607;;valeur anormalement basse;Pas de descriptions;{Q614112, Q66650077};Q1626599;null;7
+Q63345803;;valeur anormalement haute;Pas de descriptions;{Q614112, Q66650077};Q1626599;null;7
+Q39816;;vallée;dépression géographique de forme allongée, souvent traversée par un cours d'eau;{Q271669, Q82794, Q22978151, Q35145263};null;null;1
+Q429795;;variété de minéral;de pierre préciese;{Q16889133};null;null;7
+Q20898395;PRODUIT;variété de poire;Pas de descriptions;{Q1363241, Q4886};null;null;1
+Q15731356;PRODUIT;variété de pomme de culture;cultivar de pomme;{Q1363241, Q4886, Q2095};null;null;2
+Q16682342;PRODUIT;variété de pommes de terre;Pas de descriptions;{Q10998, Q1363241, Q4886, Q4150646};null;null;1
+Q1363241;PRODUIT;variété végétale;variant d'une espèce cultivée;{Q756, Q4886};null;null;1
+Q42889;PRODUIT;véhicule;engin mobile qui permet de déplacer des personnes ou des charges;{Q1408229, Q11019, Q987767, Q106839123};null;null;2
+Q11821162;PRODUIT;véhicule à chenille;Pas de descriptions;{Q1301433, Q752870};null;null;1
+Q97408605;PRODUIT;véhicule motorisé agricole;véhicule motorisé utilisé en agriculture;{Q752870, Q16000047};null;null;2
+Q8094;;vent;mouvement au sein d'une atmosphère;{Q16332653};Q11663;null;1
+Q1930620;;versification;ensemble des techniques employées dans l'expression poétique traditionnelle;{Q6671777, Q1047113};null;null;1
+Q3331189;;version, édition ou traduction;version spécifique d'une œuvre résultant de l'édition d’un ouvrage, de l'adaptation d’une œuvre ou de sa traduction;{Q286583, Q386724, Q732577};Q16388;Q1285373;2
+Q157811;;vertu;qualité;{Q31172650};null;null;19
+Q904802;;vertus cardinales;quatre vertus identifiées depuis Platon;{Q157811, Q58778};Q5043;null;1
+Q1147007;;vertus théologales;vertu selon la théologie chrétienne;{Q157811};Q5043;null;1
+Q11460;PRODUIT;vêtement;article d’habillement servant à couvrir une partie du corps humain;{Q386724, Q2424752, Q223557, Q28877};null;Q105812644;1
+Q19978874;;vêtement liturgique;Pas de descriptions;{Q2490224, Q5064153, Q29000407};null;null;1
+Q1411242;;vice;penchant devenu habitude que la morale réprouve;{Q1299714, Q31172650};null;null;3
+Q22715;;vignoble;parcelle agricole plantée de vignes;{Q188913};null;null;1
+Q3558198;;Vignoble du Beaujolais;région viticole;{null};null;null;1
+Q23012917;TOPONYMIE;village;type d'entité géographique au Burkina Faso;{Q56061, Q532};null;null;5
+Q532;TOPONYMIE;village;agglomération rurale caractérisée par un habitat plus ou moins concentré;{Q10354598, Q175185, Q3257686, Q103910453};null;null;9
+Q28328984;TOPONYMIE;village d'Arménie;Pas de descriptions;{Q532, Q3685430};null;null;1
+Q3558970;TOPONYMIE;village de Pologne;village situé en Pologne;{Q532, Q855451, Q14757767};null;null;2
+Q3559024;TOPONYMIE;village du Sénégal;Pas de descriptions;{Q3502496, Q532};null;null;1
+Q515;TOPONYMIE;ville;agglomération, avec souvent une population de plusieurs dizaines de milliers d'habitants;{Q7930989, Q702492};null;Q23578769;13
+Q7930989;TOPONYMIE;ville;localité à forte population;{Q486972, Q3257686, Q56061, Q1048835};null;null;3
+Q27676416;TOPONYMIE;ville;type de municipalité locale au Québec;{Q3327873, Q7930989, Q1048835};null;null;1
+Q29946056;TOPONYMIE;Ville fortement urbanisée;Classification des villes des Philippines;{Q104157};null;null;1
+Q56557504;TOPONYMIE;ville iranienne;ville et type de division administrative iranienne;{Q2726038, Q7930989};null;null;1
+Q1852859;TOPONYMIE;ville ou village des Pays-Bas;zone de population officiellement désignée des Pays-Bas;{Q4632675, Q1496967};null;null;1
+Q1070990;TOPONYMIE;ville-district;Pas de descriptions;{Q1289426, Q15253706, Q4286337};null;null;1
+Q282;PRODUIT;vin;boisson alcoolisée obtenue par la fermentation du raisin;{Q154};null;null;2
+Q28829877;SPORT;vocabulaire sportif;terminologie utilisée en sport;{Q1391494};Q349;null;4
+Q621636;MEDECINE;voie d'administration;méthode d'entrée d'une substance dans un organisme;{Q2695280};null;null;1
+Q83620;TECHNOLOGIE;voie de communication;axe de transport connectant un lieu à un autre;{Q294440, Q27955379, Q1826691, Q2874718};null;null;2
+Q170483;BATEAUX;voilier;navire qui est alimenté par l'énergie éolienne;{Q11446, Q8023902};null;null;1
+Q178559;CREATURE;volaille;animal de basse-cour élevé pour sa chair ou ses œufs;{Q57815212, Q2095};null;null;2
+Q23956024;;volume spatio-temporel;classe contenant les ensembles de points quadri-dimensionnels (volumes) dans l'espace-temps physique;{Q58415929};null;null;1
+Q189760;;vote;méthode de prise de décision;{Q1656682, Q388791, Q1864008, Q39971877};null;null;1
+Q61509;ENVIRONNEMENT;voyage;déplacement d'un lieu à un autre;{Q79782, Q451967};null;null;1
+Q8011595;CROYANCE;voyance;art divinatoire consistant à prédire l'avenir, généralement d'un individu;{Q189819};null;null;1
+Q16829513;;Werkstoff;terme allemand: matériaux qui sont traités dans les processus de production et entrent dans les produits finaux;{Q214609};null;null;1
+Q258534;;winch;équipement de voilier;{Q173878};null;null;1
+Q16398;;Xérès;région viticole;{Q1626612, Q1432594};null;null;1
+Q146978;;Zanni;Pas de descriptions;{Q15632617, Q3375722};null;null;1
+Q1620186;BIOLOGIE;zone du cerveau;Pas de descriptions;{Q27162500};null;null;5
+Q82794;GEOGRAPHIE;zone géographique;espace physique (surface ou volume), surtout utilisé dans les sciences de la Terre et en astrophysique;{Q618123, Q2221906};null;Q817121;5
+Q1149061;LINGUISTIQUE;zone linguistique;Pas de descriptions;{Q82794, Q1496967};null;null;1
+;;;;;;;0

@@ -1,0 +1,39 @@
+Lien : 
+https://www.chillyfacts.com/java-send-http-getpost-request-and-read-json-response/
+
+		String url = "https://fr.wikipedia.org/w/api.php?action=query&format=json&prop=pageprops&list=&meta=&indexpageids=1&titles=&generator=search&ppcontinue=&ppprop=wikibase_item&gsrsearch=Pompier&gsrnamespace=0&gsrlimit=1&gsrqiprofile=classic&gsrprop=size%7Cwordcount%7Ctimestamp%7Csnippet&gsrsort=relevance";
+	     URL obj = new URL(url);
+	     HttpURLConnection con = (HttpURLConnection) obj.openConnection();
+	     // optional default is GET
+	     con.setRequestMethod("GET");
+	     //add request header
+	     con.setRequestProperty("User-Agent", "Mozilla/5.0");
+	     int responseCode = con.getResponseCode();
+	     //System.out.println("\nSending 'GET' request to URL : " + url);
+	     //System.out.println("Response Code : " + responseCode);
+	     BufferedReader in = new BufferedReader(
+	             new InputStreamReader(con.getInputStream()));
+	     String inputLine;
+	     StringBuffer response = new StringBuffer();
+	     while ((inputLine = in.readLine()) != null) {
+	     	response.append(inputLine);
+	     }
+	     in.close();
+	     //print in String
+	     //System.out.println(response.toString());
+	     //Read JSON response and print
+	     JSONObject myResponse = new JSONObject(response.toString());
+	     JSONObject query = myResponse.getJSONObject("query");
+	     //JSONObject pageids = query.getJSONObject("pageids");
+	     JSONArray pageids = query.getJSONArray("pageids");
+	     String pageid = pageids.getString(0);
+	     
+	     JSONObject pages = query.getJSONObject("pages");
+	     JSONObject P1 = pages.getJSONObject(pageid);
+	     String titre = P1.getString("title");
+	     
+	     JSONObject pageprops = P1.getJSONObject("pageprops");
+	     String wikibase_item = pageprops.getString("wikibase_item");
+	     
+	     System.out.println("Page id : "+pageid +"\n"+"Titre de la page :"+titre+"\n"+"WikiData : "+wikibase_item);
+	     

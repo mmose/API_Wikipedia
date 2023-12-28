@@ -1,0 +1,2 @@
+48285 lignes totales
+Répartisseur = 3219 lignes * 15 fichiers

@@ -1,0 +1,5 @@
+        	/*Statement statement = connection.createStatement();
+            ResultSet resultSet = statement.executeQuery("SELECT * FROM public.dictionnaire WHERE title='Hématologue' ");
+            while (resultSet.next()) {
+                System.out.println("Titre : "+resultSet.getString(2));
+            }*/

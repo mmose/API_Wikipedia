@@ -1,0 +1,3 @@
+wikipediaFR-Pack41.csv PAS FINI. Arret ligne : 1814
+wikipediaFR-Pack46.csv PAS FINI. Arret ligne : 2274
+wikipediaFR-Pack49.csv PAS FINI. Arret ligne : 3031
